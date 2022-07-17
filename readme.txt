@@ -1,6 +1,6 @@
 I'm interested in various fields such as Software Engineering, Hardware Engineering, Database Structures,
 Artificial Intelligence, Neural Networks and the Linux Kernel.
 
-I'm currently learning how to do all of those using languages like Java, JavaScript, Python, C++, PHP and EDA software like KiCAD. I write using VS Code.
+I'm currently learning how to code in HTML+CSS, JavaScript, Python, C, C++, C# and Java. I type using VS Code and I build on KiCAD.
 
 Just using this place as a personal repo for projects.
