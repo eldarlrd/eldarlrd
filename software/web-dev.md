@@ -102,43 +102,43 @@
 ---
 
 ### React
-# Guide
+##### Guide
 - [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
 
-# Helpers
+##### Helpers
 - [Atomic Design](https://danilowoz.com/blog/atomic-design-with-react)
 - [React Best Practices](https://freecodecamp.org/news/best-practices-for-react)
 - [React Context](https://freecodecamp.org/news/react-context-for-beginners)
 
-# State Management
+##### State Management
 - [Redux Toolkit](https://redux-toolkit.js.org) :white_check_mark:
 - [Zustand](https://docs.pmnd.rs/zustand)
 - [Jotai](https://jotai.org/docs/introduction)
 - [Recoil](https://recoiljs.org)
 
-# API Query
+##### API Query
 - [React Query](https://npmjs.com/package/react-query)
 - [Redux Toolkit Query](https://redux-toolkit.js.org/rtk-query/usage/queries)
 
-# Forms
+##### Forms
 - [React Hook Form](https://react-hook-form.com)
 - [Formik](https://formik.org)
 
-# Text Editor
+##### Text Editor
 - [Slate](https://docs.slatejs.org)
 - [Plate](https://platejs.org/docs)
 
-# Routing
+##### Routing
 - [React Router](https://reactrouter.com) :white_check_mark:
 - [Reach Router](https://reach.tech/router)
 
-# Data Fetching
+##### Data Fetching
 - [SWR](https://swr.vercel.app)
 
-# Head Manager
+##### Head Manager
 - [React Helmet](https://github.com/nfl/react-helmet)
 
-# Framework
+##### Framework
 - [Remix](https://remix.run)
 - [Next.js](https://nextjs.org)
 - [Blitz](https://blitzjs.com)
