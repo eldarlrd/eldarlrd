@@ -1,13 +1,16 @@
 # Web Development
+**Here you'll find a compilation of interesting and useful technologies that I've heard or read about while studying.**
+
+**The :heavy_check_mark: is appended to those that have been tried by me.**
 ## JavaScript
 #### Bundler
-- [webpack](https://webpack.js.org) :white_check_mark:
-- [Vite](https://vitejs.dev) :white_check_mark:
+- [webpack](https://webpack.js.org) :heavy_check_mark:
+- [Vite](https://vitejs.dev) :heavy_check_mark:
 - [Parcel.js](https://parceljs.org)
 
 #### Compiler
-- [Babel](https://babeljs.io) :white_check_mark:
-- [SWC](https://swc.rs) :white_check_mark:
+- [Babel](https://babeljs.io) :heavy_check_mark:
+- [SWC](https://swc.rs) :heavy_check_mark:
 
 #### Module Loader
 - [RequireJS](https://requirejs.org)
@@ -16,8 +19,8 @@
 - [Flow](https://flow.org)
 
 #### Libraries
-- [jQuery](https://jquery.com) :white_check_mark:
-- [Underscore](https://underscorejs.org) :white_check_mark:
+- [jQuery](https://jquery.com) :heavy_check_mark:
+- [Underscore](https://underscorejs.org) :heavy_check_mark:
 - [CanJS](https://canjs.com)
 - [Lodash](https://lodash.com)
 - [Ramda](https://ramdajs.com)
@@ -81,10 +84,10 @@
 - [docsify](https://docsify.js.org)
 
 #### Framework
-- [Preact](https://preactjs.com) :white_check_mark:
-- [Mithril](https://mithril.js.org) :white_check_mark:
-- [Inferno](https://infernojs.org) :white_check_mark:
-- [Arrow](https://arrow-js.com) :white_check_mark:
+- [Preact](https://preactjs.com) :heavy_check_mark:
+- [Mithril](https://mithril.js.org) :heavy_check_mark:
+- [Inferno](https://infernojs.org) :heavy_check_mark:
+- [Arrow](https://arrow-js.com) :heavy_check_mark:
 - [Lit](https://lit.dev)
 - [Solid](https://solidjs.com)
 - [Svelte](https://svelte.dev)
@@ -105,7 +108,7 @@
 - [React Context](https://freecodecamp.org/news/react-context-for-beginners)
 
 #### State Management
-- [Redux Toolkit](https://redux-toolkit.js.org) :white_check_mark:
+- [Redux Toolkit](https://redux-toolkit.js.org) :heavy_check_mark:
 - [Zustand](https://docs.pmnd.rs/zustand)
 - [Jotai](https://jotai.org/docs/introduction)
 - [Recoil](https://recoiljs.org)
@@ -123,7 +126,7 @@
 - [Plate](https://platejs.org/docs)
 
 #### Routing
-- [React Router](https://reactrouter.com) :white_check_mark:
+- [React Router](https://reactrouter.com) :heavy_check_mark:
 - [Reach Router](https://reach.tech/router)
 
 #### Data Fetching
@@ -173,17 +176,17 @@
 - [OKLCH](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/oklch)
 
 #### Processor
-- [SCSS](https://sass-lang.com) :white_check_mark:
-- [LESS](https://lesscss.org) :white_check_mark:
-- [PostCSS](https://postcss.org/) :white_check_mark:
-- [UnoCSS](https://unocss.dev) :white_check_mark:
+- [SCSS](https://sass-lang.com) :heavy_check_mark:
+- [LESS](https://lesscss.org) :heavy_check_mark:
+- [PostCSS](https://postcss.org/) :heavy_check_mark:
+- [UnoCSS](https://unocss.dev) :heavy_check_mark:
 - [Twind](https://twind.style)
 - [Stylus](https://stylus-lang.com)
 
 #### Libraries
-- [Normalize](https://necolas.github.io/normalize.css) :white_check_mark:
-- [Tailwind](https://tailwindcss.com) :white_check_mark:
-- [Tachyons](https://tachyons.io) :white_check_mark:
+- [Normalize](https://necolas.github.io/normalize.css) :heavy_check_mark:
+- [Tailwind](https://tailwindcss.com) :heavy_check_mark:
+- [Tachyons](https://tachyons.io) :heavy_check_mark:
 - [Emotion](https://emotion.sh)
 
 #### Animations
@@ -191,7 +194,7 @@
 - [GSAP](https://greensock.com/gsap)
 
 #### Components
-- [Bootstrap](https://getbootstrap.com) :white_check_mark:
+- [Bootstrap](https://getbootstrap.com) :heavy_check_mark:
 - [daisyUI](https://daisyui.com)
 - [Tailwind Elements](https://tailwind-elements.com)
 - [Flowbite](https://flowbite.com)
@@ -202,7 +205,7 @@
 - #### Generate
   - [Stencil](https://stenciljs.com)
 - #### React
-  - [Chakra UI](https://chakra-ui.com) :white_check_mark:
+  - [Chakra UI](https://chakra-ui.com) :heavy_check_mark:
   - [Next UI](https://nextui.org)
   - [Ant Design](https://ant.design)
   - [Material UI](https://mui.com)
