@@ -39,6 +39,7 @@
 #### HTML
 - [htmx](https://htmx.org/docs)
 - [Hotwire](https://hotwired.dev)
+- [_hyperscript](https://hyperscript.org)
 
 ## TypeScript
 #### Documentation
@@ -112,6 +113,7 @@
 - [Zustand](https://docs.pmnd.rs/zustand)
 - [Jotai](https://jotai.org/docs/introduction)
 - [Recoil](https://recoiljs.org)
+- [MobX](https://mobx.js.org)
 
 #### API Query
 - [React Query](https://npmjs.com/package/react-query)
