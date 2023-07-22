@@ -37,7 +37,7 @@
 - [Handlebars](https://handlebarsjs.com)
 
 #### HTML
-- [htmx](https://htmx.org/docs)
+- [htmx](https://htmx.org)
 - [Hotwire](https://hotwired.dev)
 - [_hyperscript](https://hyperscript.org)
 
@@ -111,13 +111,13 @@
 #### State Management
 - [Redux Toolkit](https://redux-toolkit.js.org) :heavy_check_mark:
 - [Zustand](https://docs.pmnd.rs/zustand)
-- [Jotai](https://jotai.org/docs/introduction)
+- [Jotai](https://jotai.org)
 - [Recoil](https://recoiljs.org)
 - [MobX](https://mobx.js.org)
 
 #### API Query
-- [React Query](https://npmjs.com/package/react-query)
-- [Redux Toolkit Query](https://redux-toolkit.js.org/rtk-query/usage/queries)
+- [TanStack Query](https://tanstack.com/query) (React Query)
+- [Redux Toolkit Query](https://redux-toolkit.js.org/rtk-query/overview)
 
 #### Forms
 - [React Hook Form](https://react-hook-form.com)
@@ -125,7 +125,7 @@
 
 #### Text Editor
 - [Slate](https://docs.slatejs.org)
-- [Plate](https://platejs.org/docs)
+- [Plate](https://platejs.org)
 
 #### Routing
 - [React Router](https://reactrouter.com) :heavy_check_mark:
@@ -180,7 +180,7 @@
 #### Processor
 - [SCSS](https://sass-lang.com) :heavy_check_mark:
 - [LESS](https://lesscss.org) :heavy_check_mark:
-- [PostCSS](https://postcss.org/) :heavy_check_mark:
+- [PostCSS](https://postcss.org) :heavy_check_mark:
 - [UnoCSS](https://unocss.dev) :heavy_check_mark:
 - [Twind](https://twind.style)
 - [Stylus](https://stylus-lang.com)
