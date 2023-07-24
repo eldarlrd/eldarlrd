@@ -78,6 +78,7 @@
 - [Three.js](https://threejs.org)
 
 #### Automation
+- [Gulp](https://gulpjs.com)
 - [Grunt](https://gruntjs.com)
 
 #### Generate Docs
