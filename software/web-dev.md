@@ -41,6 +41,11 @@
 - [Hotwire](https://hotwired.dev)
 - [_hyperscript](https://hyperscript.org)
 
+#### Flavor
+- [CoffeeScript](https://coffeescript.org) :heavy_check_mark:
+- [LiveScript](https://livescript.net)
+- [PureScript](https://purescript.org)
+
 ## TypeScript
 #### Documentation
 - [TypeScript](https://typescriptlang.org)
@@ -56,6 +61,9 @@
 
 #### Exercises
 - [Type Challenges](https://github.com/type-challenges/type-challenges)
+
+#### Flavor
+- [Civet](https://civet.dev)
 
 ## JS Front End
 #### Helpers
