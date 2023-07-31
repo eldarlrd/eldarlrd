@@ -201,7 +201,7 @@
 - [PostCSS](https://postcss.org) :heavy_check_mark:
 - [UnoCSS](https://unocss.dev) :heavy_check_mark:
 - [Stylus](https://stylus-lang.com) :heavy_check_mark:
-- [Twind](https://twind.style)
+- [Twind](https://twind.style) :heavy_check_mark:
 
 #### Libraries
 - [Normalize](https://necolas.github.io/normalize.css) :heavy_check_mark:
@@ -269,7 +269,7 @@
 - [Postman](https://postman.com)
 
 #### Image Format
-- [WebP](https://developers.google.com/speed/webp)
+- [WebP](https://developers.google.com/speed/webp) :heavy_check_mark:
 
 #### Communication
 - [Socket.IO](https://socket.io)
