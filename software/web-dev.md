@@ -24,6 +24,9 @@
 #### Linter
 - [ESLint](https://eslint.org) :heavy_check_mark:
 
+#### UUID
+- [Nano ID](https://zelark.github.io/nano-id-cc) :heavy_check_mark:
+
 #### Libraries
 - [jQuery](https://jquery.com) :heavy_check_mark:
 - [Underscore](https://underscorejs.org) :heavy_check_mark:
