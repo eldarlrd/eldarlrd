@@ -183,6 +183,10 @@
 #### Methodology
 - [BEM](https://getbem.com)
 
+#### Helpers
+- [Labels](https://refactoringui.com/previews/labels-are-a-last-resort) :heavy_check_mark:
+- [Color Palette](https://refactoringui.com/previews/building-your-color-palette) :heavy_check_mark:
+
 #### Workshop
 - [Storybook](https://storybook.js.org)
 
