@@ -39,6 +39,7 @@
 - [Vitest](https://vitest.dev)
 - [Mocha](https://mochajs.org)
 - [Chai](https://chaijs.com)
+- [Cypress](https://cypress.io)
 
 #### Templating
 - [EJS](https://ejs.co)
