@@ -92,6 +92,9 @@
 #### Games
 - [Phaser](https://phaser.io)
 
+#### Canvas
+- [Fabric](https://fabricjs.com)
+
 #### 3D
 - [Three.js](https://threejs.org)
 
