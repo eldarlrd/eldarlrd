@@ -195,9 +195,10 @@
 #### Icons
 - [Flaticon](https://flaticon.com) :heavy_check_mark:
 - [Font Awesome](https://fontawesome.com) :heavy_check_mark:
+- [Lucide](https://lucide.dev) :heavy_check_mark:
 - [Heroicons](https://heroicons.com) :heavy_check_mark:
-- [Feather](https://feathericons.com)
 - [Pictogrammers](https://pictogrammers.com)
+- [Feather](https://feathericons.com)
 
 #### Workshop
 - [Storybook](https://storybook.js.org)
@@ -236,11 +237,10 @@
 - [Bootstrap](https://getbootstrap.com) :heavy_check_mark:
 - [daisyUI](https://daisyui.com)
 - [Tailwind Elements](https://tailwind-elements.com)
-- [Headless UI](https://headlessui.com)
 - [Flowbite](https://flowbite.com)
+- [Headless UI](https://headlessui.com)
 - [Semantic UI](https://semantic-ui.com)
 - [Bulma](https://bulma.io)
-- [Lucide](https://lucide.dev)
 - [Arwes](https://arwes.dev)
 - #### Generate
   - [Stencil](https://stenciljs.com)
