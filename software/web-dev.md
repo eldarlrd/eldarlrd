@@ -309,9 +309,11 @@
 
 #### Database
 - [MongoDB](https://mongodb.com)
-- [Redis](https://redis.io)
-- [PostgreSQL](https://postgresql.org)
+- [MariaDB](https://mariadb.org)
 - [RethinkDB](https://rethinkdb.com)
+- [PostgreSQL](https://postgresql.org)
+- [MySQL](https://mysql.com)
+- [Redis](https://redis.io)
 
 #### Platform
 - [Firebase](https://firebase.google.com)
