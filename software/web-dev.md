@@ -5,8 +5,13 @@
 ## JavaScript
 #### Bundler
 - [Vite](https://vitejs.dev) :heavy_check_mark:
+- [Rollup](https://rollupjs.org) :heavy_check_mark:
 - [webpack](https://webpack.js.org) :heavy_check_mark:
 - [Parcel.js](https://parceljs.org)
+
+#### Runtime
+- [Node](https://nodejs.org) :heavy_check_mark:
+- [Deno](https://deno.land)
 
 #### Compiler
 - [Babel](https://babeljs.io) :heavy_check_mark:
@@ -227,7 +232,9 @@
 - [Normalize](https://necolas.github.io/normalize.css) :heavy_check_mark:
 - [Tailwind](https://tailwindcss.com) :heavy_check_mark:
 - [Tachyons](https://tachyons.io) :heavy_check_mark:
+- [Materialize](https://materializeweb.com)
 - [Emotion](https://emotion.sh)
+- [Pure](https://purecss.io)
 - [JSS](https://cssinjs.org)
 
 #### Animations
@@ -241,6 +248,7 @@
 - [Flowbite](https://flowbite.com)
 - [Headless UI](https://headlessui.com)
 - [Semantic UI](https://semantic-ui.com)
+- [Onsen UI](https://onsen.io)
 - [Bulma](https://bulma.io)
 - [Arwes](https://arwes.dev)
 - #### Generate
@@ -252,6 +260,7 @@
   - [Material UI](https://mui.com)
   - [Material Tailwind](https://material-tailwind.com)
   - [Mantine](https://mantine.dev)
+  - [Primer](https://primer.style)
   - [PrimeReact](https://primereact.org)
   - [Radix](https://radix-ui.com)
   - [shadcn/ui](https://ui.shadcn.com)
@@ -265,6 +274,7 @@
 ## JS Back End
 #### API Query
 - [GraphQL](https://graphql.org)
+- [Relay](https://relay.dev)
 
 #### ORM
 - [Prisma](https://prisma.io)
@@ -283,11 +293,17 @@
 - [hapi](https://hapi.dev)
 
 ## Architecture
+#### PWA
+- [Web App Manifest](https://developer.mozilla.org/en-US/docs/Web/Manifest) :heavy_check_mark:
+
 #### API Development
 - [Swagger](https://swagger.io)
 
 #### API Workshop
 - [Postman](https://postman.com)
+
+#### Media Types
+- [IANA](https://iana.org/assignments/media-types) :heavy_check_mark:
 
 #### Image Format
 - [WebP](https://developers.google.com/speed/webp) :heavy_check_mark:
