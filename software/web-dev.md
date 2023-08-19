@@ -86,6 +86,9 @@
 - [Modern Web](https://modern-web.dev)
 - [Open Web Components](https://open-wc.org)
 
+#### Syntax Highlighting
+- [Prism](https://prismjs.com)
+
 #### Internationalization
 - [i18next](https://i18next.com)
 
@@ -197,6 +200,10 @@
 - [Labels](https://refactoringui.com/previews/labels-are-a-last-resort) :heavy_check_mark:
 - [Color Palette](https://refactoringui.com/previews/building-your-color-palette) :heavy_check_mark:
 
+#### Fonts
+- [Fontsource](https://fontsource.org) :heavy_check_mark:
+- [Google Fonts](https://fonts.google.com) :heavy_check_mark:
+
 #### Icons
 - [Flaticon](https://flaticon.com) :heavy_check_mark:
 - [Font Awesome](https://fontawesome.com) :heavy_check_mark:
@@ -295,6 +302,11 @@
 ## Architecture
 #### PWA
 - [Web App Manifest](https://developer.mozilla.org/en-US/docs/Web/Manifest) :heavy_check_mark:
+
+#### Package Management
+- [npm](https://npmjs.com) :heavy_check_mark:
+- [Yarn](https://yarnpkg.com) :heavy_check_mark:
+- [pnpm](https://pnpm.io)
 
 #### API Development
 - [Swagger](https://swagger.io)
