@@ -87,7 +87,7 @@
 - [Open Web Components](https://open-wc.org)
 
 #### Syntax Highlighting
-- [Prism](https://prismjs.com)
+- [Prism](https://prismjs.com) :heavy_check_mark:
 
 #### Internationalization
 - [i18next](https://i18next.com)
@@ -247,6 +247,7 @@
 #### Animations
 - [Anime](https://animejs.com)
 - [GSAP](https://greensock.com/gsap)
+- [Spring](https://react-spring.dev) (React)
 
 #### Components
 - [Bootstrap](https://getbootstrap.com) :heavy_check_mark:
