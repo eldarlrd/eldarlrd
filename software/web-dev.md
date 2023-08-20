@@ -168,6 +168,9 @@
 #### Head Manager
 - [React Helmet](https://github.com/nfl/react-helmet)
 
+#### Animation
+- [React Spring](https://react-spring.dev)
+
 #### Framework
 - [Remix](https://remix.run)
 - [Next.js](https://nextjs.org)
@@ -244,10 +247,9 @@
 - [Pure](https://purecss.io)
 - [JSS](https://cssinjs.org)
 
-#### Animations
+#### Animation
 - [Anime](https://animejs.com)
 - [GSAP](https://greensock.com/gsap)
-- [Spring](https://react-spring.dev) (React)
 
 #### Components
 - [Bootstrap](https://getbootstrap.com) :heavy_check_mark:
@@ -280,6 +282,9 @@
   - [PrimeNG](https://primeng.org)
 
 ## JS Back End
+#### Guide
+- [Learn Node the Hard Way](https://github.com/ishtms/learn-nodejs-hard-way)
+
 #### API Query
 - [GraphQL](https://graphql.org)
 - [Relay](https://relay.dev)
