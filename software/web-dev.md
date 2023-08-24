@@ -253,6 +253,7 @@
 
 #### Components
 - [Bootstrap](https://getbootstrap.com) :heavy_check_mark:
+- [W3.CSS](https://w3schools.com/w3css)
 - [daisyUI](https://daisyui.com)
 - [Tailwind Elements](https://tailwind-elements.com)
 - [Flowbite](https://flowbite.com)
