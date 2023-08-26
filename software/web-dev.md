@@ -135,9 +135,9 @@
 - [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
 
 #### Helpers
-- [Atomic Design](https://danilowoz.com/blog/atomic-design-with-react)
+- [Atomic Design](https://danilowoz.com/blog/atomic-design-with-react) :heavy_check_mark:
+- [React Context](https://freecodecamp.org/news/react-context-for-beginners) :heavy_check_mark:
 - [React Best Practices](https://freecodecamp.org/news/best-practices-for-react)
-- [React Context](https://freecodecamp.org/news/react-context-for-beginners)
 
 #### State Management
 - [Redux Toolkit](https://redux-toolkit.js.org) :heavy_check_mark:
