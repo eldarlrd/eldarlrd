@@ -23,11 +23,14 @@
 #### Type Checking
 - [Flow](https://flow.org) :heavy_check_mark:
 
+#### Linter
+- [ESLint](https://eslint.org) :heavy_check_mark:
+
 #### Code Formatter
 - [Prettier](https://prettier.io) :heavy_check_mark:
 
-#### Linter
-- [ESLint](https://eslint.org) :heavy_check_mark:
+#### Code Style
+- [Google JS Style](https://google.github.io/styleguide/jsguide.html)
 
 #### UUID
 - [Nano ID](https://zelark.github.io/nano-id-cc) :heavy_check_mark:
@@ -77,6 +80,9 @@
 
 #### Exercises
 - [Type Challenges](https://github.com/type-challenges/type-challenges)
+
+#### Code Style
+- [Google TS Style](https://google.github.io/styleguide/tsguide.html)
 
 #### Flavor
 - [Civet](https://civet.dev)
@@ -202,6 +208,9 @@
 #### Helpers
 - [Labels](https://refactoringui.com/previews/labels-are-a-last-resort) :heavy_check_mark:
 - [Color Palette](https://refactoringui.com/previews/building-your-color-palette) :heavy_check_mark:
+
+#### Code Style
+- [Google HTML/CSS Style](https://google.github.io/styleguide/htmlcssguide.html)
 
 #### Fonts
 - [Fontsource](https://fontsource.org) :heavy_check_mark:
