@@ -30,7 +30,8 @@
 - [Prettier](https://prettier.io) :heavy_check_mark:
 
 #### Code Style
-- [Google JS Style](https://google.github.io/styleguide/jsguide.html)
+- [Airbnb JS](https://airbnb.io/javascript)
+- [Google JS](https://google.github.io/styleguide/jsguide.html)
 
 #### UUID
 - [Nano ID](https://zelark.github.io/nano-id-cc) :heavy_check_mark:
@@ -82,7 +83,7 @@
 - [Type Challenges](https://github.com/type-challenges/type-challenges)
 
 #### Code Style
-- [Google TS Style](https://google.github.io/styleguide/tsguide.html)
+- [Google TS](https://google.github.io/styleguide/tsguide.html)
 
 #### Flavor
 - [Civet](https://civet.dev)
@@ -144,6 +145,9 @@
 - [Atomic Design](https://danilowoz.com/blog/atomic-design-with-react) :heavy_check_mark:
 - [React Context](https://freecodecamp.org/news/react-context-for-beginners) :heavy_check_mark:
 - [React Best Practices](https://freecodecamp.org/news/best-practices-for-react)
+
+#### Code Style
+- [Airbnb React/JSX](https://airbnb.io/javascript/react)
 
 #### State Management
 - [Redux Toolkit](https://redux-toolkit.js.org) :heavy_check_mark:
@@ -210,7 +214,7 @@
 - [Color Palette](https://refactoringui.com/previews/building-your-color-palette) :heavy_check_mark:
 
 #### Code Style
-- [Google HTML/CSS Style](https://google.github.io/styleguide/htmlcssguide.html)
+- [Google HTML/CSS](https://google.github.io/styleguide/htmlcssguide.html)
 
 #### Fonts
 - [Fontsource](https://fontsource.org) :heavy_check_mark:
@@ -335,6 +339,7 @@
 
 #### Image Format
 - [WebP](https://developers.google.com/speed/webp) :heavy_check_mark:
+- [AVIF](https://avif.io)
 
 #### Communication
 - [Socket.IO](https://socket.io)
