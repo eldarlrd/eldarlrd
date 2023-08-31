@@ -264,6 +264,10 @@
 - [Anime](https://animejs.com)
 - [GSAP](https://greensock.com/gsap)
 
+#### Page Transition
+- [Barba.js](https://barba.js.org)
+- [Swup](https://swup.js.org)
+
 #### Components
 - [Bootstrap](https://getbootstrap.com) :heavy_check_mark:
 - [W3.CSS](https://w3schools.com/w3css)
