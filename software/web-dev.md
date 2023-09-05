@@ -326,6 +326,8 @@
 ## Architecture
 #### PWA
 - [Web App Manifest](https://developer.mozilla.org/en-US/docs/Web/Manifest) :heavy_check_mark:
+- [Using Service Workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers) :heavy_check_mark:
+- [Vite PWA](https://vite-pwa-org.netlify.app) :heavy_check_mark:
 
 #### Package Management
 - [npm](https://npmjs.com) :heavy_check_mark:
