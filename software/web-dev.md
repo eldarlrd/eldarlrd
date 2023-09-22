@@ -12,6 +12,7 @@
 #### Runtime
 - [Node](https://nodejs.org) :heavy_check_mark:
 - [Deno](https://deno.land)
+- [Bun](https://bun.sh)
 
 #### Compiler
 - [Babel](https://babeljs.io) :heavy_check_mark:
