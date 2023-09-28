@@ -343,7 +343,7 @@
 - [Postman](https://postman.com)
 - [Insomnia](https://insomnia.rest)
 - [Bruno](https://usebruno.com)
-- [Thunder Client](https://thunderclient.com)
+- [Thunder Client](https://www.thunderclient.com)
 
 #### Media Types
 - [IANA](https://iana.org/assignments/media-types) :heavy_check_mark:
