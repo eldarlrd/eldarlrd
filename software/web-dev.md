@@ -40,6 +40,7 @@
 #### Libraries
 - [jQuery](https://jquery.com) :heavy_check_mark:
 - [Underscore](https://underscorejs.org) :heavy_check_mark:
+- [date-fns](https://date-fns.org) :heavy_check_mark:
 - [CanJS](https://canjs.com)
 - [Lodash](https://lodash.com)
 - [Ramda](https://ramdajs.com)
