@@ -37,10 +37,14 @@
 #### UUID
 - [Nano ID](https://zelark.github.io/nano-id-cc) :heavy_check_mark:
 
+#### Date & Time
+- [date-fns](https://date-fns.org) :heavy_check_mark:
+- [Luxon](https://moment.github.io/luxon)
+- [Day.js](https://day.js.org)
+
 #### Libraries
 - [jQuery](https://jquery.com) :heavy_check_mark:
 - [Underscore](https://underscorejs.org) :heavy_check_mark:
-- [date-fns](https://date-fns.org) :heavy_check_mark:
 - [CanJS](https://canjs.com)
 - [Lodash](https://lodash.com)
 - [Ramda](https://ramdajs.com)
@@ -280,6 +284,7 @@
 - [Flowbite](https://flowbite.com)
 - [Headless UI](https://headlessui.com)
 - [Semantic UI](https://semantic-ui.com)
+- [Shoelace](https://shoelace.style)
 - [Onsen UI](https://onsen.io)
 - [Bulma](https://bulma.io)
 - [Arwes](https://arwes.dev)
@@ -316,6 +321,7 @@
 
 #### Validation
 - [joi](https://joi.dev)
+- [Zod](https://zod.dev)
 
 #### Framework
 - [Express](https://expressjs.com)
