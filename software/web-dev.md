@@ -284,8 +284,8 @@
 - [Flowbite](https://flowbite.com)
 - [Headless UI](https://headlessui.com)
 - [Semantic UI](https://semantic-ui.com)
-- [Shoelace](https://shoelace.style)
 - [Onsen UI](https://onsen.io)
+- [Shoelace](https://shoelace.style)
 - [Bulma](https://bulma.io)
 - [Arwes](https://arwes.dev)
 - #### Generate
