@@ -74,7 +74,7 @@
 - [PureScript](https://purescript.org)
 
 ## TypeScript
-#### Documentation
+#### Official
 - [TypeScript](https://typescriptlang.org)
 
 #### Guide
@@ -126,7 +126,7 @@
 - [Gulp](https://gulpjs.com)
 - [Grunt](https://gruntjs.com)
 
-#### Docs
+#### Documentation
 - [Docusaurus](https://docusaurus.io)
 - [docsify](https://docsify.js.org)
 
