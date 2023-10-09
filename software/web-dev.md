@@ -166,7 +166,7 @@
 
 #### API Query
 - [TanStack Query](https://tanstack.com/query) (React Query)
-- [Redux Toolkit Query](https://redux-toolkit.js.org/rtk-query/overview)
+- [RTK Query](https://redux-toolkit.js.org/rtk-query/overview)
 
 #### Forms
 - [React Hook Form](https://react-hook-form.com)
