@@ -31,8 +31,8 @@
 - [Prettier](https://prettier.io) :heavy_check_mark:
 
 #### Code Style
-- [Airbnb JS](https://airbnb.io/javascript)
-- [Google JS](https://google.github.io/styleguide/jsguide.html)
+- [Airbnb JS](https://airbnb.io/javascript) :heavy_check_mark:
+- [Google JS](https://google.github.io/styleguide/jsguide.html) :heavy_check_mark:
 
 #### UUID
 - [Nano ID](https://zelark.github.io/nano-id-cc) :heavy_check_mark:
@@ -147,12 +147,12 @@
 
 ## React
 #### Guide
-- [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
+- [Thinking in React](https://reactjs.org/docs/thinking-in-react.html) :heavy_check_mark:
 
 #### Helpers
 - [Atomic Design](https://danilowoz.com/blog/atomic-design-with-react) :heavy_check_mark:
 - [React Context](https://freecodecamp.org/news/react-context-for-beginners) :heavy_check_mark:
-- [React Best Practices](https://freecodecamp.org/news/best-practices-for-react)
+- [React Best Practices](https://freecodecamp.org/news/best-practices-for-react) :heavy_check_mark:
 
 #### Code Style
 - [Airbnb React/JSX](https://airbnb.io/javascript/react)
@@ -220,9 +220,10 @@
 #### Helpers
 - [Labels](https://refactoringui.com/previews/labels-are-a-last-resort) :heavy_check_mark:
 - [Color Palette](https://refactoringui.com/previews/building-your-color-palette) :heavy_check_mark:
+- [Chaos in Tailwind](https://evilmartians.com/chronicles/5-best-practices-for-preventing-chaos-in-tailwind-css) :heavy_check_mark:
 
 #### Code Style
-- [Google HTML/CSS](https://google.github.io/styleguide/htmlcssguide.html)
+- [Google HTML/CSS](https://google.github.io/styleguide/htmlcssguide.html) :heavy_check_mark:
 
 #### Fonts
 - [Fontsource](https://fontsource.org) :heavy_check_mark:
