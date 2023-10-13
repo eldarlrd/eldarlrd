@@ -100,6 +100,9 @@
 - [Modern Web](https://modern-web.dev)
 - [Open Web Components](https://open-wc.org)
 
+#### State Management
+- [XState](https://xstate.js.org)
+
 #### Syntax Highlighting
 - [Prism](https://prismjs.com) :heavy_check_mark:
 
@@ -319,6 +322,9 @@
 #### Guide
 - [Learn Node the Hard Way](https://github.com/ishtms/learn-nodejs-hard-way)
 
+#### Helpers
+- [Send Emails](https://mailtrap.io/blog/sending-emails-with-nodemailer)
+
 #### API Query
 - [GraphQL](https://graphql.org)
 - [Relay](https://relay.dev)
@@ -329,6 +335,9 @@
 #### Validation
 - [joi](https://joi.dev)
 - [Zod](https://zod.dev)
+
+#### Email
+- [Nodemailer](https://nodemailer.com)
 
 #### Framework
 - [Express](https://expressjs.com)
@@ -372,9 +381,6 @@
 
 #### Search
 - [Algolia](https://algolia.com)
-
-#### Email
-- [Parcel.io](https://parcel.io)
 
 #### Video
 - [Mux](https://mux.com)
