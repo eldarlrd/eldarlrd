@@ -70,7 +70,6 @@
 
 #### Flavor
 - [CoffeeScript](https://coffeescript.org) :heavy_check_mark:
-- [LiveScript](https://livescript.net)
 - [PureScript](https://purescript.org)
 
 ## TypeScript
