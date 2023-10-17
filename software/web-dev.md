@@ -100,6 +100,7 @@
 - [Open Web Components](https://open-wc.org)
 
 #### State Management
+- [Immer](https://immerjs.github.io/immer) :heavy_check_mark:
 - [XState](https://xstate.js.org)
 
 #### Syntax Highlighting
