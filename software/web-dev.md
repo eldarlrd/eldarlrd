@@ -392,7 +392,10 @@
 #### Database
 - [MongoDB](https://mongodb.com)
 - [MariaDB](https://mariadb.org)
+- [CouchDB](https://couchdb.apache.org)
+- [PouchDB](https://pouchdb.com)
 - [RethinkDB](https://rethinkdb.com)
+- [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 - [PostgreSQL](https://postgresql.org)
 - [MySQL](https://mysql.com)
 - [Redis](https://redis.io)
