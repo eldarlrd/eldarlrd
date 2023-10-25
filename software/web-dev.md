@@ -125,6 +125,9 @@
 #### 3D
 - [Three.js](https://threejs.org)
 
+#### ARIA
+- [focus-trap](https://focus-trap.github.io/focus-trap) :heavy_check_mark:
+
 #### Automation
 - [Gulp](https://gulpjs.com)
 - [Grunt](https://gruntjs.com)
