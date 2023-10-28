@@ -122,6 +122,9 @@
 #### Canvas
 - [Fabric](https://fabricjs.com)
 
+#### Drag & Drop
+- [dnd kit](https://dndkit.com) :heavy_check_mark:
+
 #### 3D
 - [Three.js](https://threejs.org)
 
