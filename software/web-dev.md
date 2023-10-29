@@ -366,6 +366,7 @@
 - [npm](https://npmjs.com) :heavy_check_mark:
 - [Yarn](https://yarnpkg.com) :heavy_check_mark:
 - [pnpm](https://pnpm.io) :heavy_check_mark:
+- [Lerna](https://lerna.js.org) (Monorepo)
 
 #### API Development
 - [Swagger](https://swagger.io)
