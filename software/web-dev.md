@@ -336,6 +336,7 @@
 - [Relay](https://relay.dev)
 
 #### ORM
+- [Drizzle](https://orm.drizzle.team)
 - [Prisma](https://prisma.io)
 
 #### Validation
@@ -364,7 +365,7 @@
 #### Package Management
 - [npm](https://npmjs.com) :heavy_check_mark:
 - [Yarn](https://yarnpkg.com) :heavy_check_mark:
-- [pnpm](https://pnpm.io)
+- [pnpm](https://pnpm.io) :heavy_check_mark:
 
 #### API Development
 - [Swagger](https://swagger.io)
