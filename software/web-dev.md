@@ -56,6 +56,7 @@
 - [Mocha](https://mochajs.org)
 - [Chai](https://chaijs.com)
 - [Cypress](https://cypress.io)
+- [Jasmine](https://jasmine.github.io)
 - [Playwright](https://playwright.dev)
 - [Sinon](https://sinonjs.org)
 
