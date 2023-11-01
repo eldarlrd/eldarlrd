@@ -51,8 +51,8 @@
 - [Ramda](https://ramdajs.com)
 
 #### Testing
+- [Vitest](https://vitest.dev) :heavy_check_mark:
 - [Jest](https://jestjs.io)
-- [Vitest](https://vitest.dev)
 - [Mocha](https://mochajs.org)
 - [Chai](https://chaijs.com)
 - [Cypress](https://cypress.io)
@@ -66,6 +66,7 @@
 
 #### HTML
 - [htmx](https://htmx.org)
+- [Marko](https://markojs.com)
 - [Hotwire](https://hotwired.dev)
 - [_hyperscript](https://hyperscript.org)
 
