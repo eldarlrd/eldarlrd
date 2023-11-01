@@ -33,6 +33,7 @@
 #### Code Style
 - [Airbnb JS](https://airbnb.io/javascript) :heavy_check_mark:
 - [Google JS](https://google.github.io/styleguide/jsguide.html) :heavy_check_mark:
+- [Standard JS](https://standardjs.com/rules) :heavy_check_mark:
 
 #### UUID
 - [Nano ID](https://zelark.github.io/nano-id-cc) :heavy_check_mark:
@@ -370,6 +371,7 @@
 
 #### API Development
 - [Swagger](https://swagger.io)
+- [Apigee](https://cloud.google.com/apigee)
 
 #### API Workshop
 - [Postman](https://postman.com)
