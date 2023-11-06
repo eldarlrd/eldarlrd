@@ -148,10 +148,11 @@
 - [Inferno](https://infernojs.org) :heavy_check_mark:
 - [Arrow](https://arrow-js.com) :heavy_check_mark:
 - [Lit](https://lit.dev)
+- [Qwik](https://qwik.builder.io)
 - [Solid](https://solidjs.com)
+- [Riot.js](https://riot.js.org)
 - [Svelte](https://svelte.dev)
 - [Ember](https://emberjs.com)
-- [Qwik](https://qwik.builder.io)
 - [Backbone](https://backbonejs.org)
 - [Alpine](https://alpinejs.dev)
 - [Aurelia](https://aurelia.io)
@@ -379,7 +380,7 @@
 - [Postman](https://postman.com)
 - [Insomnia](https://insomnia.rest)
 - [Bruno](https://usebruno.com)
-- [Thunder Client](https://www.thunderclient.com)
+- [Thunder Client](https://thunderclient.com)
 
 #### Media Types
 - [IANA](https://iana.org/assignments/media-types) :heavy_check_mark:
