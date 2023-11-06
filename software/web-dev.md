@@ -46,14 +46,15 @@
 #### Libraries
 - [jQuery](https://jquery.com) :heavy_check_mark:
 - [Underscore](https://underscorejs.org) :heavy_check_mark:
-- [CanJS](https://canjs.com)
 - [Lodash](https://lodash.com)
 - [Ramda](https://ramdajs.com)
+- [RxJS](https://rxjs.dev)
 
 #### Testing
 - [Vitest](https://vitest.dev) :heavy_check_mark:
 - [Jest](https://jestjs.io)
 - [Mocha](https://mochajs.org)
+- [QUnit](https://qunitjs.com)
 - [Chai](https://chaijs.com)
 - [Cypress](https://cypress.io)
 - [Jasmine](https://jasmine.github.io)
@@ -149,8 +150,8 @@
 - [Arrow](https://arrow-js.com) :heavy_check_mark:
 - [Lit](https://lit.dev)
 - [Qwik](https://qwik.builder.io)
+- [Riot](https://riot.js.org)
 - [Solid](https://solidjs.com)
-- [Riot.js](https://riot.js.org)
 - [Svelte](https://svelte.dev)
 - [Ember](https://emberjs.com)
 - [Backbone](https://backbonejs.org)
