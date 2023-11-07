@@ -2,6 +2,10 @@
 **Here you'll find a compilation of interesting and useful technologies that I've heard or read about while studying.**
 
 **The :heavy_check_mark: is appended to those that have been tried by me.**
+### Curriculum
+- [freeCodeCamp](https://freecodecamp.org/learn)
+- [The Odin Project](https://theodinproject.com/paths)
+
 ## JavaScript
 #### Bundler
 - [Vite](https://vitejs.dev) :heavy_check_mark:
@@ -81,6 +85,7 @@
 
 #### Guide
 - [Learn TypeScript](https://freecodecamp.org/news/learn-typescript-beginners-guide)
+- [Total TypeScript](https://totaltypescript.com/tutorials)
 
 #### Helpers
 - [TypeScript Tutorial](https://w3schools.com/typescript)
