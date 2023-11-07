@@ -50,6 +50,7 @@
 #### Libraries
 - [jQuery](https://jquery.com) :heavy_check_mark:
 - [Underscore](https://underscorejs.org) :heavy_check_mark:
+- [Faker](https://fakerjs.dev) :heavy_check_mark:
 - [Lodash](https://lodash.com)
 - [Ramda](https://ramdajs.com)
 
