@@ -48,7 +48,6 @@
 - [Underscore](https://underscorejs.org) :heavy_check_mark:
 - [Lodash](https://lodash.com)
 - [Ramda](https://ramdajs.com)
-- [RxJS](https://rxjs.dev)
 
 #### Testing
 - [Vitest](https://vitest.dev) :heavy_check_mark:
@@ -226,6 +225,12 @@
 ## Angular
 #### Guide
 - [Learn Angular](https://freecodecamp.org/news/angular-tutorial-course)
+
+#### State Management
+- [NgRx](https://ngrx.io)
+
+#### Event Management
+- [RxJS](https://rxjs.dev)
 
 ## Style
 #### Methodology
