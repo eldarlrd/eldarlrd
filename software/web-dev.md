@@ -3,8 +3,8 @@
 
 **The :heavy_check_mark: is appended to those that have been tried by me.**
 ### Curriculum
-- [freeCodeCamp](https://freecodecamp.org/learn)
-- [The Odin Project](https://theodinproject.com/paths)
+- [freeCodeCamp](https://freecodecamp.org/learn) :heavy_check_mark:
+- [The Odin Project](https://theodinproject.com/paths) :heavy_check_mark:
 
 ## JavaScript
 #### Bundler
@@ -425,7 +425,7 @@
 - [Redis](https://redis.io)
 
 #### Platform
-- [Firebase](https://firebase.google.com)
+- [Firebase](https://firebase.google.com) :heavy_check_mark:
 - [Supabase](https://supabase.com)
 - [Netlify](https://netlify.com)
 - [Vercel](https://vercel.com)
