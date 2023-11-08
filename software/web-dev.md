@@ -411,7 +411,7 @@
   - [API-SPORTS](https://api-sports.io)
 - #### Countries
   - [REST Countries](https://restcountries.com)
-- #### Dictionaries
+- #### Dictionary
   - [Merriam-Webster Dictionary](https://dictionaryapi.com)
 
 #### API Development
