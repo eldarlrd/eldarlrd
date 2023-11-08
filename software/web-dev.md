@@ -47,10 +47,12 @@
 - [Luxon](https://moment.github.io/luxon)
 - [Day.js](https://day.js.org)
 
+#### Mock Data
+- [Faker](https://fakerjs.dev)
+
 #### Libraries
 - [jQuery](https://jquery.com) :heavy_check_mark:
 - [Underscore](https://underscorejs.org) :heavy_check_mark:
-- [Faker](https://fakerjs.dev) :heavy_check_mark:
 - [Lodash](https://lodash.com)
 - [Ramda](https://ramdajs.com)
 
@@ -85,8 +87,8 @@
 - [TypeScript](https://typescriptlang.org)
 
 #### Guide
+- [Total TypeScript](https://totaltypescript.com/tutorials) :heavy_check_mark:
 - [Learn TypeScript](https://freecodecamp.org/news/learn-typescript-beginners-guide)
-- [Total TypeScript](https://totaltypescript.com/tutorials)
 
 #### Helpers
 - [TypeScript Tutorial](https://w3schools.com/typescript)
@@ -384,6 +386,34 @@
 - [pnpm](https://pnpm.io) :heavy_check_mark:
 - [Lerna](https://lerna.js.org) (Monorepo)
 
+#### Free API
+- [JSONPlaceholder](https://jsonplaceholder.typicode.com) :heavy_check_mark:
+- #### Weather
+  - [OpenWeather](https://openweathermap.org/api)
+- #### News
+  - [New York Times](https://developer.nytimes.com/apis)
+- #### Books
+  - [Open Library](https://openlibrary.org/developers/api)
+- #### Movies
+  - [TMDB](https://developer.themoviedb.org/docs)
+- #### Music
+  - [Spotify](https://developer.spotify.com/documentation/web-api)
+- #### Food
+  - [spoonacular](https://spoonacular.com/food-api)
+  - [TheMealDB](https://themealdb.com/api.php)
+  - [TheCocktailDB](https://thecocktaildb.com/api.php)
+- #### Quotes
+  - [Zen Quotes](https://zenquotes.io)
+- #### Jokes
+  - [DadJokes](https://dadjokes.io)
+  - [JokeAPI](https://sv443.net/jokeapi/v2)
+- #### Sports
+  - [API-SPORTS](https://api-sports.io)
+- #### Countries
+  - [REST Countries](https://restcountries.com)
+- #### Dictionaries
+  - [Merriam-Webster Dictionary](https://dictionaryapi.com)
+
 #### API Development
 - [Swagger](https://swagger.io)
 - [Apigee](https://cloud.google.com/apigee)
@@ -424,6 +454,10 @@
 - [PostgreSQL](https://postgresql.org)
 - [MySQL](https://mysql.com)
 - [Redis](https://redis.io)
+- [LowDB](https://github.com/typicode/lowdb)
+
+#### CMS
+- [Strapi](https://strapi.io)
 
 #### Platform
 - [Firebase](https://firebase.google.com) :heavy_check_mark:
