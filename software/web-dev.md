@@ -460,7 +460,7 @@
 - [Strapi](https://strapi.io)
 
 #### Platform
-- [Firebase](https://firebase.google.com) :heavy_check_mark:
+- [Firebase](https://firebase.google.com)
 - [Supabase](https://supabase.com)
 - [Netlify](https://netlify.com)
 - [Vercel](https://vercel.com)
