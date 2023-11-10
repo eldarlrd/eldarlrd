@@ -147,7 +147,7 @@
 - [Grunt](https://gruntjs.com)
 
 #### Documentation
-- [Docusaurus](https://docusaurus.io)
+- [Docusaurus](https://docusaurus.io) :heavy_check_mark:
 - [docsify](https://docsify.js.org)
 
 #### Framework

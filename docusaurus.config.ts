@@ -1,6 +1,6 @@
 import { themes as prismThemes } from 'prism-react-renderer';
-import { type Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
+import { type Config } from '@docusaurus/types';
 
 const config: Config = {
   title: 'Documentation | eldarlrd',
@@ -21,10 +21,10 @@ const config: Config = {
       'classic',
       {
         docs: {
-          sidebarPath: './sidebar.ts'
+          sidebarPath: 'src/sidebar.ts'
         },
         theme: {
-          customCss: 'theme.css',
+          customCss: 'src/theme.css',
         },
       } satisfies Preset.Options,
     ],
