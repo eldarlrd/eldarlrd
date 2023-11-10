@@ -1,7 +1,8 @@
 {
   "name": "eldarlrd",
   "private": true,
-  "version": "0.0.2",
+  "version": "0.0.3",
+  "packageManager": "yarn@4.0.1",
   "keywords": [
     "documentation",
     "intro",
@@ -14,10 +15,16 @@
   "scripts": {
     "dev": "docusaurus start",
     "build": "docusaurus build",
-    "deploy": "docusaurus deploy",
-    "swizzle": "docusaurus swizzle",
-    "clear": "docusaurus clear",
-    "serve": "docusaurus serve"
+    "preview": "docusaurus serve",
+    "deployer": "docusaurus deploy",
+    "format": "prettier '{src/**/*.{ts,css},*.config.mts}' --write --cache-location=.yarn/.cache/prettier/.prettier-cache"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "jsxSingleQuote": true,
+    "bracketSameLine": true,
+    "trailingComma": "none",
+    "arrowParens": "avoid"
   },
   "dependencies": {
     "@docusaurus/core": "^3.0.0",
@@ -33,9 +40,13 @@
     "@docusaurus/plugin-content-docs": "^3.0.0",
     "@docusaurus/tsconfig": "^3.0.0",
     "@docusaurus/types": "^3.0.0",
+    "@types/react": "^18.2.37",
+    "prettier": "^3.0.3",
     "typescript": "^5.2.2"
   },
   "babel": {
-    "presets": ["@docusaurus/core/lib/babel/preset"]
+    "presets": [
+      "@docusaurus/core/lib/babel/preset"
+    ]
   }
 }

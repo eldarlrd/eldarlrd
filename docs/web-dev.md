@@ -1,4 +1,7 @@
-# Web Development
+---
+sidebar_position: 0
+---
+# 🕸️ Web Development
 **Here you'll find a compilation of interesting and useful technologies that I've heard or read about while studying.**
 
 **The :heavy_check_mark: is appended to those that have been tried by me.**
