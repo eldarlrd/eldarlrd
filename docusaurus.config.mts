@@ -11,6 +11,7 @@ export default {
   onBrokenMarkdownLinks: 'throw',
   onDuplicateRoutes: 'throw',
   deploymentBranch: 'deploy',
+
   i18n: {
     defaultLocale: 'en',
     locales: ['en']
@@ -42,9 +43,6 @@ export default {
     [
       'classic',
       {
-        pages: {
-          path: 'src'
-        },
         docs: {
           sidebarPath: 'src/sidebars.ts',
           routeBasePath: '/'
@@ -58,6 +56,9 @@ export default {
 
   themeConfig: {
     image: 'https://avatars.githubusercontent.com/u/95304986',
+    colorMode: {
+      respectPrefersColorScheme: true
+    },
     navbar: {
       title: 'Intro',
       hideOnScroll: true,
@@ -71,7 +72,7 @@ export default {
       },
       items: [
         {
-          to: 'web-dev',
+          to: 'software/web-dev',
           label: '📜 Docs',
           position: 'left'
         },
@@ -98,7 +99,7 @@ export default {
       },
       links: [
         {
-          title: '📜 Docs',
+          title: '📟 Software',
           items: [
             {
               label: '🕸️ Web Development',
