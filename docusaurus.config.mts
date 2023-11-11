@@ -1,3 +1,7 @@
+import { themes as prismThemes } from 'prism-react-renderer';
+import type * as Preset from '@docusaurus/preset-classic';
+import { type Config } from '@docusaurus/types';
+
 export default {
   title: 'Documentation | eldarlrd',
   tagline: "eldarlrd's intro and tech documentation",
@@ -50,7 +54,7 @@ export default {
         theme: {
           customCss: 'src/theme.css'
         }
-      }
+      } satisfies Preset.Options
     ]
   ],
 
@@ -58,6 +62,11 @@ export default {
     image: 'https://avatars.githubusercontent.com/u/95304986',
     colorMode: {
       respectPrefersColorScheme: true
+    },
+    docs: {
+      sidebar: {
+        hideable: true
+      }
     },
     navbar: {
       title: 'Intro',
@@ -103,15 +112,35 @@ export default {
           items: [
             {
               label: '🕸️ Web Development',
-              to: 'web-dev'
+              to: 'software/web-dev'
+            },
+            {
+              label: 'Web Design',
+              to: 'software/web-design'
+            },
+            {
+              label: 'Web Architecture',
+              to: 'software/arch'
+            },
+            {
+              label: 'JS Front End',
+              to: 'software/js-front-end'
+            },
+            {
+              label: 'JS Back End',
+              to: 'software/js-back-end'
             },
             {
               label: '🔑 Licenses',
-              to: 'licenses'
+              to: 'software/licenses'
             }
           ]
         }
       ]
+    },
+    prism: {
+      theme: prismThemes.dracula,
+      darkTheme: prismThemes.dracula
     }
-  }
-};
+  } satisfies Preset.ThemeConfig
+} as Config;

@@ -1,8 +1,7 @@
 {
   "name": "eldarlrd",
   "private": true,
-  "version": "0.1.0",
-  "packageManager": "yarn@4.0.1",
+  "version": "0.2.0",
   "keywords": [
     "documentation",
     "intro",
@@ -15,9 +14,9 @@
   "scripts": {
     "dev": "docusaurus start",
     "build": "docusaurus build",
-    "preview": "docusaurus serve",
+    "serve": "docusaurus serve",
     "deployer": "docusaurus deploy",
-    "format": "prettier '{src/**/*.{ts,css},*.config.mts}' --write --cache-location=.yarn/.cache/prettier/.prettier-cache"
+    "format": "prettier '{src/**/*.{ts,css},*.config.mts}' --write"
   },
   "prettier": {
     "singleQuote": true,
