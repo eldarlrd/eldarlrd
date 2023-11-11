@@ -3,8 +3,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 import { type Config } from '@docusaurus/types';
 
 export default {
-  title: 'Documentation | eldarlrd',
-  tagline: "eldarlrd's intro and tech documentation",
+  title: 'eldarlrd',
+  tagline: "eldarlrd's docs & blog",
   favicon: 'https://avatars.githubusercontent.com/u/95304986',
   url: 'https://eldarlrd.github.io',
   baseUrl: '/eldarlrd/',
@@ -47,8 +47,12 @@ export default {
     [
       'classic',
       {
+        pages: {
+          path: 'src',
+          include: ['**/*.{md,mdx}']
+        },
         docs: {
-          sidebarPath: 'src/sidebars.ts',
+          sidebarPath: 'src/sidebar.ts',
           routeBasePath: '/'
         },
         theme: {
@@ -65,7 +69,8 @@ export default {
     },
     docs: {
       sidebar: {
-        hideable: true
+        hideable: true,
+        autoCollapseCategories: true
       }
     },
     navbar: {
@@ -81,8 +86,13 @@ export default {
       },
       items: [
         {
-          to: 'software/web-dev',
+          to: 'web-dev',
           label: '📜 Docs',
+          position: 'left'
+        },
+        {
+          to: 'blog',
+          label: '💭 Blog',
           position: 'left'
         },
         {
@@ -108,31 +118,36 @@ export default {
       },
       links: [
         {
-          title: '📟 Software',
+          title: '🕸️ Web Dev',
           items: [
             {
-              label: '🕸️ Web Development',
-              to: 'software/web-dev'
+              label: '⚡ JavaScript',
+              to: 'web-dev/javascript'
             },
             {
-              label: 'Web Design',
-              to: 'software/web-design'
+              label: '✒️ Front End',
+              to: 'web-dev/front-end'
             },
             {
-              label: 'Web Architecture',
-              to: 'software/arch'
+              label: '💅 Design',
+              to: 'web-dev/design'
             },
             {
-              label: 'JS Front End',
-              to: 'software/js-front-end'
+              label: '🦎 Back End',
+              to: 'web-dev/back-end'
             },
             {
-              label: 'JS Back End',
-              to: 'software/js-back-end'
-            },
+              label: '🏗️ Architecture',
+              to: 'web-dev/architecture'
+            }
+          ]
+        },
+        {
+          title: '💭 Blog',
+          items: [
             {
               label: '🔑 Licenses',
-              to: 'software/licenses'
+              to: 'blog/2023/08/23/licenses'
             }
           ]
         }

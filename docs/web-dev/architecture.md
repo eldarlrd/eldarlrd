@@ -1,7 +1,7 @@
 ---
-sidebar_position: 2
+sidebar_position: 4
 ---
-## Architecture
+# 🏗️ Architecture
 #### PWA
 - [Web App Manifest](https://developer.mozilla.org/en-US/docs/Web/Manifest) :heavy_check_mark:
 - [Using Service Workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers) :heavy_check_mark:

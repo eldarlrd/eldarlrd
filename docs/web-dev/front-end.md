@@ -1,7 +1,7 @@
 ---
-sidebar_position: 4
+sidebar_position: 1
 ---
-# JS Front End
+# ✒️ Front End
 ## General
 #### Helpers
 - [Modern Web](https://modern-web.dev)

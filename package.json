@@ -1,13 +1,13 @@
 {
   "name": "eldarlrd",
   "private": true,
-  "version": "0.2.0",
+  "version": "0.3.0",
   "keywords": [
     "documentation",
     "intro",
     "tech"
   ],
-  "description": "eldarlrd's intro and tech documentation",
+  "description": "eldarlrd's docs & blog",
   "repository": "github:eldarlrd/eldarlrd",
   "homepage": "https://eldarlrd.github.io/eldarlrd",
   "author": "Eldar Pashazade <eldarlrd@pm.me> (https://eldarlrd.github.io)",
