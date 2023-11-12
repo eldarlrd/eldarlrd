@@ -9,34 +9,6 @@ image: https://nix-united.com/wp-content/uploads/2021/12/Big-Choosing-Dilemma.pn
 
 **The :heavy_check_mark: is appended to those that have been tried and verified by me.**
 
-### Free API
-- [JSONPlaceholder](https://jsonplaceholder.typicode.com) :heavy_check_mark:
-- #### Weather
-  - [OpenWeather](https://openweathermap.org/api)
-- #### News
-  - [New York Times](https://developer.nytimes.com/apis)
-- #### Books
-  - [Open Library](https://openlibrary.org/developers/api)
-- #### Movies
-  - [TMDB](https://developer.themoviedb.org/docs)
-- #### Music
-  - [Spotify](https://developer.spotify.com/documentation/web-api)
-- #### Food
-  - [spoonacular](https://spoonacular.com/food-api)
-  - [TheMealDB](https://themealdb.com/api.php)
-  - [TheCocktailDB](https://thecocktaildb.com/api.php)
-- #### Quotes
-  - [Zen Quotes](https://zenquotes.io)
-- #### Jokes
-  - [DadJokes](https://dadjokes.io)
-  - [JokeAPI](https://sv443.net/jokeapi/v2)
-- #### Sports
-  - [API-SPORTS](https://api-sports.io)
-- #### Countries
-  - [REST Countries](https://restcountries.com)
-- #### Dictionary
-  - [Merriam-Webster Dictionary](https://dictionaryapi.com)
-
 ### PWA
 - [Web App Manifest](https://developer.mozilla.org/en-US/docs/Web/Manifest) :heavy_check_mark:
 - [Using Service Workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers) :heavy_check_mark:
@@ -103,3 +75,31 @@ image: https://nix-united.com/wp-content/uploads/2021/12/Big-Choosing-Dilemma.pn
 #### Framework
 - [Electron](https://electronjs.org)
 - [Tauri](https://tauri.app)
+
+### Free API
+- [JSONPlaceholder](https://jsonplaceholder.typicode.com) :heavy_check_mark:
+- #### Weather
+  - [OpenWeather](https://openweathermap.org/api)
+- #### News
+  - [New York Times](https://developer.nytimes.com/apis)
+- #### Books
+  - [Open Library](https://openlibrary.org/developers/api)
+- #### Movies
+  - [TMDB](https://developer.themoviedb.org/docs)
+- #### Music
+  - [Spotify](https://developer.spotify.com/documentation/web-api)
+- #### Food
+  - [spoonacular](https://spoonacular.com/food-api)
+  - [TheMealDB](https://themealdb.com/api.php)
+  - [TheCocktailDB](https://thecocktaildb.com/api.php)
+- #### Quotes
+  - [Zen Quotes](https://zenquotes.io)
+- #### Jokes
+  - [DadJokes](https://dadjokes.io)
+  - [JokeAPI](https://sv443.net/jokeapi/v2)
+- #### Sports
+  - [API-SPORTS](https://api-sports.io)
+- #### Countries
+  - [REST Countries](https://restcountries.com)
+- #### Dictionary
+  - [Merriam-Webster Dictionary](https://dictionaryapi.com)

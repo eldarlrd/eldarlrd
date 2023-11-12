@@ -1,7 +1,7 @@
 {
   "name": "eldarlrd",
   "private": true,
-  "version": "0.7.0",
+  "version": "0.8.0",
   "keywords": [
     "documentation",
     "blog",
@@ -27,7 +27,9 @@
       "stylelint-stylus/standard"
     ],
     "rules": {
-      "stylus/declaration-colon": "always"
+      "selector-class-pattern": null,
+      "stylus/declaration-colon": "always",
+      "stylus/selector-list-comma": "always"
     }
   },
   "prettier": {
@@ -44,7 +46,7 @@
     "@mdx-js/react": "^3.0.0",
     "clsx": "^1.2.1",
     "docusaurus-plugin-sass": "^0.2.5",
-    "prism-react-renderer": "^2.1.0",
+    "prism-react-renderer": "^2.2.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "sass": "^1.69.5"

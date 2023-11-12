@@ -3,6 +3,7 @@ sidebar_position: 4
 tags: [web-dev, back-end, node]
 keywords: [web-dev, back-end, node]
 image: https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg
+hide_table_of_contents: true
 ---
 # 🦎 Back End
 **Libraries and frameworks for database work and processing.**
