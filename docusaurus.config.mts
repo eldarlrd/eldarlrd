@@ -50,7 +50,7 @@ export default {
       {
         pages: {
           path: 'src',
-          include: ['**/*.{md,mdx}']
+          include: ['**/*.mdx']
         },
         docs: {
           sidebarPath: 'src/sidebar.ts',
