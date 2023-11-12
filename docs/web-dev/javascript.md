@@ -76,6 +76,7 @@ sidebar_position: 0
 - [Handlebars](https://handlebarsjs.com)
 
 #### HTML
+- [MDX](https://mdxjs.com) :heavy_check_mark:
 - [htmx](https://htmx.org)
 - [Marko](https://markojs.com)
 - [Hotwire](https://hotwired.dev)

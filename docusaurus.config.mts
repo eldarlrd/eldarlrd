@@ -15,6 +15,7 @@ export default {
   onBrokenMarkdownLinks: 'throw',
   onDuplicateRoutes: 'throw',
   deploymentBranch: 'deploy',
+  plugins: ['docusaurus-plugin-sass'],
 
   i18n: {
     defaultLocale: 'en',
@@ -25,7 +26,7 @@ export default {
       tagName: 'meta',
       attributes: {
         name: 'keywords',
-        content: 'documentation, intro, tech'
+        content: 'documentation, blog, tech'
       }
     },
     {
@@ -55,8 +56,11 @@ export default {
           sidebarPath: 'src/sidebar.ts',
           routeBasePath: '/'
         },
+        blog: {
+          blogTitle: '💭 Blog'
+        },
         theme: {
-          customCss: 'src/theme.css'
+          customCss: 'src/theme.sass'
         }
       } satisfies Preset.Options
     ]
@@ -74,7 +78,7 @@ export default {
       }
     },
     navbar: {
-      title: 'Intro',
+      title: 'eldarlrd',
       hideOnScroll: true,
       logo: {
         src: 'https://avatars.githubusercontent.com/u/95304986',

@@ -1,13 +1,13 @@
-# Documentation | eldarlrd
+# Docs & Blog | eldarlrd
 
-> Documentation | eldarlrd is a website built with
+> Docs & Blog | eldarlrd is a website built with
 > - **[Docusaurus](https://docusaurus.io)**
 > - **[TypeScript](https://typescriptlang.org)**
 > - **[React](https://react.dev)**
 > - **[Prism](https://prismjs.com)**
 > - **[webpack](https://webpack.js.org)**
 >
-> made for collections of tech and guides.
+> made for tech documentation and blog.
 
 ## Install
 ```sh
@@ -26,7 +26,7 @@ pnpm build
 ```sh
 pnpm serve
 ```
-### Format Code (Prettier)
+### Format Code (Stylelint + Prettier)
 ```sh
 pnpm format
 ```
