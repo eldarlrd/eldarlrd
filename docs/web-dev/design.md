@@ -1,8 +1,10 @@
 ---
 sidebar_position: 2
+tags: [web-dev, design, css]
+keywords: [web-dev, design, css]
+image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Design-Process-Blog-Post-Feature-Image-36119-01-1024x537.png
 ---
 # 💅 Design
-## General
 #### Methodology
 - [BEM](https://getbem.com)
 

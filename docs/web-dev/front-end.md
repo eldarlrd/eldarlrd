@@ -1,8 +1,10 @@
 ---
 sidebar_position: 1
+tags: [web-dev, front-end, react]
+keywords: [web-dev, front-end, react]
+image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 ---
 # ✒️ Front End
-## General
 #### Helpers
 - [Modern Web](https://modern-web.dev)
 - [Open Web Components](https://open-wc.org)

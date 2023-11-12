@@ -1,5 +1,8 @@
 ---
 sidebar_position: 3
+tags: [web-dev, back-end, node]
+keywords: [web-dev, back-end, node]
+image: https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg
 ---
 # 🦎 Back End
 #### Guide

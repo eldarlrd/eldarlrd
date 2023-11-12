@@ -1,10 +1,10 @@
 ---
 sidebar_position: 0
+tags: [web-dev, javascript, typescript]
+keywords: [web-dev, javascript, typescript]
+image: https://tsh.io/wp-content/uploads/fly-images/14687/typescript-vs-javascript-comparison_-810x540.jpg
 ---
 # ⚡ JavaScript
-**Here you'll find a compilation of interesting and useful technologies that I've heard or read about while studying.**
-
-**The :heavy_check_mark: is appended to those that have been tried by me.**
 ### Curriculum
 - [freeCodeCamp](https://freecodecamp.org/learn) :heavy_check_mark:
 - [The Odin Project](https://theodinproject.com/paths) :heavy_check_mark:

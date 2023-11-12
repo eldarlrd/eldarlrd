@@ -1,5 +1,8 @@
 ---
 sidebar_position: 4
+tags: [web-dev, architecture, server]
+keywords: [web-dev, architecture, server]
+image: https://nix-united.com/wp-content/uploads/2021/12/Big-Choosing-Dilemma.png
 ---
 # 🏗️ Architecture
 #### PWA

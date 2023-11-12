@@ -4,6 +4,8 @@
 > - **[Docusaurus](https://docusaurus.io)**
 > - **[TypeScript](https://typescriptlang.org)**
 > - **[React](https://react.dev)**
+> - **[Sass](https://sass-lang.com)**
+> - **[MDX](https://mdxjs.com)**
 > - **[Prism](https://prismjs.com)**
 > - **[webpack](https://webpack.js.org)**
 >
