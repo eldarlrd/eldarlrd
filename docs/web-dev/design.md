@@ -1,11 +1,15 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 tags: [web-dev, design, css]
 keywords: [web-dev, design, css]
 image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Design-Process-Blog-Post-Feature-Image-36119-01-1024x537.png
 ---
 # 💅 Design
-#### Methodology
+**Free resources and components to level up your designs.**
+
+**The :heavy_check_mark: is appended to those that have been tried and verified by me.**
+
+### Methodology
 - [BEM](https://getbem.com)
 
 #### Helpers
@@ -37,7 +41,7 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 #### Typography
 - [Capsize](https://seek-oss.github.io/capsize)
 
-#### Color Space
+### Color Space
 - [OKLCH](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/oklch)
 
 #### Linter
@@ -69,7 +73,7 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 - [Barba.js](https://barba.js.org)
 - [Swup](https://swup.js.org)
 
-#### Components
+### Components
 - [Bootstrap](https://getbootstrap.com) :heavy_check_mark:
 - [W3.CSS](https://w3schools.com/w3css)
 - [daisyUI](https://daisyui.com)

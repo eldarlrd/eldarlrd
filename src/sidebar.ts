@@ -11,6 +11,7 @@ export default {
       },
       items: [
         'web-dev/javascript',
+        'web-dev/typescript',
         'web-dev/front-end',
         'web-dev/design',
         'web-dev/back-end',

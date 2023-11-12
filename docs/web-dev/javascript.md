@@ -1,15 +1,18 @@
 ---
 sidebar_position: 0
-tags: [web-dev, javascript, typescript]
-keywords: [web-dev, javascript, typescript]
-image: https://tsh.io/wp-content/uploads/fly-images/14687/typescript-vs-javascript-comparison_-810x540.jpg
+tags: [web-dev, javascript]
+keywords: [web-dev, javascript]
+image: https://static2.makeuseofimages.com/wordpress/wp-content/uploads/2016/09/javascript-udemy-courses.jpg
 ---
 # ⚡ JavaScript
+**Curricula, tools and libraries for the JavaScript ecosystem.**
+
+**The :heavy_check_mark: is appended to those that have been tried and verified by me.**
+
 ### Curriculum
 - [freeCodeCamp](https://freecodecamp.org/learn) :heavy_check_mark:
 - [The Odin Project](https://theodinproject.com/paths) :heavy_check_mark:
 
-## JavaScript
 #### Bundler
 - [Vite](https://vitejs.dev) :heavy_check_mark:
 - [Rollup](https://rollupjs.org) :heavy_check_mark:
@@ -31,7 +34,7 @@ image: https://tsh.io/wp-content/uploads/fly-images/14687/typescript-vs-javascri
 #### Type Checking
 - [Flow](https://flow.org) :heavy_check_mark:
 
-#### Linter
+### Linter
 - [ESLint](https://eslint.org) :heavy_check_mark:
 
 #### Code Formatter
@@ -59,7 +62,7 @@ image: https://tsh.io/wp-content/uploads/fly-images/14687/typescript-vs-javascri
 - [Lodash](https://lodash.com)
 - [Ramda](https://ramdajs.com)
 
-#### Testing
+### Testing
 - [Vitest](https://vitest.dev) :heavy_check_mark:
 - [Jest](https://jestjs.io)
 - [Mocha](https://mochajs.org)
@@ -85,26 +88,3 @@ image: https://tsh.io/wp-content/uploads/fly-images/14687/typescript-vs-javascri
 #### Flavor
 - [CoffeeScript](https://coffeescript.org) :heavy_check_mark:
 - [PureScript](https://purescript.org)
-
-## TypeScript
-#### Official
-- [TypeScript](https://typescriptlang.org)
-
-#### Guide
-- [Total TypeScript](https://totaltypescript.com/tutorials) :heavy_check_mark:
-- [Learn TypeScript](https://freecodecamp.org/news/learn-typescript-beginners-guide)
-
-#### Helpers
-- [TypeScript Tutorial](https://w3schools.com/typescript)
-
-#### Examples
-- [Definitely Typed](https://github.com/DefinitelyTyped/DefinitelyTyped)
-
-#### Exercises
-- [Type Challenges](https://github.com/type-challenges/type-challenges)
-
-#### Code Style
-- [Google TS](https://google.github.io/styleguide/tsguide.html)
-
-#### Flavor
-- [Civet](https://civet.dev)

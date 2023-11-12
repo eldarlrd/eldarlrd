@@ -1,11 +1,15 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 tags: [web-dev, front-end, react]
 keywords: [web-dev, front-end, react]
 image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 ---
 # ✒️ Front End
-#### Helpers
+**Libraries and frameworks for modern UI development.**
+
+**The :heavy_check_mark: is appended to those that have been tried and verified by me.**
+
+### Helpers
 - [Modern Web](https://modern-web.dev)
 - [Open Web Components](https://open-wc.org)
 
@@ -35,7 +39,7 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 #### Drag & Drop
 - [dnd kit](https://dndkit.com) :heavy_check_mark:
 
-#### 3D
+### 3D
 - [Three.js](https://threejs.org)
 
 #### ARIA
@@ -65,8 +69,7 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - [Aurelia](https://aurelia.io)
 - [Dojo](https://dojo.io)
 
-## React
-#### Guide
+### React
 - [Thinking in React](https://reactjs.org/docs/thinking-in-react.html) :heavy_check_mark:
 
 #### Helpers
@@ -96,7 +99,7 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - [Slate](https://docs.slatejs.org)
 - [Plate](https://platejs.org)
 
-#### Routing
+### Routing
 - [React Router](https://reactrouter.com) :heavy_check_mark:
 - [Reach Router](https://reach.tech/router)
 
@@ -118,8 +121,7 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - [refine](https://refine.dev)
 - [Fresh](https://fresh.deno.dev) (Preact)
 
-## Vue
-#### Guide
+### Vue
 - [Learn Vue](https://freecodecamp.org/news/vue-js-full-course)
 
 #### Flavor
@@ -129,8 +131,7 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - [Nuxt](https://nuxt.com)
 - [Gridsome](https://gridsome.org)
 
-## Angular
-#### Guide
+#### Angular
 - [Learn Angular](https://freecodecamp.org/news/angular-tutorial-course)
 
 #### State Management

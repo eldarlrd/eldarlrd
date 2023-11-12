@@ -1,10 +1,14 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 tags: [web-dev, back-end, node]
 keywords: [web-dev, back-end, node]
 image: https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg
 ---
 # 🦎 Back End
+**Libraries and frameworks for database work and processing.**
+
+**The :heavy_check_mark: is appended to those that have been tried and verified by me.**
+
 #### Guide
 - [Learn Node the Hard Way](https://github.com/ishtms/learn-nodejs-hard-way)
 

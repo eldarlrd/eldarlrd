@@ -1,22 +1,15 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 tags: [web-dev, architecture, server]
 keywords: [web-dev, architecture, server]
 image: https://nix-united.com/wp-content/uploads/2021/12/Big-Choosing-Dilemma.png
 ---
 # 🏗️ Architecture
-#### PWA
-- [Web App Manifest](https://developer.mozilla.org/en-US/docs/Web/Manifest) :heavy_check_mark:
-- [Using Service Workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers) :heavy_check_mark:
-- [Vite PWA](https://vite-pwa-org.netlify.app) :heavy_check_mark:
+**Modern web standards, utilities and free API.**
 
-#### Package Management
-- [npm](https://npmjs.com) :heavy_check_mark:
-- [Yarn](https://yarnpkg.com) :heavy_check_mark:
-- [pnpm](https://pnpm.io) :heavy_check_mark:
-- [Lerna](https://lerna.js.org) (Monorepo)
+**The :heavy_check_mark: is appended to those that have been tried and verified by me.**
 
-#### Free API
+### Free API
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com) :heavy_check_mark:
 - #### Weather
   - [OpenWeather](https://openweathermap.org/api)
@@ -44,6 +37,17 @@ image: https://nix-united.com/wp-content/uploads/2021/12/Big-Choosing-Dilemma.pn
 - #### Dictionary
   - [Merriam-Webster Dictionary](https://dictionaryapi.com)
 
+### PWA
+- [Web App Manifest](https://developer.mozilla.org/en-US/docs/Web/Manifest) :heavy_check_mark:
+- [Using Service Workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers) :heavy_check_mark:
+- [Vite PWA](https://vite-pwa-org.netlify.app) :heavy_check_mark:
+
+#### Package Management
+- [npm](https://npmjs.com) :heavy_check_mark:
+- [Yarn](https://yarnpkg.com) :heavy_check_mark:
+- [pnpm](https://pnpm.io) :heavy_check_mark:
+- [Lerna](https://lerna.js.org) (Monorepo)
+
 #### API Development
 - [Swagger](https://swagger.io)
 - [Apigee](https://cloud.google.com/apigee)
@@ -64,7 +68,7 @@ image: https://nix-united.com/wp-content/uploads/2021/12/Big-Choosing-Dilemma.pn
 #### Communication
 - [Socket.IO](https://socket.io)
 
-#### Search
+### Search
 - [Algolia](https://algolia.com)
 
 #### Video
@@ -81,10 +85,10 @@ image: https://nix-united.com/wp-content/uploads/2021/12/Big-Choosing-Dilemma.pn
 - [PouchDB](https://pouchdb.com)
 - [RethinkDB](https://rethinkdb.com)
 - [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+- [LowDB](https://github.com/typicode/lowdb)
 - [PostgreSQL](https://postgresql.org)
 - [MySQL](https://mysql.com)
 - [Redis](https://redis.io)
-- [LowDB](https://github.com/typicode/lowdb)
 
 #### CMS
 - [Strapi](https://strapi.io)
