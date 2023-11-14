@@ -18,4 +18,4 @@ Currently, I'm working on the **:godmode: Front End** and utilizing
     height='16'>
 </a> **JS Libraries** to create interactive web apps and games. I particularly enjoy the latter as they often require extensive work on logic.
 
-This is a hub for my *personal projects* and the ones I make for *a couple curricula.*
+This is a hub for my *personal projects* and the ones I make for *a couple of curricula.*

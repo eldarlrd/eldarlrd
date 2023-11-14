@@ -15,12 +15,13 @@ export default {
   onBrokenMarkdownLinks: 'throw',
   onDuplicateRoutes: 'throw',
   deploymentBranch: 'deploy',
-  plugins: ['docusaurus-plugin-sass'],
 
+  plugins: ['docusaurus-plugin-sass'],
   i18n: {
     defaultLocale: 'en',
     locales: ['en']
   },
+
   headTags: [
     {
       tagName: 'meta',
@@ -44,13 +45,14 @@ export default {
       }
     }
   ],
+
   presets: [
     [
       'classic',
       {
         pages: {
           path: 'src',
-          include: ['**/*.{md,mdx}']
+          include: ['**/*.mdx']
         },
         docs: {
           sidebarPath: 'src/sidebar.ts',
@@ -77,6 +79,7 @@ export default {
         autoCollapseCategories: true
       }
     },
+
     navbar: {
       title: 'eldarlrd',
       hideOnScroll: true,
@@ -108,6 +111,7 @@ export default {
         }
       ]
     },
+
     footer: {
       copyright: '© 2023 eldarlrd',
       logo: {
@@ -161,6 +165,7 @@ export default {
         }
       ]
     },
+
     prism: {
       theme: prismThemes.dracula,
       darkTheme: prismThemes.dracula
