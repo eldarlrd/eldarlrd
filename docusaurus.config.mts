@@ -117,6 +117,7 @@ export default {
       logo: {
         src: 'https://avatars.githubusercontent.com/u/95304986',
         href: 'https://eldarlrd.github.io',
+        target: '_blank',
         alt: 'GitHub avatar',
         style: {
           border: '1px solid #8b5cf6',
