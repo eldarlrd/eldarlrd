@@ -27,7 +27,7 @@ export default {
       tagName: 'meta',
       attributes: {
         name: 'keywords',
-        content: 'documentation, blog, tech'
+        content: 'docs, blog, tech'
       }
     },
     {

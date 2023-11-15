@@ -58,7 +58,7 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - [Mithril](https://mithril.js.org) :heavy_check_mark:
 - [Inferno](https://infernojs.org) :heavy_check_mark:
 - [Arrow](https://arrow-js.com) :heavy_check_mark:
-- [Lit](https://lit.dev)
+- [Lit](https://lit.dev) :heavy_check_mark:
 - [Qwik](https://qwik.builder.io)
 - [Riot](https://riot.js.org)
 - [Solid](https://solidjs.com)
