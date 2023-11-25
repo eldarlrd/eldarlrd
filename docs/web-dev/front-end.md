@@ -10,8 +10,8 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 **The :heavy_check_mark: is appended to those that have been tried and verified by me.**
 
 ### Helpers
+- [Open Web Components](https://open-wc.org) :heavy_check_mark:
 - [Modern Web](https://modern-web.dev)
-- [Open Web Components](https://open-wc.org)
 
 #### State Management
 - [Immer](https://immerjs.github.io/immer) :heavy_check_mark:

@@ -75,7 +75,7 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 
 ### Components
 - [Bootstrap](https://getbootstrap.com) :heavy_check_mark:
-- [W3.CSS](https://w3schools.com/w3css)
+- [W3.CSS](https://w3schools.com/w3css) :heavy_check_mark:
 - [daisyUI](https://daisyui.com)
 - [Tailwind Elements](https://tailwind-elements.com)
 - [Flowbite](https://flowbite.com)

@@ -35,7 +35,7 @@ image: https://nix-united.com/wp-content/uploads/2021/12/Big-Choosing-Dilemma.pn
 
 #### Image Format
 - [WebP](https://developers.google.com/speed/webp) :heavy_check_mark:
-- [AVIF](https://avif.io)
+- [AVIF](https://avif.io) :heavy_check_mark:
 
 #### Communication
 - [Socket.IO](https://socket.io)
@@ -67,6 +67,7 @@ image: https://nix-united.com/wp-content/uploads/2021/12/Big-Choosing-Dilemma.pn
 
 #### CMS
 - [Strapi](https://strapi.io)
+- [Decap](https://decapcms.org)
 
 #### Platform
 - [Firebase](https://firebase.google.com)
@@ -82,7 +83,8 @@ image: https://nix-united.com/wp-content/uploads/2021/12/Big-Choosing-Dilemma.pn
 ### Free API
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com) :heavy_check_mark:
 - #### Weather
-  - [OpenWeather](https://openweathermap.org/api)
+  - [OpenWeather](https://openweathermap.org/api) :heavy_check_mark:
+  - [fCC Weather](https://weather-proxy.freecodecamp.rocks)
 - #### News
   - [New York Times](https://developer.nytimes.com/apis)
 - #### Books

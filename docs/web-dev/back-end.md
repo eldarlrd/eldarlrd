@@ -16,6 +16,9 @@ hide_table_of_contents: true
 #### Helpers
 - [Send Emails](https://mailtrap.io/blog/sending-emails-with-nodemailer)
 
+#### Environment
+- [Dotenv](https://dotenv.org) :heavy_check_mark:
+
 #### API Query
 - [GraphQL](https://graphql.org)
 - [Relay](https://relay.dev)
