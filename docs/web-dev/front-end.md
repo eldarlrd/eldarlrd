@@ -59,9 +59,9 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - [Inferno](https://infernojs.org) :heavy_check_mark:
 - [Arrow](https://arrow-js.com) :heavy_check_mark:
 - [Lit](https://lit.dev) :heavy_check_mark:
+- [Solid](https://solidjs.com) :heavy_check_mark:
 - [Qwik](https://qwik.builder.io)
 - [Riot](https://riot.js.org)
-- [Solid](https://solidjs.com)
 - [Svelte](https://svelte.dev)
 - [Ember](https://emberjs.com)
 - [Backbone](https://backbonejs.org)

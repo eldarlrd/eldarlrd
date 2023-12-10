@@ -64,7 +64,7 @@ image: https://static2.makeuseofimages.com/wordpress/wp-content/uploads/2016/09/
 
 ### Testing
 - [Vitest](https://vitest.dev) :heavy_check_mark:
-- [Jest](https://jestjs.io)
+- [Jest](https://jestjs.io) :heavy_check_mark:
 - [Mocha](https://mochajs.org)
 - [QUnit](https://qunitjs.com)
 - [Chai](https://chaijs.com)

@@ -16,6 +16,7 @@ hide_table_of_contents: true
 #### Guide
 - [Total TypeScript](https://totaltypescript.com/tutorials) :heavy_check_mark:
 - [Learn TypeScript](https://freecodecamp.org/news/learn-typescript-beginners-guide)
+- [TypeHero](https://typehero.dev)
 
 #### Helpers
 - [TypeScript Tutorial](https://w3schools.com/typescript)
