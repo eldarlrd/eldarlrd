@@ -37,6 +37,9 @@ image: https://nix-united.com/wp-content/uploads/2021/12/Big-Choosing-Dilemma.pn
 - [WebP](https://developers.google.com/speed/webp) :heavy_check_mark:
 - [AVIF](https://avif.io) :heavy_check_mark:
 
+#### Audio Format
+- [Opus](https://opus-codec.org) :heavy_check_mark:
+
 #### Communication
 - [Socket.IO](https://socket.io)
 

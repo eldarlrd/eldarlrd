@@ -38,6 +38,7 @@ hide_table_of_contents: true
 - [Express](https://expressjs.com)
 - [Astro](https://astro.build)
 - [Nest](https://nestjs.com)
+- [Sails](https://sailsjs.com)
 - [Meteor](https://meteor.com)
 - [Fastify](https://fastify.dev)
 - [Aleph.js](https://alephjs.org)
