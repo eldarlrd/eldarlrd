@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkeldarlrd=self.webpackChunkeldarlrd||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\ud83d\udd11 Licenses","permalink":"/eldarlrd/blog/2023/08/23/licenses","unlisted":false}]}')}}]);
