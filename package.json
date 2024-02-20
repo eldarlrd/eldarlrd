@@ -15,7 +15,7 @@
     "dev": "docusaurus start",
     "build": "docusaurus build",
     "serve": "docusaurus serve",
-    "deployer": "pnpm build && gh-pages -b prod -m 'build: deployment' -d build",
+    "deployer": "pnpm build && gh-pages -b prod -m 'build(prod): deployment' -d build",
     "style": "stylelint 'src/**/*.sass'",
     "pretty": "prettier '{src/**/*.ts,*.config.mts}' --write",
     "format": "pnpm style --fix && pnpm pretty"
