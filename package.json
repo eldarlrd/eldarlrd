@@ -1,7 +1,7 @@
 {
   "name": "eldarlrd",
   "private": true,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "keywords": [
     "docs",
     "blog",
@@ -15,7 +15,7 @@
     "dev": "docusaurus start",
     "build": "docusaurus build",
     "serve": "docusaurus serve",
-    "deployer": "pnpm build && gh-pages -b deploy -m 'build: deployment' -d build",
+    "deployer": "pnpm build && gh-pages -b prod -m 'build: deployment' -d build",
     "style": "stylelint 'src/**/*.sass'",
     "pretty": "prettier '{src/**/*.ts,*.config.mts}' --write",
     "format": "pnpm style --fix && pnpm pretty"
@@ -40,28 +40,28 @@
     "arrowParens": "avoid"
   },
   "dependencies": {
-    "@docusaurus/core": "^3.0.0",
-    "@docusaurus/plugin-content-docs": "^3.0.0",
-    "@docusaurus/preset-classic": "^3.0.0",
-    "@mdx-js/react": "^3.0.0",
-    "clsx": "^1.2.1",
+    "@docusaurus/core": "^3.1.1",
+    "@docusaurus/plugin-content-docs": "^3.1.1",
+    "@docusaurus/preset-classic": "^3.1.1",
+    "@mdx-js/react": "^3.0.1",
+    "clsx": "^2.1.0",
     "docusaurus-plugin-sass": "^0.2.5",
-    "prism-react-renderer": "^2.2.0",
+    "prism-react-renderer": "^2.3.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "sass": "^1.69.5"
+    "sass": "^1.71.0"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "^3.0.0",
-    "@docusaurus/tsconfig": "^3.0.0",
-    "@docusaurus/types": "^3.0.0",
-    "@types/react": "^18.2.37",
-    "gh-pages": "^6.0.0",
-    "prettier": "^3.1.0",
-    "stylelint": "^15.11.0",
-    "stylelint-config-standard": "^34.0.0",
-    "stylelint-stylus": "^0.18.0",
-    "typescript": "^5.2.2"
+    "@docusaurus/module-type-aliases": "^3.1.1",
+    "@docusaurus/tsconfig": "^3.1.1",
+    "@docusaurus/types": "^3.1.1",
+    "@types/react": "^18.2.57",
+    "gh-pages": "^6.1.1",
+    "prettier": "^3.2.5",
+    "stylelint": "^16.2.1",
+    "stylelint-config-standard": "^36.0.0",
+    "stylelint-stylus": "^1.0.0",
+    "typescript": "^5.3.3"
   },
   "babel": {
     "presets": [

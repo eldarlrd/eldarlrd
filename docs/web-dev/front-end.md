@@ -60,8 +60,8 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - [Arrow](https://arrow-js.com) :heavy_check_mark:
 - [Lit](https://lit.dev) :heavy_check_mark:
 - [Solid](https://solidjs.com) :heavy_check_mark:
+- [Riot](https://riot.js.org) :heavy_check_mark:
 - [Qwik](https://qwik.builder.io)
-- [Riot](https://riot.js.org)
 - [Svelte](https://svelte.dev)
 - [Ember](https://emberjs.com)
 - [Backbone](https://backbonejs.org)
@@ -78,7 +78,10 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - [React Best Practices](https://freecodecamp.org/news/best-practices-for-react) :heavy_check_mark:
 
 #### Code Style
-- [Airbnb React/JSX](https://airbnb.io/javascript/react)
+- [Airbnb React/JSX](https://airbnb.io/javascript/react) :heavy_check_mark:
+
+#### Compiler
+- [Million.js](https://million.dev)
 
 #### State Management
 - [Redux Toolkit](https://redux-toolkit.js.org) :heavy_check_mark:
