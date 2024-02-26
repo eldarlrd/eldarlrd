@@ -108,4 +108,5 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
   - [Styled Components](https://styled-components.com)
   - [Styled System](https://styled-system.com)
 - #### Angular
+  - [Taiga UI](https://taiga-ui.dev)
   - [PrimeNG](https://primeng.org)

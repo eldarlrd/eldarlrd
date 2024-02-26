@@ -1,7 +1,7 @@
 {
   "name": "eldarlrd",
   "private": true,
-  "version": "1.0.3",
+  "version": "1.0.4",
   "keywords": [
     "docs",
     "blog",
@@ -37,7 +37,8 @@
     "jsxSingleQuote": true,
     "bracketSameLine": true,
     "trailingComma": "none",
-    "arrowParens": "avoid"
+    "arrowParens": "avoid",
+    "experimentalTernaries": true
   },
   "dependencies": {
     "@docusaurus/core": "^3.1.1",
@@ -49,13 +50,13 @@
     "prism-react-renderer": "^2.3.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "sass": "^1.71.0"
+    "sass": "^1.71.1"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^3.1.1",
     "@docusaurus/tsconfig": "^3.1.1",
     "@docusaurus/types": "^3.1.1",
-    "@types/react": "^18.2.57",
+    "@types/react": "^18.2.58",
     "gh-pages": "^6.1.1",
     "prettier": "^3.2.5",
     "stylelint": "^16.2.1",

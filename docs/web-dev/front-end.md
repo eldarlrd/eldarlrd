@@ -10,6 +10,7 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 **The :heavy_check_mark: is appended to those that have been tried and verified by me.**
 
 ### Helpers
+- [Intersection Observer](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) :heavy_check_mark:
 - [Open Web Components](https://open-wc.org) :heavy_check_mark:
 - [Modern Web](https://modern-web.dev)
 

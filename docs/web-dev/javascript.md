@@ -74,8 +74,10 @@ image: https://static2.makeuseofimages.com/wordpress/wp-content/uploads/2016/09/
 - [Sinon](https://sinonjs.org)
 
 #### Templating
+- [11ty](https://11ty.dev)
 - [EJS](https://ejs.co)
 - [Pug](https://pugjs.org)
+- [Haml](https://haml.info)
 - [Handlebars](https://handlebarsjs.com)
 
 #### HTML
