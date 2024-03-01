@@ -5,7 +5,7 @@ import { type Config } from '@docusaurus/types';
 export default {
   title: 'eldarlrd',
   tagline: "eldarlrd's docs & blog",
-  favicon: 'https://avatars.githubusercontent.com/u/95304986',
+  favicon: 'https://github.com/eldarlrd.png',
   url: 'https://eldarlrd.github.io',
   baseUrl: '/eldarlrd/',
   organizationName: 'eldarlrd',
@@ -69,7 +69,7 @@ export default {
   ],
 
   themeConfig: {
-    image: 'https://avatars.githubusercontent.com/u/95304986',
+    image: 'https://github.com/eldarlrd.png',
     colorMode: {
       respectPrefersColorScheme: true
     },
@@ -84,7 +84,7 @@ export default {
       title: 'eldarlrd',
       hideOnScroll: true,
       logo: {
-        src: 'https://avatars.githubusercontent.com/u/95304986',
+        src: 'https://github.com/eldarlrd.png',
         alt: 'GitHub avatar',
         style: {
           border: '1px solid #8b5cf6',
@@ -115,7 +115,7 @@ export default {
     footer: {
       copyright: '© 2023 - 2024 eldarlrd',
       logo: {
-        src: 'https://avatars.githubusercontent.com/u/95304986',
+        src: 'https://github.com/eldarlrd.png',
         href: 'https://eldarlrd.github.io',
         target: '_blank',
         alt: 'GitHub avatar',

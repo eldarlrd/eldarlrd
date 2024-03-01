@@ -30,6 +30,7 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 - [Lucide](https://lucide.dev) :heavy_check_mark:
 - [Heroicons](https://heroicons.com) :heavy_check_mark:
 - [Pictogrammers](https://pictogrammers.com)
+- [Devicon](https://devicon.dev)
 - [Feather](https://feathericons.com)
 
 #### Workshop
@@ -61,6 +62,7 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 - [Tachyons](https://tachyons.io) :heavy_check_mark:
 - [Emotion](https://emotion.sh) :heavy_check_mark:
 - [Materialize](https://materializeweb.com)
+- [StyleX](https://stylexjs.com)
 - [Panda](https://panda-css.com)
 - [Pure](https://purecss.io)
 - [JSS](https://cssinjs.org)
