@@ -11,7 +11,7 @@ hide_table_of_contents: true
 **The :heavy_check_mark: is appended to those that have been tried and verified by me.**
 
 #### Official
-- [TypeScript](https://typescriptlang.org)
+- [TypeScript](https://typescriptlang.org) :heavy_check_mark:
 
 #### Guide
 - [Total TypeScript](https://totaltypescript.com/tutorials) :heavy_check_mark:

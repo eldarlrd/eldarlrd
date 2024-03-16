@@ -29,8 +29,8 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 - [Font Awesome](https://fontawesome.com) :heavy_check_mark:
 - [Lucide](https://lucide.dev) :heavy_check_mark:
 - [Heroicons](https://heroicons.com) :heavy_check_mark:
+- [Devicon](https://devicon.dev) :heavy_check_mark:
 - [Pictogrammers](https://pictogrammers.com)
-- [Devicon](https://devicon.dev)
 - [Feather](https://feathericons.com)
 
 #### Workshop
@@ -50,7 +50,7 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 
 #### Processor
 - [SCSS](https://sass-lang.com) :heavy_check_mark:
-- [LESS](https://lesscss.org) :heavy_check_mark:
+- [Less](https://lesscss.org) :heavy_check_mark:
 - [PostCSS](https://postcss.org) :heavy_check_mark:
 - [Stylus](https://stylus-lang.com) :heavy_check_mark:
 - [Twind](https://twind.style) :heavy_check_mark:

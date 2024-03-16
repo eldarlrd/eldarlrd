@@ -2,7 +2,7 @@
 sidebar_position: 5
 tags: [web-dev, architecture, server]
 keywords: [web-dev, architecture, server]
-image: https://nix-united.com/wp-content/uploads/2021/12/Big-Choosing-Dilemma.png
+image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Google-Cloud-and-Microsoft-Azure-Choosing-the-Right-Cloud-Provider-for-Your-Business.png
 ---
 # 🏗️ Architecture
 **Modern web standards, utilities and free API.**
@@ -13,6 +13,11 @@ image: https://nix-united.com/wp-content/uploads/2021/12/Big-Choosing-Dilemma.pn
 - [Web App Manifest](https://developer.mozilla.org/en-US/docs/Web/Manifest) :heavy_check_mark:
 - [Using Service Workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers) :heavy_check_mark:
 - [Vite PWA](https://vite-pwa-org.netlify.app) :heavy_check_mark:
+
+#### Anti-Spam
+- [Honeypot](https://en.wikipedia.org/wiki/Honeypot_(computing)) :heavy_check_mark:
+- [hCaptcha](https://hcaptcha.com) :heavy_check_mark:
+- [reCAPTCHA](https://developers.google.com/recaptcha)
 
 #### Package Management
 - [npm](https://npmjs.com) :heavy_check_mark:

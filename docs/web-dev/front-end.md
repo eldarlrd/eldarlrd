@@ -12,6 +12,7 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 ### Helpers
 - [Intersection Observer](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) :heavy_check_mark:
 - [Open Web Components](https://open-wc.org) :heavy_check_mark:
+- [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API) :heavy_check_mark:
 - [Modern Web](https://modern-web.dev)
 
 #### State Management
@@ -65,6 +66,7 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - [Qwik](https://qwik.builder.io)
 - [Svelte](https://svelte.dev)
 - [Ember](https://emberjs.com)
+- [Nue](https://nuejs.org)
 - [Backbone](https://backbonejs.org)
 - [Alpine](https://alpinejs.dev)
 - [Aurelia](https://aurelia.io)
