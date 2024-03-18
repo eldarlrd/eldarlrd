@@ -84,11 +84,11 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - [Airbnb React/JSX](https://airbnb.io/javascript/react) :heavy_check_mark:
 
 #### Compiler
-- [Million.js](https://million.dev)
+- [Million.js](https://million.dev) :heavy_check_mark:
 
 #### State Management
 - [Redux Toolkit](https://redux-toolkit.js.org) :heavy_check_mark:
-- [Zustand](https://docs.pmnd.rs/zustand)
+- [Zustand](https://docs.pmnd.rs/zustand) :heavy_check_mark:
 - [Jotai](https://jotai.org)
 - [Recoil](https://recoiljs.org)
 - [MobX](https://mobx.js.org)
@@ -117,6 +117,9 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 
 #### Animation
 - [React Spring](https://react-spring.dev)
+
+#### 3D
+- [React Three Fiber](https://docs.pmnd.rs/react-three-fiber)
 
 #### Framework
 - [Remix](https://remix.run)

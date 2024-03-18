@@ -69,7 +69,8 @@ export default {
   ],
 
   themeConfig: {
-    image: 'https://github.com/eldarlrd.png',
+    image:
+      'https://repository-images.githubusercontent.com/566728249/fee47375-a1da-43ab-9865-e8c30d1e2304',
     colorMode: {
       respectPrefersColorScheme: true
     },

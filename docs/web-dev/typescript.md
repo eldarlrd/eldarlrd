@@ -28,7 +28,7 @@ hide_table_of_contents: true
 - [Type Challenges](https://github.com/type-challenges/type-challenges)
 
 #### Code Style
-- [Google TS](https://google.github.io/styleguide/tsguide.html)
+- [Google TS](https://google.github.io/styleguide/tsguide.html) :heavy_check_mark:
 
 #### Flavor
 - [Civet](https://civet.dev)

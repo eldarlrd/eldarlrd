@@ -39,6 +39,10 @@ hide_table_of_contents: true
 - [Drizzle](https://orm.drizzle.team)
 - [Prisma](https://prisma.io)
 
+#### Authorization
+- [Permify](https://permify.co)
+- [AuthZed](https://authzed.com)
+
 #### Validation
 - [joi](https://joi.dev)
 - [Zod](https://zod.dev)

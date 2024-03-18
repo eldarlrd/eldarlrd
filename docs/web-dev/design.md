@@ -10,7 +10,7 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 **The :heavy_check_mark: is appended to those that have been tried and verified by me.**
 
 ### Methodology
-- [BEM](https://getbem.com)
+- [BEM](https://getbem.com) :heavy_check_mark:
 
 #### Helpers
 - [Labels](https://refactoringui.com/previews/labels-are-a-last-resort) :heavy_check_mark:
