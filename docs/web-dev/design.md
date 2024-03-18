@@ -57,7 +57,8 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 - [UnoCSS](https://unocss.dev) :heavy_check_mark:
 
 #### Libraries
-- [Normalize](https://necolas.github.io/normalize.css) :heavy_check_mark:
+- [modern-normalize](https://github.com/sindresorhus/modern-normalize) :heavy_check_mark:
+- [normalize.css](https://csstools.github.io/normalize.css) :heavy_check_mark:
 - [Tailwind](https://tailwindcss.com) :heavy_check_mark:
 - [Tachyons](https://tachyons.io) :heavy_check_mark:
 - [Emotion](https://emotion.sh) :heavy_check_mark:

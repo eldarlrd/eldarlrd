@@ -133,9 +133,6 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 ### Vue
 - [Learn Vue](https://freecodecamp.org/news/vue-js-full-course)
 
-#### Flavor
-- [Petite Vue](https://github.com/vuejs/petite-vue)
-
 #### Framework
 - [Nuxt](https://nuxt.com)
 - [Gridsome](https://gridsome.org)
