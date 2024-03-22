@@ -30,9 +30,9 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 - [Apigee](https://cloud.google.com/apigee)
 
 #### API Workshop
+- [Bruno](https://usebruno.com)
 - [Postman](https://postman.com)
 - [Insomnia](https://insomnia.rest)
-- [Bruno](https://usebruno.com)
 - [Thunder Client](https://thunderclient.com)
 
 #### Media Types

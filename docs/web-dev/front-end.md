@@ -13,7 +13,6 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - [Intersection Observer](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) :heavy_check_mark:
 - [Open Web Components](https://open-wc.org) :heavy_check_mark:
 - [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API) :heavy_check_mark:
-- [Modern Web](https://modern-web.dev)
 
 #### State Management
 - [Immer](https://immerjs.github.io/immer) :heavy_check_mark:
@@ -59,89 +58,70 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - [Preact](https://preactjs.com) :heavy_check_mark:
 - [Mithril](https://mithril.js.org) :heavy_check_mark:
 - [Inferno](https://infernojs.org) :heavy_check_mark:
-- [Arrow](https://arrow-js.com) :heavy_check_mark:
 - [Lit](https://lit.dev) :heavy_check_mark:
 - [Solid](https://solidjs.com) :heavy_check_mark:
 - [Riot](https://riot.js.org) :heavy_check_mark:
-- [Qwik](https://qwik.builder.io)
 - [Svelte](https://svelte.dev)
 - [Ember](https://emberjs.com)
+- [Qwik](https://qwik.builder.io)
 - [Nue](https://nuejs.org)
-- [Backbone](https://backbonejs.org)
 - [Alpine](https://alpinejs.dev)
-- [Aurelia](https://aurelia.io)
-- [Dojo](https://dojo.io)
+- [Backbone](https://backbonejs.org)
 
 ### React
 - [Thinking in React](https://reactjs.org/docs/thinking-in-react.html) :heavy_check_mark:
+- #### Helpers
+  - [Atomic Design](https://danilowoz.com/blog/atomic-design-with-react) :heavy_check_mark:
+  - [React Context](https://freecodecamp.org/news/react-context-for-beginners) :heavy_check_mark:
+  - [React Best Practices](https://freecodecamp.org/news/best-practices-for-react) :heavy_check_mark:
+- #### Code Style
+  - [Airbnb React/JSX](https://airbnb.io/javascript/react) :heavy_check_mark:
+- #### Compiler
+  - [Million.js](https://million.dev) :heavy_check_mark:
+- #### State Management
+  - [Redux Toolkit](https://redux-toolkit.js.org) :heavy_check_mark:
+  - [Zustand](https://docs.pmnd.rs/zustand) :heavy_check_mark:
+  - [Jotai](https://jotai.org)
+  - [Recoil](https://recoiljs.org)
+  - [MobX](https://mobx.js.org)
+- #### API Query
+  - [TanStack Query](https://tanstack.com/query) (React Query)
+  - [RTK Query](https://redux-toolkit.js.org/rtk-query/overview)
+- #### Forms
+  - [React Hook Form](https://react-hook-form.com)
+  - [Formik](https://formik.org)
+- #### Text Editor
+  - [Slate](https://docs.slatejs.org)
+  - [Plate](https://platejs.org)
+- #### Routing
+  - [React Router](https://reactrouter.com) :heavy_check_mark:
+  - [Reach Router](https://reach.tech/router)
+- #### Data Fetching
+  - [SWR](https://swr.vercel.app)
+- #### Head Manager
+  - [React Helmet](https://github.com/nfl/react-helmet)
+- #### Animation
+  - [React Spring](https://react-spring.dev)
+- #### 3D
+  - [React Three Fiber](https://docs.pmnd.rs/react-three-fiber)
+- #### Framework
+  - [Remix](https://remix.run)
+  - [Next.js](https://nextjs.org)
+  - [Blitz](https://blitzjs.com)
+  - [Gatsby](https://gatsbyjs.com)
+  - [Redwood](https://redwoodjs.com)
+  - [refine](https://refine.dev)
+  - [Fresh](https://fresh.deno.dev) (Preact)
 
-#### Helpers
-- [Atomic Design](https://danilowoz.com/blog/atomic-design-with-react) :heavy_check_mark:
-- [React Context](https://freecodecamp.org/news/react-context-for-beginners) :heavy_check_mark:
-- [React Best Practices](https://freecodecamp.org/news/best-practices-for-react) :heavy_check_mark:
-
-#### Code Style
-- [Airbnb React/JSX](https://airbnb.io/javascript/react) :heavy_check_mark:
-
-#### Compiler
-- [Million.js](https://million.dev) :heavy_check_mark:
-
-#### State Management
-- [Redux Toolkit](https://redux-toolkit.js.org) :heavy_check_mark:
-- [Zustand](https://docs.pmnd.rs/zustand) :heavy_check_mark:
-- [Jotai](https://jotai.org)
-- [Recoil](https://recoiljs.org)
-- [MobX](https://mobx.js.org)
-
-#### API Query
-- [TanStack Query](https://tanstack.com/query) (React Query)
-- [RTK Query](https://redux-toolkit.js.org/rtk-query/overview)
-
-#### Forms
-- [React Hook Form](https://react-hook-form.com)
-- [Formik](https://formik.org)
-
-#### Text Editor
-- [Slate](https://docs.slatejs.org)
-- [Plate](https://platejs.org)
-
-### Routing
-- [React Router](https://reactrouter.com) :heavy_check_mark:
-- [Reach Router](https://reach.tech/router)
-
-#### Data Fetching
-- [SWR](https://swr.vercel.app)
-
-#### Head Manager
-- [React Helmet](https://github.com/nfl/react-helmet)
-
-#### Animation
-- [React Spring](https://react-spring.dev)
-
-#### 3D
-- [React Three Fiber](https://docs.pmnd.rs/react-three-fiber)
-
-#### Framework
-- [Remix](https://remix.run)
-- [Next.js](https://nextjs.org)
-- [Blitz](https://blitzjs.com)
-- [Gatsby](https://gatsbyjs.com)
-- [Redwood](https://redwoodjs.com)
-- [refine](https://refine.dev)
-- [Fresh](https://fresh.deno.dev) (Preact)
-
-### Vue
+#### Vue
 - [Learn Vue](https://freecodecamp.org/news/vue-js-full-course)
-
-#### Framework
-- [Nuxt](https://nuxt.com)
-- [Gridsome](https://gridsome.org)
+- #### Framework
+  - [Nuxt](https://nuxt.com)
+  - [Gridsome](https://gridsome.org)
 
 #### Angular
 - [Learn Angular](https://freecodecamp.org/news/angular-tutorial-course)
-
-#### State Management
-- [NgRx](https://ngrx.io)
-
-#### Event Management
-- [RxJS](https://rxjs.dev)
+- #### State Management
+  - [NgRx](https://ngrx.io)
+- #### Event Management
+  - [RxJS](https://rxjs.dev)

@@ -49,29 +49,28 @@ image: https://static2.makeuseofimages.com/wordpress/wp-content/uploads/2016/09/
 - [Nano ID](https://zelark.github.io/nano-id-cc) :heavy_check_mark:
 
 #### Date & Time
+- [Luxon](https://moment.github.io/luxon) :heavy_check_mark:
 - [date-fns](https://date-fns.org) :heavy_check_mark:
-- [Luxon](https://moment.github.io/luxon)
-- [Day.js](https://day.js.org)
 
 #### Mock Data
-- [Faker](https://fakerjs.dev)
+- [Faker](https://fakerjs.dev) :heavy_check_mark:
 
 #### Libraries
+- [Axios](https://axios-http.com) :heavy_check_mark:
 - [jQuery](https://jquery.com) :heavy_check_mark:
-- [Underscore](https://underscorejs.org) :heavy_check_mark:
-- [Lodash](https://lodash.com)
+- [Underscore](https://underscorejs.org)
 - [Ramda](https://ramdajs.com)
 
 ### Testing
-- [Vitest](https://vitest.dev) :heavy_check_mark:
 - [Jest](https://jestjs.io) :heavy_check_mark:
+- [Vitest](https://vitest.dev) :heavy_check_mark:
 - [Mocha](https://mochajs.org)
 - [QUnit](https://qunitjs.com)
 - [Chai](https://chaijs.com)
+- [Sinon](https://sinonjs.org)
 - [Cypress](https://cypress.io)
 - [Jasmine](https://jasmine.github.io)
 - [Playwright](https://playwright.dev)
-- [Sinon](https://sinonjs.org)
 
 #### Templating
 - [11ty](https://11ty.dev)

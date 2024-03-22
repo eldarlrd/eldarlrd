@@ -25,19 +25,16 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 - [Google Fonts](https://fonts.google.com) :heavy_check_mark:
 
 #### Icons
-- [Flaticon](https://flaticon.com) :heavy_check_mark:
 - [Font Awesome](https://fontawesome.com) :heavy_check_mark:
+- [Flaticon](https://flaticon.com) :heavy_check_mark:
 - [Lucide](https://lucide.dev) :heavy_check_mark:
-- [Heroicons](https://heroicons.com) :heavy_check_mark:
 - [Devicon](https://devicon.dev) :heavy_check_mark:
+- [Heroicons](https://heroicons.com) :heavy_check_mark:
 - [Pictogrammers](https://pictogrammers.com)
 - [Feather](https://feathericons.com)
 
 #### Workshop
 - [Storybook](https://storybook.js.org)
-
-#### Optimization
-- [Jampack](https://jampack.divriots.com)
 
 #### Typography
 - [Capsize](https://seek-oss.github.io/capsize)
@@ -60,12 +57,10 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 - [modern-normalize](https://github.com/sindresorhus/modern-normalize) :heavy_check_mark:
 - [normalize.css](https://csstools.github.io/normalize.css) :heavy_check_mark:
 - [Tailwind](https://tailwindcss.com) :heavy_check_mark:
-- [Tachyons](https://tachyons.io) :heavy_check_mark:
 - [Emotion](https://emotion.sh) :heavy_check_mark:
 - [Materialize](https://materializeweb.com)
 - [StyleX](https://stylexjs.com)
 - [Panda](https://panda-css.com)
-- [Pure](https://purecss.io)
 - [JSS](https://cssinjs.org)
 
 #### Animation
@@ -78,23 +73,20 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 
 ### Components
 - [Bootstrap](https://getbootstrap.com) :heavy_check_mark:
-- [W3.CSS](https://w3schools.com/w3css) :heavy_check_mark:
-- [daisyUI](https://daisyui.com)
 - [Tailwind Elements](https://tailwind-elements.com)
+- [daisyUI](https://daisyui.com)
 - [Flowbite](https://flowbite.com)
 - [Ark UI](https://ark-ui.com)
 - [Park UI](https://park-ui.com)
 - [Headless UI](https://headlessui.com)
-- [Semantic UI](https://semantic-ui.com)
-- [Onsen UI](https://onsen.io)
 - [FAST](https://fast.design)
-- [Fluent](https://fluent2.microsoft.design)
-- [Shoelace](https://shoelace.style)
 - [Bulma](https://bulma.io)
 - [Arwes](https://arwes.dev)
+- [Fluent](https://fluent2.microsoft.design)
+- [Shoelace](https://shoelace.style)
 - #### Build
-  - [Stencil](https://stenciljs.com)
   - [Zag](https://zagjs.com)
+  - [Stencil](https://stenciljs.com)
 - #### React
   - [Chakra UI](https://chakra-ui.com) :heavy_check_mark:
   - [Next UI](https://nextui.org)
@@ -102,14 +94,12 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
   - [Material UI](https://mui.com)
   - [Material Tailwind](https://material-tailwind.com)
   - [Mantine](https://mantine.dev)
-  - [Primer](https://primer.style)
-  - [PrimeReact](https://primereact.org)
   - [Radix](https://radix-ui.com)
+  - [PrimeReact](https://primereact.org)
   - [shadcn/ui](https://ui.shadcn.com)
   - [Theme UI](https://theme-ui.com)
   - [grommet](https://grommet.io)
   - [Styled Components](https://styled-components.com)
-  - [Styled System](https://styled-system.com)
 - #### Angular
   - [Taiga UI](https://taiga-ui.dev)
   - [PrimeNG](https://primeng.org)
