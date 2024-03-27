@@ -55,10 +55,13 @@ image: https://static2.makeuseofimages.com/wordpress/wp-content/uploads/2016/09/
 #### Mock Data
 - [Faker](https://fakerjs.dev) :heavy_check_mark:
 
-#### Libraries
+#### API Fetch
 - [Axios](https://axios-http.com) :heavy_check_mark:
+
+#### Libraries
 - [jQuery](https://jquery.com) :heavy_check_mark:
 - [Underscore](https://underscorejs.org)
+- [Radash](https://radash-docs.vercel.app)
 - [Ramda](https://ramdajs.com)
 
 ### Testing
@@ -89,3 +92,4 @@ image: https://static2.makeuseofimages.com/wordpress/wp-content/uploads/2016/09/
 #### Flavor
 - [CoffeeScript](https://coffeescript.org) :heavy_check_mark:
 - [PureScript](https://purescript.org)
+- [ReScript](https://rescript-lang.org)

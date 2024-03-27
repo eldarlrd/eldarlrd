@@ -27,6 +27,9 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 #### Data Visualization
 - [D3](https://d3js.org)
 
+#### PDF
+- [jsPDF](https://parall.ax/products/jspdf)
+
 #### WebGL
 - [PixiJS](https://pixijs.com)
 
@@ -80,7 +83,8 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
   - [Million.js](https://million.dev) :heavy_check_mark:
 - #### State Management
   - [Redux Toolkit](https://redux-toolkit.js.org) :heavy_check_mark:
-  - [Zustand](https://docs.pmnd.rs/zustand) :heavy_check_mark:
+  - [Zustand](https://zustand-demo.pmnd.rs) :heavy_check_mark:
+  - [Valtio](https://valtio.pmnd.rs)
   - [Jotai](https://jotai.org)
   - [Recoil](https://recoiljs.org)
   - [MobX](https://mobx.js.org)
@@ -102,6 +106,9 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
   - [React Helmet](https://github.com/nfl/react-helmet)
 - #### Animation
   - [React Spring](https://react-spring.dev)
+- #### PDF
+  - [ReactToPrint](https://github.com/MatthewHerbst/react-to-print) :heavy_check_mark:
+  - [React-pdf](https://react-pdf.org)
 - #### 3D
   - [React Three Fiber](https://docs.pmnd.rs/react-three-fiber)
 - #### Framework
