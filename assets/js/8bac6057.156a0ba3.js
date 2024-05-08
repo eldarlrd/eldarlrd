@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkeldarlrd=self.webpackChunkeldarlrd||[]).push([[7247],{1367:e=>{e.exports=JSON.parse('{"permalink":"/eldarlrd/blog/tags/free-software","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"\ud83d\udcad Blog"}')}}]);

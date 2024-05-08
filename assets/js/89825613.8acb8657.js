@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkeldarlrd=self.webpackChunkeldarlrd||[]).push([[2617],{9794:e=>{e.exports=JSON.parse('{"label":"open-source","permalink":"/eldarlrd/blog/tags/open-source","allTagsPath":"/eldarlrd/blog/tags","count":1,"unlisted":false}')}}]);
