@@ -25,7 +25,7 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - [i18next](https://i18next.com)
 
 #### Data Visualization
-- [D3](https://d3js.org)
+- [D3](https://d3js.org) :heavy_check_mark:
 
 #### PDF
 - [jsPDF](https://parall.ax/products/jspdf)
