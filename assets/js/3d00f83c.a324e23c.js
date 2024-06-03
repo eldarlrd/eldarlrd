@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkeldarlrd=self.webpackChunkeldarlrd||[]).push([[3998],{5599:e=>{e.exports=JSON.parse('{"tags":[{"label":"open-source","permalink":"/eldarlrd/blog/tags/open-source","count":1},{"label":"free-software","permalink":"/eldarlrd/blog/tags/free-software","count":1},{"label":"foss","permalink":"/eldarlrd/blog/tags/foss","count":1}]}')}}]);
