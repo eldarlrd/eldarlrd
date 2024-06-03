@@ -62,11 +62,11 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - [Mithril](https://mithril.js.org) :heavy_check_mark:
 - [Inferno](https://infernojs.org) :heavy_check_mark:
 - [Lit](https://lit.dev) :heavy_check_mark:
-- [Solid](https://solidjs.com) :heavy_check_mark:
 - [Riot](https://riot.js.org) :heavy_check_mark:
 - [Svelte](https://svelte.dev)
 - [Ember](https://emberjs.com)
 - [Qwik](https://qwik.builder.io)
+- [Hono](https://hono.dev)
 - [Nue](https://nuejs.org)
 - [Alpine](https://alpinejs.dev)
 - [Backbone](https://backbonejs.org)
@@ -80,7 +80,8 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - #### Code Style
   - [Airbnb React/JSX](https://airbnb.io/javascript/react) :heavy_check_mark:
 - #### Compiler
-  - [Million.js](https://million.dev) :heavy_check_mark:
+  - [Million](https://million.dev) :heavy_check_mark:
+  - [Mitosis](https://mitosis.builder.io)
 - #### State Management
   - [Redux Toolkit](https://redux-toolkit.js.org) :heavy_check_mark:
   - [Zustand](https://zustand-demo.pmnd.rs) :heavy_check_mark:
@@ -112,7 +113,6 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - #### 3D
   - [React Three Fiber](https://docs.pmnd.rs/react-three-fiber)
 - #### Framework
-  - [Remix](https://remix.run)
   - [Next.js](https://nextjs.org)
   - [Blitz](https://blitzjs.com)
   - [Gatsby](https://gatsbyjs.com)
@@ -132,3 +132,8 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
   - [NgRx](https://ngrx.io)
 - #### Event Management
   - [RxJS](https://rxjs.dev)
+
+#### Solid
+- [Learn Solid](https://solidjs.com/tutorial) :heavy_check_mark:
+- #### Framework
+  - [SolidStart](https://start.solidjs.com)
