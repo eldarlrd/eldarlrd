@@ -23,6 +23,7 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 #### Fonts
 - [Fontsource](https://fontsource.org) :heavy_check_mark:
 - [Google Fonts](https://fonts.google.com) :heavy_check_mark:
+- [Bunny Fonts](https://fonts.bunny.net)
 
 #### Icons
 - [Font Awesome](https://fontawesome.com) :heavy_check_mark:

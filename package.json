@@ -58,7 +58,7 @@
     "@docusaurus/types": "^3.4.0",
     "@types/react": "^18.3.3",
     "gh-pages": "^6.1.1",
-    "prettier": "^3.3.0",
+    "prettier": "^3.3.1",
     "stylelint": "^16.6.1",
     "stylelint-config-standard": "^36.0.0",
     "stylelint-stylus": "^1.0.0",

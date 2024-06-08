@@ -82,8 +82,11 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 - [Firebase](https://firebase.google.com)
 - [Supabase](https://supabase.com)
 - [Netlify](https://netlify.com)
+- [Coolify](https://coolify.io)
 - [Vercel](https://vercel.com)
 - [Heroku](https://heroku.com)
+- [Azure](https://azure.microsoft.com)
+- [AWS](https://aws.amazon.com)
 
 #### Framework
 - [Electron](https://electronjs.org)
