@@ -30,8 +30,9 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 #### PDF
 - [jsPDF](https://parall.ax/products/jspdf)
 
-#### WebGL
+#### WebGPU
 - [PixiJS](https://pixijs.com)
+- [Babylon.js](https://babylonjs.com)
 
 #### Games
 - [Phaser](https://phaser.io)
