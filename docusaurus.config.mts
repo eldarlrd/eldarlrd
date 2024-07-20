@@ -160,6 +160,10 @@ export default {
           title: '💭 Blog',
           items: [
             {
+              label: '📈 Big O',
+              to: 'blog/2024/07/19/big-o'
+            },
+            {
               label: '🔑 Licenses',
               to: 'blog/2023/08/23/licenses'
             }
@@ -169,7 +173,7 @@ export default {
     },
 
     prism: {
-      theme: prismThemes.dracula,
+      theme: prismThemes.nightOwlLight,
       darkTheme: prismThemes.dracula
     }
   } satisfies Preset.ThemeConfig
