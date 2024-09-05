@@ -108,6 +108,10 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
   - [React Helmet](https://github.com/nfl/react-helmet)
 - #### Animation
   - [React Spring](https://react-spring.dev)
+- #### Notifications
+  - [React Hot Toast](https://react-hot-toast.com)
+  - [React-Toastify](https://fkhadra.github.io/react-toastify)
+  - [Sonner](https://sonner.emilkowal.ski)
 - #### PDF
   - [ReactToPrint](https://github.com/MatthewHerbst/react-to-print) :heavy_check_mark:
   - [React-pdf](https://react-pdf.org)
