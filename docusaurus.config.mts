@@ -59,7 +59,8 @@ export default {
           routeBasePath: '/'
         },
         blog: {
-          blogTitle: '💭 Blog'
+          blogTitle: '💭 Blog',
+          onInlineAuthors: 'ignore'
         },
         theme: {
           customCss: 'src/theme.sass'
