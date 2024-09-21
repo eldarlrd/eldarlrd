@@ -40,12 +40,14 @@ hide_table_of_contents: true
 - [Prisma](https://prisma.io)
 
 #### Authorization
+- [Auth0](https://auth0.com)
+- [Clerk](https://clerk.com)
 - [Permify](https://permify.co)
 - [AuthZed](https://authzed.com)
 
 #### Validation
+- [Zod](https://zod.dev) :heavy_check_mark:
 - [joi](https://joi.dev)
-- [Zod](https://zod.dev)
 
 #### Email
 - [Nodemailer](https://nodemailer.com)
