@@ -17,7 +17,7 @@ image: https://static2.makeuseofimages.com/wordpress/wp-content/uploads/2016/09/
 - [Vite](https://vitejs.dev) :heavy_check_mark:
 - [Rollup](https://rollupjs.org) :heavy_check_mark:
 - [webpack](https://webpack.js.org) :heavy_check_mark:
-- [Parcel.js](https://parceljs.org)
+- [Parcel.js](https://parceljs.org) :heavy_check_mark:
 
 #### Runtime
 - [Node](https://nodejs.org) :heavy_check_mark:

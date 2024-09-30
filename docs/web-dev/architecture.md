@@ -46,6 +46,9 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 #### Audio Format
 - [Opus](https://opus-codec.org) :heavy_check_mark:
 
+#### Font Format
+- [WOFF2](https://www.w3.org/TR/WOFF2) :heavy_check_mark:
+
 #### Communication
 - [Socket.IO](https://socket.io)
 

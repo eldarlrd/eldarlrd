@@ -69,6 +69,7 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - [Qwik](https://qwik.builder.io)
 - [Hono](https://hono.dev)
 - [Nue](https://nuejs.org)
+- [Elysia](https://elysiajs.com)
 - [Alpine](https://alpinejs.dev)
 - [Backbone](https://backbonejs.org)
 
