@@ -65,6 +65,7 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 - [JSS](https://cssinjs.org)
 
 #### Animation
+- [Motion One](https://motion.dev)
 - [Anime](https://animejs.com)
 - [GSAP](https://greensock.com/gsap)
 

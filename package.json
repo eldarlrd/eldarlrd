@@ -1,7 +1,7 @@
 {
   "name": "eldarlrd",
   "private": true,
-  "version": "1.0.5",
+  "version": "1.0.6",
   "keywords": [
     "docs",
     "blog",
@@ -56,7 +56,7 @@
     "@docusaurus/module-type-aliases": "^3.5.2",
     "@docusaurus/tsconfig": "^3.5.2",
     "@docusaurus/types": "^3.5.2",
-    "@types/react": "^18.3.10",
+    "@types/react": "^18.3.11",
     "gh-pages": "^6.1.1",
     "prettier": "^3.3.3",
     "stylelint": "^16.9.0",

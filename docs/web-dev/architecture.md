@@ -41,13 +41,16 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 
 #### Image Format
 - [WebP](https://developers.google.com/speed/webp) :heavy_check_mark:
-- [AVIF](https://avif.io) :heavy_check_mark:
+- [AVIF](https://aomediacodec.github.io/av1-avif/latest-approved.html) :heavy_check_mark:
+
+#### Video Format
+- [WebM](https://www.webmproject.org)
 
 #### Audio Format
 - [Opus](https://opus-codec.org) :heavy_check_mark:
 
 #### Font Format
-- [WOFF2](https://www.w3.org/TR/WOFF2) :heavy_check_mark:
+- [WOFF2](https://w3.org/TR/WOFF2) :heavy_check_mark:
 
 #### Communication
 - [Socket.IO](https://socket.io)
@@ -58,7 +61,7 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 #### SEO
 - [Open Graph](https://ogp.me) :heavy_check_mark:
 
-#### Video
+#### Streaming
 - [Mux](https://mux.com)
 
 #### Containerization
