@@ -40,8 +40,9 @@ hide_table_of_contents: true
 - [Prisma](https://prisma.io)
 
 #### Authorization
-- [Auth0](https://auth0.com)
 - [Clerk](https://clerk.com)
+- [Auth0](https://auth0.com)
+- [Auth.js](https://authjs.dev)
 - [Permify](https://permify.co)
 - [AuthZed](https://authzed.com)
 
