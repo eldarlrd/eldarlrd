@@ -92,10 +92,10 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
   - [Recoil](https://recoiljs.org)
   - [MobX](https://mobx.js.org)
 - #### API Query
+  - [RTK Query](https://redux-toolkit.js.org/rtk-query/overview) :heavy_check_mark:
   - [TanStack Query](https://tanstack.com/query) (React Query)
-  - [RTK Query](https://redux-toolkit.js.org/rtk-query/overview)
 - #### Forms
-  - [React Hook Form](https://react-hook-form.com)
+  - [React Hook Form](https://react-hook-form.com) :heavy_check_mark:
   - [Formik](https://formik.org)
 - #### Text Editor
   - [Slate](https://docs.slatejs.org)
@@ -110,7 +110,7 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - #### Animation
   - [React Spring](https://react-spring.dev)
 - #### Notifications
-  - [React Hot Toast](https://react-hot-toast.com)
+  - [React Hot Toast](https://react-hot-toast.com) :heavy_check_mark:
   - [React-Toastify](https://fkhadra.github.io/react-toastify)
   - [Sonner](https://sonner.emilkowal.ski)
 - #### PDF

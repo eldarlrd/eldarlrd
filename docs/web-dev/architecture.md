@@ -31,10 +31,10 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 - [Apigee](https://cloud.google.com/apigee)
 
 #### API Workshop
-- [Bruno](https://usebruno.com)
-- [Postman](https://postman.com)
-- [Insomnia](https://insomnia.rest)
+- [Postman](https://postman.com) :heavy_check_mark:
 - [Thunder Client](https://thunderclient.com)
+- [Insomnia](https://insomnia.rest)
+- [Bruno](https://usebruno.com)
 
 #### Media Types
 - [IANA](https://iana.org/assignments/media-types) :heavy_check_mark:
@@ -65,7 +65,7 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 - [Mux](https://mux.com)
 
 #### Containerization
-- [Docker](https://docker.com)
+- [Docker](https://docker.com) :heavy_check_mark:
 - [Kubernetes](https://kubernetes.io)
 
 #### Database
@@ -85,7 +85,7 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 - [Decap](https://decapcms.org)
 
 #### Platform
-- [Firebase](https://firebase.google.com)
+- [Firebase](https://firebase.google.com) :heavy_check_mark:
 - [Supabase](https://supabase.com)
 - [Netlify](https://netlify.com)
 - [Coolify](https://coolify.io)
@@ -102,7 +102,7 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com) :heavy_check_mark:
 - #### Weather
   - [OpenWeather](https://openweathermap.org/api) :heavy_check_mark:
-  - [fCC Weather](https://weather-proxy.freecodecamp.rocks)
+  - [fCC Weather](https://weather-proxy.freecodecamp.rocks) :heavy_check_mark:
 - #### News
   - [New York Times](https://developer.nytimes.com/apis)
 - #### Books

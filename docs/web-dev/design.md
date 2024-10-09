@@ -65,6 +65,7 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 - [JSS](https://cssinjs.org)
 
 #### Animation
+- [Framer Motion](https://framer.com/motion) :heavy_check_mark:
 - [Motion One](https://motion.dev)
 - [Anime](https://animejs.com)
 - [GSAP](https://greensock.com/gsap)
@@ -92,9 +93,10 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
   - [Stencil](https://stenciljs.com)
 - #### React
   - [Chakra UI](https://chakra-ui.com) :heavy_check_mark:
+  - [Ant Design](https://ant.design) :heavy_check_mark:
+  - [Material UI](https://mui.com) :heavy_check_mark:
   - [Next UI](https://nextui.org)
-  - [Ant Design](https://ant.design)
-  - [Material UI](https://mui.com)
+  - [Yamada UI](https://yamada-ui.com)
   - [Material Tailwind](https://material-tailwind.com)
   - [Mantine](https://mantine.dev)
   - [Radix](https://radix-ui.com)
