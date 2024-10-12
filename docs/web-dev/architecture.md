@@ -95,8 +95,11 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 - [AWS](https://aws.amazon.com)
 
 #### Framework
+- [Neutralinojs](https://neutralino.js.org)
 - [Electron](https://electronjs.org)
+- [NodeGui](https://docs.nodegui.org)
 - [Tauri](https://tauri.app)
+- [NW.js](https://nwjs.io)
 
 ### Free API
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com) :heavy_check_mark:
