@@ -23,7 +23,6 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 - [npm](https://npmjs.com) :heavy_check_mark:
 - [Yarn](https://yarnpkg.com) :heavy_check_mark:
 - [pnpm](https://pnpm.io) :heavy_check_mark:
-- [JSR](https://jsr.io)
 - [Lerna](https://lerna.js.org) (Monorepo)
 
 #### API Development
@@ -65,7 +64,7 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 - [Mux](https://mux.com)
 
 #### Containerization
-- [Docker](https://docker.com) :heavy_check_mark:
+- [Docker](https://docker.com)
 - [Kubernetes](https://kubernetes.io)
 
 #### Database
@@ -100,6 +99,7 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 - [NodeGui](https://docs.nodegui.org)
 - [Tauri](https://tauri.app)
 - [NW.js](https://nwjs.io)
+- [Wails](https://wails.io) (Go)
 
 ### Free API
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com) :heavy_check_mark:

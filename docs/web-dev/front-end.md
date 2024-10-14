@@ -38,9 +38,6 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - [Phaser](https://phaser.io)
 - [Rune SDK](https://developers.rune.ai)
 
-#### Canvas
-- [Fabric](https://fabricjs.com)
-
 #### Drag & Drop
 - [dnd kit](https://dndkit.com) :heavy_check_mark:
 
@@ -52,7 +49,6 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 
 #### Automation
 - [Gulp](https://gulpjs.com)
-- [Grunt](https://gruntjs.com)
 
 #### Documentation
 - [Docusaurus](https://docusaurus.io) :heavy_check_mark:
@@ -72,6 +68,7 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - [Elysia](https://elysiajs.com)
 - [Alpine](https://alpinejs.dev)
 - [Backbone](https://backbonejs.org)
+- [Yew](https://yew.rs) (Rust)
 
 ### React
 - [Thinking in React](https://reactjs.org/docs/thinking-in-react.html) :heavy_check_mark:
@@ -92,17 +89,16 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
   - [Recoil](https://recoiljs.org)
   - [MobX](https://mobx.js.org)
 - #### API Query
-  - [RTK Query](https://redux-toolkit.js.org/rtk-query/overview) :heavy_check_mark:
+  - [RTK Query](https://redux-toolkit.js.org/rtk-query/overview)
   - [TanStack Query](https://tanstack.com/query) (React Query)
 - #### Forms
-  - [React Hook Form](https://react-hook-form.com) :heavy_check_mark:
+  - [React Hook Form](https://react-hook-form.com)
   - [Formik](https://formik.org)
 - #### Text Editor
   - [Slate](https://docs.slatejs.org)
   - [Plate](https://platejs.org)
 - #### Routing
   - [React Router](https://reactrouter.com) :heavy_check_mark:
-  - [Reach Router](https://reach.tech/router)
 - #### Data Fetching
   - [SWR](https://swr.vercel.app)
 - #### Head Manager
@@ -110,7 +106,7 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - #### Animation
   - [React Spring](https://react-spring.dev)
 - #### Notifications
-  - [React Hot Toast](https://react-hot-toast.com) :heavy_check_mark:
+  - [React Hot Toast](https://react-hot-toast.com)
   - [React-Toastify](https://fkhadra.github.io/react-toastify)
   - [Sonner](https://sonner.emilkowal.ski)
 - #### PDF

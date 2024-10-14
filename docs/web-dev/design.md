@@ -52,17 +52,14 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 - [PostCSS](https://postcss.org) :heavy_check_mark:
 - [Stylus](https://stylus-lang.com) :heavy_check_mark:
 - [Twind](https://twind.style) :heavy_check_mark:
-- [UnoCSS](https://unocss.dev) :heavy_check_mark:
 
 #### Libraries
 - [modern-normalize](https://github.com/sindresorhus/modern-normalize) :heavy_check_mark:
 - [normalize.css](https://csstools.github.io/normalize.css) :heavy_check_mark:
 - [Tailwind](https://tailwindcss.com) :heavy_check_mark:
 - [Emotion](https://emotion.sh) :heavy_check_mark:
-- [Materialize](https://materializeweb.com)
 - [StyleX](https://stylexjs.com)
 - [Panda](https://panda-css.com)
-- [JSS](https://cssinjs.org)
 
 #### Animation
 - [Framer Motion](https://framer.com/motion) :heavy_check_mark:
@@ -76,34 +73,30 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 
 ### Components
 - [Bootstrap](https://getbootstrap.com) :heavy_check_mark:
-- [Tailwind Elements](https://tailwind-elements.com)
+- [TW Elements](https://tailwind-elements.com)
 - [daisyUI](https://daisyui.com)
 - [Flowbite](https://flowbite.com)
 - [Ark UI](https://ark-ui.com)
 - [Park UI](https://park-ui.com)
 - [Preline UI](https://preline.co)
 - [Headless UI](https://headlessui.com)
-- [FAST](https://fast.design)
 - [Bulma](https://bulma.io)
 - [Arwes](https://arwes.dev)
 - [Fluent](https://fluent2.microsoft.design)
-- [Shoelace](https://shoelace.style)
 - #### Build
   - [Zag](https://zagjs.com)
+  - [FAST](https://fast.design)
   - [Stencil](https://stenciljs.com)
 - #### React
   - [Chakra UI](https://chakra-ui.com) :heavy_check_mark:
-  - [Ant Design](https://ant.design) :heavy_check_mark:
-  - [Material UI](https://mui.com) :heavy_check_mark:
-  - [Next UI](https://nextui.org)
-  - [Yamada UI](https://yamada-ui.com)
-  - [Material Tailwind](https://material-tailwind.com)
+  - [Next UI](https://nextui.org) :heavy_check_mark:
+  - [Material UI](https://mui.com)
+  - [Ant Design](https://ant.design)
   - [Mantine](https://mantine.dev)
   - [Radix](https://radix-ui.com)
   - [PrimeReact](https://primereact.org)
-  - [shadcn/ui](https://ui.shadcn.com)
   - [Theme UI](https://theme-ui.com)
-  - [grommet](https://grommet.io)
+  - [shadcn/ui](https://ui.shadcn.com)
   - [Styled Components](https://styled-components.com)
 - #### Angular
   - [Taiga UI](https://taiga-ui.dev)
