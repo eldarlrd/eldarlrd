@@ -13,6 +13,7 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - [Intersection Observer](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) :heavy_check_mark:
 - [Open Web Components](https://open-wc.org) :heavy_check_mark:
 - [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API) :heavy_check_mark:
+- [View Transitions](https://developer.mozilla.org/en-US/docs/Web/API/View_Transitions_API)
 
 #### State Management
 - [Immer](https://immerjs.github.io/immer) :heavy_check_mark:
@@ -89,10 +90,10 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
   - [Recoil](https://recoiljs.org)
   - [MobX](https://mobx.js.org)
 - #### API Query
-  - [RTK Query](https://redux-toolkit.js.org/rtk-query/overview)
+  - [RTK Query](https://redux-toolkit.js.org/rtk-query/overview) :heavy_check_mark:
   - [TanStack Query](https://tanstack.com/query) (React Query)
 - #### Forms
-  - [React Hook Form](https://react-hook-form.com)
+  - [React Hook Form](https://react-hook-form.com) :heavy_check_mark:
   - [Formik](https://formik.org)
 - #### Text Editor
   - [Slate](https://docs.slatejs.org)
@@ -106,9 +107,9 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - #### Animation
   - [React Spring](https://react-spring.dev)
 - #### Notifications
-  - [React Hot Toast](https://react-hot-toast.com)
+  - [Sonner](https://sonner.emilkowal.ski) :heavy_check_mark:
+  - [React Hot Toast](https://react-hot-toast.com) :heavy_check_mark:
   - [React-Toastify](https://fkhadra.github.io/react-toastify)
-  - [Sonner](https://sonner.emilkowal.ski)
 - #### PDF
   - [ReactToPrint](https://github.com/MatthewHerbst/react-to-print) :heavy_check_mark:
   - [React-pdf](https://react-pdf.org)

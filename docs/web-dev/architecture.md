@@ -54,6 +54,9 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 #### Communication
 - [Socket.IO](https://socket.io)
 
+#### Payment
+- [Stripe](https://stripe.com)
+
 ### Search
 - [Algolia](https://algolia.com)
 
@@ -102,7 +105,9 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 - [Wails](https://wails.io) (Go)
 
 ### Free API
-- [JSONPlaceholder](https://jsonplaceholder.typicode.com) :heavy_check_mark:
+- #### Fake
+  - [JSONPlaceholder](https://jsonplaceholder.typicode.com) :heavy_check_mark:
+  - [Fake Store API](https://fakestoreapi.com)
 - #### Weather
   - [OpenWeather](https://openweathermap.org/api) :heavy_check_mark:
   - [fCC Weather](https://weather-proxy.freecodecamp.rocks) :heavy_check_mark:

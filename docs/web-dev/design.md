@@ -11,6 +11,7 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 
 ### Methodology
 - [BEM](https://getbem.com) :heavy_check_mark:
+- [SMACSS](https://smacss.com) :heavy_check_mark:
 
 #### Helpers
 - [Labels](https://refactoringui.com/previews/labels-are-a-last-resort) :heavy_check_mark:
@@ -43,6 +44,11 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 ### Color Space
 - [OKLCH](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/oklch)
 
+### Palette Generator
+- [Eva Design System](https://colors.eva.design)
+- [Palettte App](https://palettte.app)
+- [ColorBox](https://colorbox.io)
+
 #### Linter
 - [Stylelint](https://stylelint.io) :heavy_check_mark:
 
@@ -60,6 +66,10 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 - [Emotion](https://emotion.sh) :heavy_check_mark:
 - [StyleX](https://stylexjs.com)
 - [Panda](https://panda-css.com)
+
+#### Variants
+- [TW Variants](https://tailwind-variants.org) :heavy_check_mark:
+- [Class Variance Authority](https://cva.style)
 
 #### Animation
 - [Framer Motion](https://framer.com/motion) :heavy_check_mark:
@@ -101,3 +111,4 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 - #### Angular
   - [Taiga UI](https://taiga-ui.dev)
   - [PrimeNG](https://primeng.org)
+  - [Nebular](https://akveo.github.io/nebular)
