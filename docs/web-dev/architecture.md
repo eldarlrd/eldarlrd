@@ -89,6 +89,7 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 #### Platform
 - [Firebase](https://firebase.google.com) :heavy_check_mark:
 - [Supabase](https://supabase.com)
+- [Appwrite](https://appwrite.io)
 - [Netlify](https://netlify.com)
 - [Coolify](https://coolify.io)
 - [Vercel](https://vercel.com)
@@ -134,3 +135,5 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
   - [REST Countries](https://restcountries.com)
 - #### Dictionary
   - [Merriam-Webster Dictionary](https://dictionaryapi.com)
+- #### Star Wars
+  - [SWAPI](https://swapi.py4e.com)
