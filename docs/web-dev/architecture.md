@@ -11,7 +11,7 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 
 ### PWA
 - [Web App Manifest](https://developer.mozilla.org/en-US/docs/Web/Manifest) :heavy_check_mark:
-- [Using Service Workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers) :heavy_check_mark:
+- [Service Workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers) :heavy_check_mark:
 - [Vite PWA](https://vite-pwa-org.netlify.app) :heavy_check_mark:
 
 #### Anti-Spam
@@ -76,7 +76,6 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 - [CouchDB](https://couchdb.apache.org)
 - [PouchDB](https://pouchdb.com)
 - [RethinkDB](https://rethinkdb.com)
-- [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 - [LowDB](https://github.com/typicode/lowdb)
 - [PostgreSQL](https://postgresql.org)
 - [MySQL](https://mysql.com)

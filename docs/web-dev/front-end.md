@@ -13,6 +13,9 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - [Intersection Observer](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) :heavy_check_mark:
 - [Open Web Components](https://open-wc.org) :heavy_check_mark:
 - [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API) :heavy_check_mark:
+- [Web Storage](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API) :heavy_check_mark:
+- [Cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies) :heavy_check_mark:
+- [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API) :heavy_check_mark:
 - [View Transitions](https://developer.mozilla.org/en-US/docs/Web/API/View_Transitions_API)
 
 #### State Management
@@ -54,6 +57,9 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 #### Documentation
 - [Docusaurus](https://docusaurus.io) :heavy_check_mark:
 - [docsify](https://docsify.js.org)
+
+#### Database
+- [Dexie](https://dexie.org) :heavy_check_mark:
 
 #### Framework
 - [Preact](https://preactjs.com) :heavy_check_mark:
@@ -135,6 +141,8 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
   - [NgRx](https://ngrx.io)
 - #### Event Management
   - [RxJS](https://rxjs.dev)
+- #### Database
+  - [RxDB](https://rxdb.info)
 
 #### Solid
 - [Learn Solid](https://solidjs.com/tutorial) :heavy_check_mark:
