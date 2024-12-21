@@ -42,7 +42,7 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 - [Capsize](https://seek-oss.github.io/capsize)
 
 ### Color Space
-- [OKLCH](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/oklch)
+- [OKLCH](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/oklch) :heavy_check_mark:
 
 ### Palette Generator
 - [Eva Design System](https://colors.eva.design)
@@ -57,7 +57,6 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 - [Less](https://lesscss.org) :heavy_check_mark:
 - [PostCSS](https://postcss.org) :heavy_check_mark:
 - [Stylus](https://stylus-lang.com) :heavy_check_mark:
-- [Twind](https://twind.style) :heavy_check_mark:
 
 #### Libraries
 - [modern-normalize](https://github.com/sindresorhus/modern-normalize) :heavy_check_mark:
@@ -86,7 +85,6 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 - [TW Elements](https://tailwind-elements.com)
 - [daisyUI](https://daisyui.com)
 - [Flowbite](https://flowbite.com)
-- [Ark UI](https://ark-ui.com)
 - [Park UI](https://park-ui.com)
 - [Preline UI](https://preline.co)
 - [Headless UI](https://headlessui.com)

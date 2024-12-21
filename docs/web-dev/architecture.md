@@ -78,6 +78,8 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 - [RethinkDB](https://rethinkdb.com)
 - [LowDB](https://github.com/typicode/lowdb)
 - [PostgreSQL](https://postgresql.org)
+- [SQLite](https://sqlite.org)
+- [libSQL](https://turso.tech/libsql)
 - [MySQL](https://mysql.com)
 - [Redis](https://redis.io)
 
@@ -108,6 +110,9 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 - #### Fake
   - [JSONPlaceholder](https://jsonplaceholder.typicode.com) :heavy_check_mark:
   - [Fake Store API](https://fakestoreapi.com)
+- #### Mixed
+  - [API Ninjas](https://api-ninjas.com) :heavy_check_mark:
+  - [DummyJSON](https://dummyjson.com)
 - #### Weather
   - [OpenWeather](https://openweathermap.org/api) :heavy_check_mark:
   - [fCC Weather](https://weather-proxy.freecodecamp.rocks) :heavy_check_mark:
@@ -123,8 +128,6 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
   - [spoonacular](https://spoonacular.com/food-api)
   - [TheMealDB](https://themealdb.com/api.php)
   - [TheCocktailDB](https://thecocktaildb.com/api.php)
-- #### Quotes
-  - [Zen Quotes](https://zenquotes.io)
 - #### Jokes
   - [DadJokes](https://dadjokes.io)
   - [JokeAPI](https://sv443.net/jokeapi/v2)
@@ -136,3 +139,5 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
   - [Merriam-Webster Dictionary](https://dictionaryapi.com)
 - #### Star Wars
   - [SWAPI](https://swapi.py4e.com)
+- #### The Simpsons
+  - [TS Quote API](https://thesimpsonsquoteapi.glitch.me)

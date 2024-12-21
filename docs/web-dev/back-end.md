@@ -48,7 +48,7 @@ hide_table_of_contents: true
 
 #### Validation
 - [Zod](https://zod.dev) :heavy_check_mark:
-- [joi](https://joi.dev)
+- [joi](https://joi.dev) :heavy_check_mark:
 
 #### Email
 - [Nodemailer](https://nodemailer.com)

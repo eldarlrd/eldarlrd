@@ -71,7 +71,7 @@ export default {
 
   themeConfig: {
     image:
-      'https://repository-images.githubusercontent.com/566728249/fee47375-a1da-43ab-9865-e8c30d1e2304',
+      'https://repository-images.githubusercontent.com/566728249/b8675e68-68b3-48d1-a020-2927d06922e1',
     colorMode: {
       respectPrefersColorScheme: true
     },

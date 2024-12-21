@@ -54,6 +54,9 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 #### Automation
 - [Gulp](https://gulpjs.com)
 
+#### API Query
+- [TanStack Query](https://tanstack.com/query) (React Query) :heavy_check_mark:
+
 #### Documentation
 - [Docusaurus](https://docusaurus.io) :heavy_check_mark:
 - [docsify](https://docsify.js.org)
@@ -75,6 +78,7 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - [Elysia](https://elysiajs.com)
 - [Alpine](https://alpinejs.dev)
 - [Backbone](https://backbonejs.org)
+- [Rocket](https://rocket.rs) (Rust)
 - [Yew](https://yew.rs) (Rust)
 
 ### React
@@ -97,7 +101,6 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
   - [MobX](https://mobx.js.org)
 - #### API Query
   - [RTK Query](https://redux-toolkit.js.org/rtk-query/overview) :heavy_check_mark:
-  - [TanStack Query](https://tanstack.com/query) (React Query)
 - #### Forms
   - [React Hook Form](https://react-hook-form.com) :heavy_check_mark:
   - [Formik](https://formik.org)
