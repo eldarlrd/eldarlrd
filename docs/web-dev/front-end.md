@@ -78,7 +78,6 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - [Elysia](https://elysiajs.com)
 - [Alpine](https://alpinejs.dev)
 - [Backbone](https://backbonejs.org)
-- [Rocket](https://rocket.rs) (Rust)
 - [Yew](https://yew.rs) (Rust)
 
 ### React

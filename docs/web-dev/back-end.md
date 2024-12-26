@@ -49,6 +49,7 @@ hide_table_of_contents: true
 #### Validation
 - [Zod](https://zod.dev) :heavy_check_mark:
 - [joi](https://joi.dev) :heavy_check_mark:
+- [Vest](https://vestjs.dev)
 
 #### Email
 - [Nodemailer](https://nodemailer.com)
@@ -65,3 +66,5 @@ hide_table_of_contents: true
 - [Fastify](https://fastify.dev)
 - [Aleph.js](https://aleph.deno.dev)
 - [AdonisJS](https://adonisjs.com)
+- [Rocket](https://rocket.rs) (Rust)
+- [Actix](https://actix.rs) (Rust)
