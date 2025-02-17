@@ -24,7 +24,7 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 #### Fonts
 - [Fontsource](https://fontsource.org) :heavy_check_mark:
 - [Google Fonts](https://fonts.google.com) :heavy_check_mark:
-- [Bunny Fonts](https://fonts.bunny.net)
+- [Bunny Fonts](https://fonts.bunny.net) :heavy_check_mark:
 
 #### Icons
 - [Font Awesome](https://fontawesome.com) :heavy_check_mark:
@@ -97,7 +97,7 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
   - [Stencil](https://stenciljs.com)
 - #### React
   - [Chakra UI](https://chakra-ui.com) :heavy_check_mark:
-  - [Next UI](https://nextui.org) :heavy_check_mark:
+  - [HeroUI](https://heroui.org) :heavy_check_mark:
   - [Material UI](https://mui.com)
   - [Ant Design](https://ant.design)
   - [Mantine](https://mantine.dev)
