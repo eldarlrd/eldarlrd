@@ -71,7 +71,7 @@ export default {
 
   themeConfig: {
     image:
-      'https://repository-images.githubusercontent.com/566728249/b8675e68-68b3-48d1-a020-2927d06922e1',
+      'https://repository-images.githubusercontent.com/566728249/ab08fefb-9aa5-48ab-98ad-3d0f229b3990',
     colorMode: {
       respectPrefersColorScheme: true
     },
@@ -140,16 +140,16 @@ export default {
               to: 'web-dev/typescript'
             },
             {
-              label: '✒️ Front End',
-              to: 'web-dev/front-end'
+              label: '✒️ Frontend',
+              to: 'web-dev/frontend'
             },
             {
               label: '💅 Design',
               to: 'web-dev/design'
             },
             {
-              label: '🦎 Back End',
-              to: 'web-dev/back-end'
+              label: '🦎 Backend',
+              to: 'web-dev/backend'
             },
             {
               label: '🏗️ Architecture',

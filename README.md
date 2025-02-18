@@ -1,6 +1,6 @@
 I'm interested in various topics such as **🕸️ Web Dev, 🔓 Open Source, 🦌 Free Software, 🤖 Artificial Intelligence** and the **🐧 Linux Ecosystem.**
 
-Currently, I'm working on the **:godmode: Front End** and utilizing
+Currently, I'm working on the **:godmode: Frontend** and utilizing
 <a
   href='https://typescriptlang.org'
   rel='nofollow'>

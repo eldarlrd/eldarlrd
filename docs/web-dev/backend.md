@@ -1,11 +1,11 @@
 ---
 sidebar_position: 4
-tags: [web-dev, back-end, node]
-keywords: [web-dev, back-end, node]
+tags: [web-dev, backend, node]
+keywords: [web-dev, backend, node]
 image: https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg
 hide_table_of_contents: true
 ---
-# 🦎 Back End
+# 🦎 Backend
 **Libraries and frameworks for database work and processing.**
 
 **The :heavy_check_mark: is appended to those that have been tried and verified by me.**

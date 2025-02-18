@@ -1,10 +1,10 @@
 ---
 sidebar_position: 2
-tags: [web-dev, front-end, react]
-keywords: [web-dev, front-end, react]
+tags: [web-dev, frontend, react]
+keywords: [web-dev, frontend, react]
 image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 ---
-# ✒️ Front End
+# ✒️ Frontend
 **Libraries and frameworks for modern UI development.**
 
 **The :heavy_check_mark: is appended to those that have been tried and verified by me.**

@@ -12,9 +12,9 @@ export default {
       items: [
         'web-dev/javascript',
         'web-dev/typescript',
-        'web-dev/front-end',
+        'web-dev/frontend',
         'web-dev/design',
-        'web-dev/back-end',
+        'web-dev/backend',
         'web-dev/architecture'
       ]
     }
