@@ -116,14 +116,29 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 - #### Weather
   - [OpenWeather](https://openweathermap.org/api) :heavy_check_mark:
   - [fCC Weather](https://weather-proxy.freecodecamp.rocks) :heavy_check_mark:
+- #### Earth
+  - [NASA](https://api.nasa.gov)
 - #### News
+  - [GNews](https://gnews.io)
+  - [News API](https://newsapi.org)
+  - [Currents API](https://currentsapi.services/en)
+  - [The Guardian](https://open-platform.theguardian.com)
   - [New York Times](https://developer.nytimes.com/apis)
+- #### Finance
+  - [World Bank](https://documents.worldbank.org/en/publication/documents-reports/api)
+- #### AI
+  - [OpenAI](https://platform.openai.com/docs/overview)
+  - [Gemini](https://ai.google.dev)
+  - [Claude](https://anthropic.com/api)
+  - [Grok](https://x.ai/api)
 - #### Books
   - [Open Library](https://openlibrary.org/developers/api)
 - #### Movies
   - [TMDB](https://developer.themoviedb.org/docs)
 - #### Music
   - [Spotify](https://developer.spotify.com/documentation/web-api)
+- #### Photos
+  - [Unsplash](https://unsplash.com/developers)
 - #### Food
   - [spoonacular](https://spoonacular.com/food-api)
   - [TheMealDB](https://themealdb.com/api.php)
@@ -133,11 +148,14 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
   - [JokeAPI](https://sv443.net/jokeapi/v2)
 - #### Sports
   - [API-SPORTS](https://api-sports.io)
+  - [football-data](https://football-data.org)
+  - [All Sports API](https://allsportsapi.com)
 - #### Countries
   - [REST Countries](https://restcountries.com)
 - #### Dictionary
+  - [Free Dictionary API](https://dictionaryapi.dev)
   - [Merriam-Webster Dictionary](https://dictionaryapi.com)
-- #### Star Wars
+- #### Geek
   - [SWAPI](https://swapi.py4e.com)
-- #### The Simpsons
   - [TS Quote API](https://thesimpsonsquoteapi.glitch.me)
+  - [Marvel Comics API](https://developer.marvel.com)

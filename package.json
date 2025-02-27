@@ -50,7 +50,7 @@
     "prism-react-renderer": "^2.4.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "sass": "^1.85.0"
+    "sass": "^1.85.1"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^3.7.0",
@@ -58,7 +58,7 @@
     "@docusaurus/types": "^3.7.0",
     "@types/react": "^19.0.10",
     "gh-pages": "^6.3.0",
-    "prettier": "^3.5.1",
+    "prettier": "^3.5.2",
     "stylelint": "^16.14.1",
     "stylelint-config-standard": "^37.0.0",
     "stylelint-stylus": "^1.0.0",
