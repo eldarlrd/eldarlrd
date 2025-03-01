@@ -41,13 +41,13 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 #### Typography
 - [Capsize](https://seek-oss.github.io/capsize)
 
-### Color Space
+#### Color Space
 - [OKLCH](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/oklch) :heavy_check_mark:
 
 ### Palette Generator
-- [Eva Design System](https://colors.eva.design)
-- [Palettte App](https://palettte.app)
-- [ColorBox](https://colorbox.io)
+- [Eva Design System](https://colors.eva.design) :heavy_check_mark:
+- [Palettte App](https://palettte.app) :heavy_check_mark:
+- [ColorBox](https://colorbox.io) :heavy_check_mark:
 
 #### Linter
 - [Stylelint](https://stylelint.io) :heavy_check_mark:

@@ -59,10 +59,10 @@
     "@types/react": "^19.0.10",
     "gh-pages": "^6.3.0",
     "prettier": "^3.5.2",
-    "stylelint": "^16.14.1",
+    "stylelint": "^16.15.0",
     "stylelint-config-standard": "^37.0.0",
     "stylelint-stylus": "^1.0.0",
-    "typescript": "^5.7.3"
+    "typescript": "^5.8.2"
   },
   "babel": {
     "presets": [
