@@ -14,12 +14,12 @@ hide_table_of_contents: true
 - [TypeScript](https://typescriptlang.org) :heavy_check_mark:
 
 #### Guide
-- [Learn TypeScript](https://freecodecamp.org/news/learn-typescript-beginners-guide) :heavy_check_mark:
-- [Total TypeScript](https://totaltypescript.com/tutorials) :heavy_check_mark:
+- [Learn TS](https://freecodecamp.org/news/learn-typescript-beginners-guide) :heavy_check_mark:
+- [Total TS](https://totaltypescript.com/tutorials) :heavy_check_mark:
 - [TypeHero](https://typehero.dev)
 
 #### Helpers
-- [TypeScript Tutorial](https://w3schools.com/typescript) :heavy_check_mark:
+- [TS Tutorial](https://w3schools.com/typescript) :heavy_check_mark:
 
 #### Examples
 - [Definitely Typed](https://github.com/DefinitelyTyped/DefinitelyTyped)

@@ -61,8 +61,9 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - [Docusaurus](https://docusaurus.io) :heavy_check_mark:
 - [docsify](https://docsify.js.org)
 
-#### Database
+#### Storage
 - [Dexie](https://dexie.org) :heavy_check_mark:
+- [JS Cookie](https://github.com/js-cookie/js-cookie) :heavy_check_mark:
 
 #### Framework
 - [Preact](https://preactjs.com) :heavy_check_mark:

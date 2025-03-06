@@ -5,7 +5,7 @@ keywords: [web-dev, javascript]
 image: https://static2.makeuseofimages.com/wordpress/wp-content/uploads/2016/09/javascript-udemy-courses.jpg
 ---
 # ⚡ JavaScript
-**Curricula, tools and libraries for the JavaScript ecosystem.**
+**Curricula, tools and libraries for the JS ecosystem.**
 
 **The :heavy_check_mark: is appended to those that have been tried and verified by me.**
 

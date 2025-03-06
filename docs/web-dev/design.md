@@ -46,7 +46,7 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 
 ### Palette Generator
 - [Eva Design System](https://colors.eva.design) :heavy_check_mark:
-- [Palettte App](https://palettte.app) :heavy_check_mark:
+- [Palette App](https://bairesdev.com/tools/color-palette-app/editor) :heavy_check_mark:
 - [ColorBox](https://colorbox.io) :heavy_check_mark:
 
 #### Linter
