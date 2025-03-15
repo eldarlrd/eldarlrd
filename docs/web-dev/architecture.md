@@ -71,6 +71,9 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 - [Podman](https://podman.io)
 - [Kubernetes](https://kubernetes.io)
 
+#### Proxy Registry
+- [Verdaccio](https://verdaccio.org)
+
 #### Database
 - [MongoDB](https://mongodb.com)
 - [MariaDB](https://mariadb.org)
