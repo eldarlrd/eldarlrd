@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
-tags: [web-dev, frontend, react]
-keywords: [web-dev, frontend, react]
+tags: [ web-dev, frontend, react ]
+keywords: [ web-dev, frontend, react ]
 image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 ---
 # ✒️ Frontend

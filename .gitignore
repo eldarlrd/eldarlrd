@@ -4,3 +4,6 @@ pnpm-debug.log*
 .docusaurus
 node_modules
 build
+# Editor
+.vscode
+.idea

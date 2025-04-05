@@ -1,7 +1,7 @@
 ---
 sidebar_position: 5
-tags: [web-dev, architecture, server]
-keywords: [web-dev, architecture, server]
+tags: [ web-dev, architecture, server ]
+keywords: [ web-dev, architecture, server ]
 image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Google-Cloud-and-Microsoft-Azure-Choosing-the-Right-Cloud-Provider-for-Your-Business.png
 ---
 # 🏗️ Architecture
@@ -31,7 +31,6 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 
 #### API Workshop
 - [Postman](https://postman.com) :heavy_check_mark:
-- [Thunder Client](https://thunderclient.com)
 - [Insomnia](https://insomnia.rest)
 - [Bruno](https://usebruno.com)
 

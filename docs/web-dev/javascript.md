@@ -1,7 +1,7 @@
 ---
 sidebar_position: 0
-tags: [web-dev, javascript]
-keywords: [web-dev, javascript]
+tags: [ web-dev, javascript ]
+keywords: [ web-dev, javascript ]
 image: https://static2.makeuseofimages.com/wordpress/wp-content/uploads/2016/09/javascript-udemy-courses.jpg
 ---
 # ⚡ JavaScript

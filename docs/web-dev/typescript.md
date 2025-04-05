@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
-tags: [web-dev, typescript]
-keywords: [web-dev, typescript]
+tags: [ web-dev, typescript ]
+keywords: [ web-dev, typescript ]
 image: https://bryntum.com/wp-content/uploads/2020/03/typescript-768x526.png
 hide_table_of_contents: true
 ---
