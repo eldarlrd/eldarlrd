@@ -65,6 +65,12 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 #### Streaming
 - [Mux](https://mux.com)
 
+#### Events
+- [Kafka](https://kafka.apache.org)
+
+#### Monitoring
+- [Sentry](https://sentry.io)
+
 #### Containerization
 - [Docker](https://docker.com)
 - [Podman](https://podman.io)

@@ -74,6 +74,7 @@ image: https://static2.makeuseofimages.com/wordpress/wp-content/uploads/2016/09/
 - [Cypress](https://cypress.io)
 - [Jasmine](https://jasmine.github.io)
 - [Playwright](https://playwright.dev)
+- [Cucumber](https://cucumber.io)
 
 #### Templating
 - [11ty](https://11ty.dev)
