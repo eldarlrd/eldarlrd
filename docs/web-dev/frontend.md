@@ -16,6 +16,9 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - [Web Storage](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API) :heavy_check_mark:
 - [Cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies) :heavy_check_mark:
 - [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API) :heavy_check_mark:
+- [sitemap.xml](https://developers.google.com/search/docs/crawling-indexing/sitemaps) :heavy_check_mark:
+- [robots.txt](https://developer.mozilla.org/en-US/docs/Glossary/Robots.txt) :heavy_check_mark:
+- [llms.txt](https://llmstxt.org) :heavy_check_mark:
 - [View Transitions](https://developer.mozilla.org/en-US/docs/Web/API/View_Transitions_API)
 
 #### State Management

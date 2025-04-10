@@ -38,6 +38,7 @@ image: https://static2.makeuseofimages.com/wordpress/wp-content/uploads/2016/09/
 ### Linter
 - [ESLint](https://eslint.org) :heavy_check_mark:
 - [Prettier](https://prettier.io) :heavy_check_mark:
+- [commitlint](https://commitlint.js.org) :heavy_check_mark:
 - [Biome](https://biomejs.dev)
 
 #### Code Style
