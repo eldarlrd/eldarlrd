@@ -45,6 +45,7 @@ image: https://static2.makeuseofimages.com/wordpress/wp-content/uploads/2016/09/
 - [Airbnb JS](https://airbnb.io/javascript) :heavy_check_mark:
 - [Google JS](https://google.github.io/styleguide/jsguide.html) :heavy_check_mark:
 - [Standard JS](https://standardjs.com/rules) :heavy_check_mark:
+- [Conventional Commits](https://conventionalcommits.org) :heavy_check_mark:
 
 #### UUID
 - [Nano ID](https://zelark.github.io/nano-id-cc) :heavy_check_mark:
