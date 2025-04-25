@@ -35,6 +35,10 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - [D3](https://d3js.org) :heavy_check_mark:
 - [Mermaid](https://mermaid.js.org)
 
+#### Presentation
+- [Slidev](https://sli.dev)
+- [reveal.js](https://revealjs.com)
+
 #### PDF
 - [jsPDF](https://parall.ax/products/jspdf)
 
