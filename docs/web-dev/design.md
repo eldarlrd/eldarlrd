@@ -71,8 +71,7 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 - [Class Variance Authority](https://cva.style)
 
 #### Animation
-- [Framer Motion](https://framer.com/motion) :heavy_check_mark:
-- [Motion One](https://motion.dev)
+- [Motion](https://motion.dev) :heavy_check_mark:
 - [Anime](https://animejs.com)
 - [GSAP](https://greensock.com/gsap)
 
