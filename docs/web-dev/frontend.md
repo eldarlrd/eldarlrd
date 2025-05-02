@@ -133,7 +133,7 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - #### 3D
   - [React Three Fiber](https://docs.pmnd.rs/react-three-fiber)
 - #### Framework
-  - [Next.js](https://nextjs.org)
+  - [Next.js](https://nextjs.org) :heavy_check_mark:
   - [Blitz](https://blitzjs.com)
   - [Gatsby](https://gatsbyjs.com)
   - [Redwood](https://redwoodjs.com)
