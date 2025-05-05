@@ -115,6 +115,8 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - #### Text Editor
   - [Slate](https://docs.slatejs.org)
   - [Plate](https://platejs.org)
+- #### Date & Time
+  - [React DayPicker](https://daypicker.dev) :heavy_check_mark:
 - #### Routing
   - [React Router](https://reactrouter.com) :heavy_check_mark:
 - #### Data Fetching
