@@ -112,17 +112,17 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - #### Forms
   - [React Hook Form](https://react-hook-form.com) :heavy_check_mark:
   - [Formik](https://formik.org)
+- #### Hooks
+  - [@react-hookz/web](https://react-hookz.github.io/web)
 - #### Text Editor
   - [Slate](https://docs.slatejs.org)
   - [Plate](https://platejs.org)
-- #### Date & Time
+- #### Calendar
   - [React DayPicker](https://daypicker.dev) :heavy_check_mark:
 - #### Routing
   - [React Router](https://reactrouter.com) :heavy_check_mark:
 - #### Data Fetching
   - [SWR](https://swr.vercel.app)
-- #### Head Manager
-  - [React Helmet](https://github.com/nfl/react-helmet)
 - #### Animation
   - [React Spring](https://react-spring.dev)
 - #### Notifications
