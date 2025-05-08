@@ -9,7 +9,15 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 
 **The :heavy_check_mark: is appended to those that have been tried and verified by me.**
 
-### PWA
+### Helpers
+- [sitemap.xml](https://developers.google.com/search/docs/crawling-indexing/sitemaps) :heavy_check_mark:
+- [robots.txt](https://developer.mozilla.org/en-US/docs/Glossary/Robots.txt) :heavy_check_mark:
+- [llms.txt](https://llmstxt.org) :heavy_check_mark:
+- [Web Vitals](https://web.dev/articles/vitals) :heavy_check_mark:
+- [TTFB](https://web.dev/articles/ttfb) :heavy_check_mark:
+- [TBT](https://web.dev/articles/tbt) :heavy_check_mark:
+
+#### PWA
 - [Web App Manifest](https://developer.mozilla.org/en-US/docs/Web/Manifest) :heavy_check_mark:
 - [Service Workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers) :heavy_check_mark:
 - [Vite PWA](https://vite-pwa-org.netlify.app) :heavy_check_mark:
@@ -57,6 +65,7 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 - [Stripe](https://stripe.com)
 
 ### Search
+- [Fuse.js](https://fusejs.io)
 - [Algolia](https://algolia.com)
 
 #### SEO

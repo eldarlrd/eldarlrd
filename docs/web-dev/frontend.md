@@ -16,9 +16,6 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - [Web Storage](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API) :heavy_check_mark:
 - [Cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies) :heavy_check_mark:
 - [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API) :heavy_check_mark:
-- [sitemap.xml](https://developers.google.com/search/docs/crawling-indexing/sitemaps) :heavy_check_mark:
-- [robots.txt](https://developer.mozilla.org/en-US/docs/Glossary/Robots.txt) :heavy_check_mark:
-- [llms.txt](https://llmstxt.org) :heavy_check_mark:
 - [View Transitions](https://developer.mozilla.org/en-US/docs/Web/API/View_Transitions_API)
 
 #### State Management
@@ -34,6 +31,9 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 #### Data Visualization
 - [D3](https://d3js.org) :heavy_check_mark:
 - [Mermaid](https://mermaid.js.org)
+
+#### Data Grid
+- [AG Grid](https://ag-grid.com)
 
 #### Presentation
 - [Slidev](https://sli.dev)
@@ -110,10 +110,13 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
   - [MobX](https://mobx.js.org)
 - #### API Query
   - [RTK Query](https://redux-toolkit.js.org/rtk-query/overview) :heavy_check_mark:
+  - [SWR](https://swr.vercel.app)
 - #### Forms
   - [React Hook Form](https://react-hook-form.com) :heavy_check_mark:
   - [Formik](https://formik.org)
 - #### Hooks
+  - [useDebounce](https://github.com/xnimorz/use-debounce) :heavy_check_mark:
+  - [useHooks](https://usehooks.com)
   - [@react-hookz/web](https://react-hookz.github.io/web)
 - #### Text Editor
   - [Slate](https://docs.slatejs.org)
@@ -122,8 +125,6 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
   - [React DayPicker](https://daypicker.dev) :heavy_check_mark:
 - #### Routing
   - [React Router](https://reactrouter.com) :heavy_check_mark:
-- #### Data Fetching
-  - [SWR](https://swr.vercel.app)
 - #### Animation
   - [React Spring](https://react-spring.dev)
 - #### Notifications
