@@ -146,6 +146,8 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 
 #### Vue
 - [Learn Vue](https://freecodecamp.org/news/vue-js-full-course)
+- #### State Management
+  - [Pinia](https://pinia.vuejs.org)
 - #### Framework
   - [Nuxt](https://nuxt.com)
   - [Gridsome](https://gridsome.org)
