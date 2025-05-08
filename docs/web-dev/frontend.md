@@ -91,7 +91,7 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 
 ### React
 - [Thinking in React](https://reactjs.org/docs/thinking-in-react.html) :heavy_check_mark:
-- [Learn Next.js](https://nextjs.org/learn)
+- [Learn Next.js](https://nextjs.org/learn) :heavy_check_mark:
 - #### Helpers
   - [Atomic Design](https://danilowoz.com/blog/atomic-design-with-react) :heavy_check_mark:
   - [React Context](https://freecodecamp.org/news/react-context-for-beginners) :heavy_check_mark:
