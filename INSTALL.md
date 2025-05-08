@@ -17,15 +17,15 @@
 pnpm i
 ```
 ## Develop
-### Run Env.
+### Run Env
 ```sh
 pnpm dev
 ```
-### Prod. Build
+### Prod Build
 ```sh
 pnpm build
 ```
-### Preview Prod. Build
+### Preview Prod Build
 ```sh
 pnpm serve
 ```
