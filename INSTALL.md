@@ -33,6 +33,10 @@ pnpm serve
 ```sh
 pnpm format
 ```
+### Cut Orphans (Knip)
+```sh
+pnpm cut
+```
 ## Deploy
 ```sh
 pnpm deployer
