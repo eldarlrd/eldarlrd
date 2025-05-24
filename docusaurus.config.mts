@@ -6,7 +6,7 @@ export default {
   title: 'eldarlrd',
   tagline: "eldarlrd's docs & blog",
   favicon: 'https://github.com/eldarlrd.png',
-  url: 'https://eldarlrd.github.io',
+  url: 'https://eldarlrd.is-a.dev',
   baseUrl: '/eldarlrd/',
   organizationName: 'eldarlrd',
   projectName: 'eldarlrd',
@@ -118,7 +118,7 @@ export default {
       copyright: '© 2023 - 2025 eldarlrd',
       logo: {
         src: 'https://github.com/eldarlrd.png',
-        href: 'https://eldarlrd.github.io',
+        href: 'https://eldarlrd.is-a.dev',
         target: '_blank',
         alt: 'GitHub avatar',
         style: {

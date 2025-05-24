@@ -9,8 +9,8 @@
   ],
   "description": "eldarlrd's docs & blog",
   "repository": "github:eldarlrd/eldarlrd",
-  "homepage": "https://eldarlrd.github.io/eldarlrd",
-  "author": "Eldar Pashazade <eldarlrd@pm.me> (https://eldarlrd.github.io)",
+  "homepage": "https://eldarlrd.is-a.dev/eldarlrd",
+  "author": "Eldar Pashazade <eldarlrd@pm.me> (https://eldarlrd.is-a.dev)",
   "scripts": {
     "dev": "docusaurus start",
     "build": "docusaurus build",
@@ -19,7 +19,7 @@
     "style": "stylelint 'src/**/*.sass'",
     "pretty": "prettier '{src/**/*.ts,*.config.mts}' --write",
     "format": "pnpm style --fix && pnpm pretty",
-    "cut": "knip --cache --fix"
+    "cut": "knip --fix --cache"
   },
   "stylelint": {
     "customSyntax": "postcss-styl",
@@ -51,16 +51,16 @@
     "prism-react-renderer": "^2.4.1",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "sass": "^1.88.0"
+    "sass": "^1.89.0"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^3.7.0",
     "@docusaurus/tsconfig": "^3.7.0",
     "@docusaurus/types": "^3.7.0",
-    "@types/node": "^22.15.18",
-    "@types/react": "^19.1.4",
+    "@types/node": "^22.15.21",
+    "@types/react": "^19.1.5",
     "gh-pages": "^6.3.0",
-    "knip": "^5.55.1",
+    "knip": "^5.57.2",
     "prettier": "^3.5.3",
     "stylelint": "^16.19.1",
     "stylelint-config-standard": "^38.0.0",
