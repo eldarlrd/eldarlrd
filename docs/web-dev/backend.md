@@ -22,13 +22,9 @@ hide_table_of_contents: true
 #### Contact API
 - [Web3Forms](https://web3forms.com) :heavy_check_mark:
 - [EmailJS](https://emailjs.com)
-- [Getform](https://getform.io)
 - [Slapform](https://slapform.com)
 - [KwesForms](https://kwesforms.com)
-- [Formspree](https://formspree.io)
 - [Formspark](https://formspark.io)
-- [Formcarry](https://formcarry.com)
-- [FormKeep](https://formkeep.com)
 - [Basin](https://usebasin.com)
 
 #### API Query

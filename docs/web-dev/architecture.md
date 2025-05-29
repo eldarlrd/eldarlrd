@@ -5,7 +5,7 @@ keywords: [ web-dev, architecture, server ]
 image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Google-Cloud-and-Microsoft-Azure-Choosing-the-Right-Cloud-Provider-for-Your-Business.png
 ---
 # 🏗️ Architecture
-**Modern web standards, utilities and free API.**
+**Modern web standards, utilities, and free API.**
 
 **The :heavy_check_mark: is appended to those that have been tried and verified by me.**
 
