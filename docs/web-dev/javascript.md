@@ -28,6 +28,7 @@ image: https://static2.makeuseofimages.com/wordpress/wp-content/uploads/2016/09/
 #### Compiler
 - [Babel](https://babeljs.io) :heavy_check_mark:
 - [SWC](https://swc.rs) :heavy_check_mark:
+- [Oxidation](https://oxc.rs)
 
 #### Module Loader
 - [RequireJS](https://requirejs.org)

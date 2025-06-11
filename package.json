@@ -42,27 +42,27 @@
     "experimentalTernaries": true
   },
   "dependencies": {
-    "@docusaurus/core": "^3.8.0",
-    "@docusaurus/plugin-content-docs": "^3.8.0",
-    "@docusaurus/preset-classic": "^3.8.0",
+    "@docusaurus/core": "^3.8.1",
+    "@docusaurus/plugin-content-docs": "^3.8.1",
+    "@docusaurus/preset-classic": "^3.8.1",
     "@mdx-js/react": "^3.1.0",
     "clsx": "^2.1.1",
     "docusaurus-plugin-sass": "^0.2.6",
     "prism-react-renderer": "^2.4.1",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "sass": "^1.89.0"
+    "sass": "^1.89.2"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "^3.8.0",
-    "@docusaurus/tsconfig": "^3.8.0",
-    "@docusaurus/types": "^3.8.0",
-    "@types/node": "^22.15.24",
-    "@types/react": "^19.1.6",
+    "@docusaurus/module-type-aliases": "^3.8.1",
+    "@docusaurus/tsconfig": "^3.8.1",
+    "@docusaurus/types": "^3.8.1",
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.1.7",
     "gh-pages": "^6.3.0",
-    "knip": "^5.59.1",
+    "knip": "^5.60.2",
     "prettier": "^3.5.3",
-    "stylelint": "^16.19.1",
+    "stylelint": "^16.20.0",
     "stylelint-config-standard": "^38.0.0",
     "stylelint-stylus": "^1.0.0",
     "typescript": "^5.8.3"
