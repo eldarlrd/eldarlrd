@@ -63,12 +63,11 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 - [normalize.css](https://csstools.github.io/normalize.css) :heavy_check_mark:
 - [Tailwind](https://tailwindcss.com) :heavy_check_mark:
 - [Emotion](https://emotion.sh) :heavy_check_mark:
-- [StyleX](https://stylexjs.com)
 - [Panda](https://panda-css.com)
 
 #### Variants
 - [TW Variants](https://tailwind-variants.org) :heavy_check_mark:
-- [Class Variance Authority](https://cva.style)
+- [Class Variance Authority](https://cva.style) :heavy_check_mark:
 
 #### Animation
 - [Motion](https://motion.dev) :heavy_check_mark:
@@ -81,31 +80,24 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 
 ### Components
 - [Bootstrap](https://getbootstrap.com) :heavy_check_mark:
-- [TW Elements](https://tailwind-elements.com)
 - [daisyUI](https://daisyui.com)
 - [Flowbite](https://flowbite.com)
 - [Park UI](https://park-ui.com)
 - [Preline UI](https://preline.co)
 - [Headless UI](https://headlessui.com)
 - [Bulma](https://bulma.io)
-- [Arwes](https://arwes.dev)
-- [Fluent](https://fluent2.microsoft.design)
-- #### Build
-  - [Zag](https://zagjs.com)
-  - [FAST](https://fast.design)
-  - [Stencil](https://stenciljs.com)
+- [Skeleton](https://skeleton.dev)
 - #### React
   - [Chakra UI](https://chakra-ui.com) :heavy_check_mark:
   - [HeroUI](https://heroui.org) :heavy_check_mark:
+  - [Fluent UI](https://react.fluentui.dev)
   - [Material UI](https://mui.com)
   - [Ant Design](https://ant.design)
   - [Mantine](https://mantine.dev)
   - [Radix](https://radix-ui.com)
   - [PrimeReact](https://primereact.org)
-  - [Theme UI](https://theme-ui.com)
   - [shadcn/ui](https://ui.shadcn.com)
   - [Styled Components](https://styled-components.com)
 - #### Angular
   - [Taiga UI](https://taiga-ui.dev)
   - [PrimeNG](https://primeng.org)
-  - [Nebular](https://akveo.github.io/nebular)
