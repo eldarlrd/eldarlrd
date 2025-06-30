@@ -21,6 +21,7 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 #### State Management
 - [Immer](https://immerjs.github.io/immer) :heavy_check_mark:
 - [XState](https://xstate.js.org)
+- [TanStack Store](https://tanstack.com/store)
 
 #### Syntax Highlighting
 - [Prism](https://prismjs.com) :heavy_check_mark:
@@ -31,9 +32,11 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 #### Data Visualization
 - [D3](https://d3js.org) :heavy_check_mark:
 - [Mermaid](https://mermaid.js.org)
+- [TanStack Virtual](https://tanstack.com/virtual)
 
 #### Data Grid
 - [AG Grid](https://ag-grid.com)
+- [TanStack Table](https://tanstack.com/table)
 
 #### Presentation
 - [Slidev](https://sli.dev)
@@ -67,6 +70,15 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 
 #### API Query
 - [TanStack Query](https://tanstack.com/query) (React Query) :heavy_check_mark:
+
+#### Forms
+- [TanStack Form](https://tanstack.com/form)
+
+#### Routing
+- [TanStack Router](https://tanstack.com/router)
+
+#### Hooks
+- [TanStack Pacer](https://tanstack.com/pacer)
 
 #### Documentation
 - [Docusaurus](https://docusaurus.io) :heavy_check_mark:

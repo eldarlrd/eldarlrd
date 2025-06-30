@@ -1,7 +1,7 @@
 {
   "name": "eldarlrd",
   "private": true,
-  "version": "1.0.6",
+  "version": "1.0.7",
   "keywords": [
     "docs",
     "blog",
@@ -13,12 +13,12 @@
   "author": "Eldar Pashazade <eldarlrd@pm.me> (https://eldarlrd.is-a.dev)",
   "scripts": {
     "dev": "docusaurus start",
-    "build": "docusaurus build",
+    "bundle": "docusaurus build",
     "serve": "docusaurus serve",
-    "deployer": "pnpm build && gh-pages -b prod -m 'build(prod): deployment' -d build",
+    "deployer": "bun bundle && gh-pages -b prod -m 'build(prod): deployment' -d build",
     "style": "stylelint 'src/**/*.sass'",
     "pretty": "prettier '{src/**/*.ts,*.config.mts}' --write",
-    "format": "pnpm style --fix && pnpm pretty",
+    "format": "bun style --fix && bun pretty",
     "cut": "knip --fix --cache"
   },
   "stylelint": {
@@ -57,10 +57,10 @@
     "@docusaurus/module-type-aliases": "^3.8.1",
     "@docusaurus/tsconfig": "^3.8.1",
     "@docusaurus/types": "^3.8.1",
-    "@types/node": "^24.0.6",
+    "@types/node": "^24.0.7",
     "@types/react": "^19.1.8",
     "gh-pages": "^6.3.0",
-    "knip": "^5.61.2",
+    "knip": "^5.61.3",
     "prettier": "^3.6.2",
     "stylelint": "^16.21.0",
     "stylelint-config-standard": "^38.0.0",

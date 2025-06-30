@@ -71,7 +71,7 @@ export default {
 
   themeConfig: {
     image:
-      'https://repository-images.githubusercontent.com/566728249/ab08fefb-9aa5-48ab-98ad-3d0f229b3990',
+      'https://repository-images.githubusercontent.com/566728249/60eeadb7-ff8d-4d1f-a4bf-6be7d867d00a',
     colorMode: {
       respectPrefersColorScheme: true
     },
@@ -129,7 +129,7 @@ export default {
       },
       links: [
         {
-          title: '🕸️ Web Dev',
+          title: '🕸️ Web Development',
           items: [
             {
               label: '⚡ JavaScript',

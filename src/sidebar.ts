@@ -4,7 +4,7 @@ export default {
   docs: [
     {
       type: 'category',
-      label: '🕸️ Web Dev',
+      label: '🕸️ Web Development',
       link: {
         type: 'doc',
         id: 'web-dev/index'

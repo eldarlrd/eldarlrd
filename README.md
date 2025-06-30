@@ -1,7 +1,7 @@
-I'm interested in various topics such as **🕸️ Web Dev, 🔓 Open Source, 🦌 Free Software, 🤖 Artificial Intelligence** and the **🐧 Linux
-Ecosystem.**
+I'm interested in a wide range of topics, including **🕸️ Web Development, 🤖 Artificial Intelligence, 🦌 Free & Open Source Software,** 
+along with many related areas in technology, programming, and digital rights.
 
-Currently, I'm working on the **:godmode: Frontend** and utilizing
+Currently, I'm focused on the **:godmode: Frontend** building interactive web apps and games using
 <a
 href='https://typescriptlang.org'
 rel='nofollow'>
@@ -9,7 +9,7 @@ rel='nofollow'>
 src='https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg'
 width='16'
 height='16'>
-</a> **TypeScript** with different
+</a> **TypeScript** and various
 <a
 href='https://developer.mozilla.org/en-US/docs/Web/javascript'
 rel='nofollow'>
@@ -17,7 +17,6 @@ rel='nofollow'>
 src='https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg'
 width='16'
 height='16'>
-</a> **JS Libraries** to create interactive web apps and games. I particularly enjoy the latter, as they often require extensive work on
-logic.
+</a> **JS Libraries.** I especially enjoy working on games, as they often involve deep logic and problem-solving.
 
-This is a hub for my *personal projects* and the ones I make for *a couple of curricula.*
+This is a hub for both my *personal projects,* and the ones I create as part of *a couple of learning curricula.*
