@@ -71,6 +71,12 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 #### SEO
 - [Open Graph](https://ogp.me) :heavy_check_mark:
 
+#### Analytics
+- [Hotjar](https://hotjar.com) :heavy_check_mark:
+- [Clarity](https://clarity.microsoft.com)
+- [Smartlook](https://smartlook.com)
+- [PostHog](https://posthog.com)
+
 #### Streaming
 - [Mux](https://mux.com)
 
