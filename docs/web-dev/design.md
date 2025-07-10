@@ -85,8 +85,8 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 - [Park UI](https://park-ui.com)
 - [Preline UI](https://preline.co)
 - [Headless UI](https://headlessui.com)
-- [Bulma](https://bulma.io)
 - [Skeleton](https://skeleton.dev)
+- [Bulma](https://bulma.io)
 - #### React
   - [Chakra UI](https://chakra-ui.com) :heavy_check_mark:
   - [HeroUI](https://heroui.org) :heavy_check_mark:
