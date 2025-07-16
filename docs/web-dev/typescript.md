@@ -30,5 +30,8 @@ hide_table_of_contents: true
 #### Code Style
 - [Google TS](https://google.github.io/styleguide/tsguide.html) :heavy_check_mark:
 
+#### Libraries
+- [Effect](https://effect.website)
+
 #### Flavor
 - [Civet](https://civet.dev)

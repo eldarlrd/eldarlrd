@@ -12,11 +12,12 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 ### Helpers
 - [Intersection Observer](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) :heavy_check_mark:
 - [Open Web Components](https://open-wc.org) :heavy_check_mark:
-- [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API) :heavy_check_mark:
+- [Geolocation](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API) :heavy_check_mark:
 - [Web Storage](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API) :heavy_check_mark:
 - [Cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies) :heavy_check_mark:
 - [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API) :heavy_check_mark:
-- [View Transitions](https://developer.mozilla.org/en-US/docs/Web/API/View_Transitions_API)
+- [Temporal](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Temporal)
+- [View Transition](https://developer.mozilla.org/en-US/docs/Web/API/View_Transition_API)
 
 #### State Management
 - [Immer](https://immerjs.github.io/immer) :heavy_check_mark:

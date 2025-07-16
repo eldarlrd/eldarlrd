@@ -133,7 +133,7 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 ### Free API
 - #### Fake
   - [JSONPlaceholder](https://jsonplaceholder.typicode.com) :heavy_check_mark:
-  - [Fake Store API](https://fakestoreapi.com)
+  - [Fake Store](https://fakestoreapi.com)
 - #### Mixed
   - [API Ninjas](https://api-ninjas.com) :heavy_check_mark:
   - [DummyJSON](https://dummyjson.com)
@@ -144,8 +144,8 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
   - [NASA](https://api.nasa.gov)
 - #### News
   - [GNews](https://gnews.io)
-  - [News API](https://newsapi.org)
-  - [Currents API](https://currentsapi.services/en)
+  - [News](https://newsapi.org)
+  - [Currents](https://currentsapi.services/en)
   - [The Guardian](https://open-platform.theguardian.com)
   - [New York Times](https://developer.nytimes.com/apis)
 - #### Finance
@@ -173,13 +173,13 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 - #### Sports
   - [API-SPORTS](https://api-sports.io)
   - [football-data](https://football-data.org)
-  - [All Sports API](https://allsportsapi.com)
+  - [All Sports](https://allsportsapi.com)
 - #### Countries
   - [REST Countries](https://restcountries.com)
 - #### Dictionary
-  - [Free Dictionary API](https://dictionaryapi.dev)
+  - [Free Dictionary](https://dictionaryapi.dev)
   - [Merriam-Webster Dictionary](https://dictionaryapi.com)
 - #### Geek
   - [SWAPI](https://swapi.py4e.com)
-  - [TS Quote API](https://thesimpsonsquoteapi.glitch.me)
-  - [Marvel Comics API](https://developer.marvel.com)
+  - [TS Quote](https://thesimpsonsquoteapi.glitch.me)
+  - [Marvel Comics](https://developer.marvel.com)
