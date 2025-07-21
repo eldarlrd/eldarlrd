@@ -92,6 +92,7 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
   - [HeroUI](https://heroui.org) :heavy_check_mark:
   - [Fluent UI](https://react.fluentui.dev)
   - [Material UI](https://mui.com)
+  - [Untitled UI](https://untitledui.com/react)
   - [Ant Design](https://ant.design)
   - [Mantine](https://mantine.dev)
   - [Radix](https://radix-ui.com)
