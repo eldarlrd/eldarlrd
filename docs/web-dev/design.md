@@ -4,7 +4,7 @@ tags: [ web-dev, design, css ]
 keywords: [ web-dev, design, css ]
 image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Design-Process-Blog-Post-Feature-Image-36119-01-1024x537.png
 ---
-# 💅 Design
+# 💅🏻 Design
 **Free resources and components to level up your designs.**
 
 **The :heavy_check_mark: is appended to those that have been tried and verified by me.**

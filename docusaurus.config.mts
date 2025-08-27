@@ -144,7 +144,7 @@ export default {
               to: 'web-dev/frontend'
             },
             {
-              label: '💅 Design',
+              label: '💅🏻 Design',
               to: 'web-dev/design'
             },
             {
