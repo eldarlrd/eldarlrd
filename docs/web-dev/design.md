@@ -32,8 +32,8 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 - [Lucide](https://lucide.dev) :heavy_check_mark:
 - [Devicon](https://devicon.dev) :heavy_check_mark:
 - [Heroicons](https://heroicons.com) :heavy_check_mark:
+- [Simple Icons](https://simpleicons.org) :heavy_check_mark:
 - [Pictogrammers](https://pictogrammers.com)
-- [Feather](https://feathericons.com)
 
 #### Workshop
 - [Storybook](https://storybook.js.org)
