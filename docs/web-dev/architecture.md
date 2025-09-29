@@ -86,7 +86,8 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 #### Monitoring
 - [Sentry](https://sentry.io)
 
-#### Containerization
+#### Deployment
+- [PM2](https://pm2.keymetrics.io)
 - [Docker](https://docker.com)
 - [Podman](https://podman.io)
 - [Kubernetes](https://kubernetes.io)
