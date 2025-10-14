@@ -10,6 +10,7 @@ export default {
   baseUrl: '/eldarlrd/',
   organizationName: 'eldarlrd',
   projectName: 'eldarlrd',
+  titleDelimiter: '•',
   trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'throw',
