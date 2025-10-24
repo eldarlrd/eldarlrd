@@ -146,7 +146,6 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - #### Notifications
   - [Sonner](https://sonner.emilkowal.ski) :heavy_check_mark:
   - [React Hot Toast](https://react-hot-toast.com) :heavy_check_mark:
-  - [React-Toastify](https://fkhadra.github.io/react-toastify)
 - #### PDF
   - [ReactToPrint](https://github.com/MatthewHerbst/react-to-print) :heavy_check_mark:
   - [React-pdf](https://react-pdf.org)
