@@ -120,7 +120,9 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 - [Coolify](https://coolify.io)
 - [Vercel](https://vercel.com)
 - [Heroku](https://heroku.com)
+- [Render](https://render.com)
 - [Azure](https://azure.microsoft.com)
+- [Neon](https://neon.com)
 - [AWS](https://aws.amazon.com)
 
 #### Framework
