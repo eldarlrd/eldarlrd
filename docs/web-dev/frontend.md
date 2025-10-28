@@ -83,6 +83,7 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 
 #### Documentation
 - [Docusaurus](https://docusaurus.io) :heavy_check_mark:
+- [VitePress](https://vitepress.dev)
 - [docsify](https://docsify.js.org)
 
 #### Storage
