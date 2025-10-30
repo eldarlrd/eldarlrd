@@ -13,11 +13,15 @@ export default {
   titleDelimiter: '•',
   trailingSlash: false,
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'throw',
   onDuplicateRoutes: 'throw',
   deploymentBranch: 'deploy',
 
   plugins: ['docusaurus-plugin-sass'],
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'throw'
+    }
+  },
   i18n: {
     defaultLocale: 'en',
     locales: ['en']
