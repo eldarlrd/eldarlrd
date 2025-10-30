@@ -63,6 +63,7 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 - [normalize.css](https://csstools.github.io/normalize.css) :heavy_check_mark:
 - [Tailwind](https://tailwindcss.com) :heavy_check_mark:
 - [Emotion](https://emotion.sh) :heavy_check_mark:
+- [vanilla-extract](https://vanilla-extract.style)
 - [Panda](https://panda-css.com)
 
 #### Variants
@@ -98,7 +99,7 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
   - [Radix](https://radix-ui.com)
   - [PrimeReact](https://primereact.org)
   - [shadcn/ui](https://ui.shadcn.com)
-  - [Styled Components](https://styled-components.com)
+  - [styled-components](https://styled-components.com)
 - #### Angular
   - [Taiga UI](https://taiga-ui.dev)
   - [PrimeNG](https://primeng.org)
