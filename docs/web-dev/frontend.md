@@ -26,6 +26,7 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 
 #### Syntax Highlighting
 - [Prism](https://prismjs.com) :heavy_check_mark:
+- [Shiki](https://shiki.style)
 
 #### Internationalization
 - [i18next](https://i18next.com)

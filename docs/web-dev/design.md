@@ -46,9 +46,6 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 #### Workshop
 - [Storybook](https://storybook.js.org)
 
-#### Typography
-- [Capsize](https://seek-oss.github.io/capsize)
-
 #### Color Space
 - [OKLCH](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/oklch) :heavy_check_mark:
 
@@ -90,9 +87,7 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 ### Components
 - [Bootstrap](https://getbootstrap.com) :heavy_check_mark:
 - [daisyUI](https://daisyui.com)
-- [Flowbite](https://flowbite.com)
 - [Park UI](https://park-ui.com)
-- [Preline UI](https://preline.co)
 - [Headless UI](https://headlessui.com)
 - [Skeleton](https://skeleton.dev)
 - [Bulma](https://bulma.io)
@@ -101,7 +96,6 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
   - [HeroUI](https://heroui.org) :heavy_check_mark:
   - [Fluent UI](https://react.fluentui.dev)
   - [Material UI](https://mui.com)
-  - [Untitled UI](https://untitledui.com/react)
   - [Ant Design](https://ant.design)
   - [Mantine](https://mantine.dev)
   - [Radix](https://radix-ui.com)
