@@ -1,0 +1,93 @@
+---
+authors:
+  name: Eldar Pashazade
+  title: Frontend Developer
+  url: https://eldarlrd.is-a.dev
+  image_url: https://github.com/eldarlrd.png
+  email: eldarlrd@pm.me
+tags: [ neuroscience, psychology ]
+keywords: [ neuroscience, psychology ]
+image: https://mstone.ai/wp-content/uploads/2025/02/img-reduce-cognitive-complexity.jpg
+---
+# 🧠 Cognitive Complexity
+**Explaining cognitive complexity measurement for writing cleaner & more maintainable code.**
+
+A new method published by the SonarSource in 2017, overcoming the shortcomings of Cyclomatic Complexity, helping to better identify 
+problematic code fragments in large codebases written in modern languages. It also tries to better reflect the mental model of a 
+software developer, rather than strictly following an arbitrary mathematical model.
+
+<!-- truncate -->
+
+### Problem
+The best way to illustrate this problem is by starting with showing code fragments of varying complexity and why it’s necessary to have 
+measurement tools in the first place.
+
+Here’s a straightforward, simple example of a summarizer written in Python.
+
+```python title='Sum all numbers in an array.'
+def sum_of_numbers(numbers):
+    total = 0
+
+    for num in numbers:
+        total += num
+
+    return total
+```
+
+It consists of a single loop, has no nested conditions, and is easy to read & understand, resulting in a very low cognitive load.
+
+Meanwhile, the code below is overly complicated and awkward, making it difficult to understand at a glance, increasing cognitive load 
+substantially.
+
+```python title='Authenticate & Authorize the user.'
+def authenticate_and_authorize(user, password, roles):
+    if not user or not password:
+        return 'Missing credentials'
+
+    if len(password) < 8:
+        return 'Password too short'
+
+    if not any(char.isdigit() for char in password):
+        return 'Password must contain a digit'
+
+    if not any(char.isupper() for char in password):
+        return 'Password must contain a capital letter'
+
+    if not user.get('active', False):
+        return 'Inactive account'
+
+    if user.get('locked', False):
+        return 'Account locked'
+
+    if user.get('password') != password:
+        return 'Invalid password'
+
+    if roles and user.get('role') not in roles:
+        return 'Role not allowed'
+
+    return 'Access granted'
+```
+
+This function is obviously a mess, it’s very clear that something must be done about it to simplify and make it more pleasant to the eye.
+
+Something like this, is far better and clearly highlights the issue.
+
+```python title='Authenticate & Authorize the user (clean version).'
+def authenticate_and_authorize(user, password, roles=None):
+    if not user or not password:
+        return 'Missing credentials'
+
+    error = run_checks(
+        lambda: validate_password(password),
+        lambda: check_account(user),
+        lambda: verify_password(user, password),
+        lambda: check_role(user, roles),
+    )
+
+    return error or 'Access granted'
+```
+
+While the overall file increased in size due to code splitting, the main function is now very easy to wrap your head around.
+
+### Methodology
+

@@ -166,6 +166,10 @@ export default {
           title: '💭 Blog',
           items: [
             {
+              label: '🧠 Cognitive Complexity',
+              to: 'blog/2025/11/25/cognitive-complexity'
+            },
+            {
               label: '📈 Big O',
               to: 'blog/2024/07/19/big-o'
             },
