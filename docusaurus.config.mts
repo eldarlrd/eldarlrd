@@ -141,7 +141,7 @@ export default {
               to: 'web-dev/javascript'
             },
             {
-              label: '🧙‍♂️ TypeScript',
+              label: '🧙🏻‍♂️ TypeScript',
               to: 'web-dev/typescript'
             },
             {

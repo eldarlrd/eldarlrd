@@ -5,7 +5,7 @@ keywords: [ web-dev, typescript ]
 image: https://bryntum.com/wp-content/uploads/2020/03/typescript-768x526.png
 hide_table_of_contents: true
 ---
-# 🧙‍♂️ TypeScript
+# ️🧙🏻‍♂️ TypeScript
 **Guides and recommended courses for type safe programming.**
 
 **The :heavy_check_mark: is appended to those that have been tried and verified by me.**

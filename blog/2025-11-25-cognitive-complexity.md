@@ -14,7 +14,8 @@ image: https://mstone.ai/wp-content/uploads/2025/02/img-reduce-cognitive-complex
 
 **Explaining cognitive complexity measurement for writing cleaner & more maintainable code.**
 
-A new method [published by the SonarSource in 2017,](https://sonarsource.com/docs/CognitiveComplexity.pdf) overcoming the shortcomings of Cyclomatic Complexity, helping to better identify
+A new method [published by SonarSource in 2017,](https://sonarsource.com/docs/CognitiveComplexity.pdf) overcomes the shortcomings of 
+cyclomatic complexity, helping to better identify
 problematic code fragments in large codebases written in modern languages. It also tries to better reflect the mental model of a
 software developer, rather than strictly following an arbitrary mathematical model.
 
@@ -76,9 +77,9 @@ def authenticate_and_authorize(user, password, roles):
     return 'Access granted'
 ```
 
-This function is obviously a mess, it’s very clear that something must be done about it to simplify and make it more pleasant to the eye.
+This function is obviously a mess; it’s very clear that something must be done about it to simplify and make it more pleasant to the eye.
 
-Something like this, is far better and clearly highlights the issue.
+Something like this is far better and clearly highlights the issue.
 
 ```python title='Authenticate & Authorize the user (clean version).'
 def authenticate_and_authorize(user, password, roles=None):
@@ -115,13 +116,13 @@ Complexity score uses four different types of increments:
 - **Hybrid** - assessed on control flow structures that are not subject to a nesting
   increment, but which do increase the nesting count.
 
-This distinction makes it useful to understand where the score is coming from and what exactly is the problem with the code block.
+This distinction makes it useful to understand where the score is coming from and what exactly the problem is with the code block.
 
 Here are concrete examples considered to make the score better reflect what software developers think of code.
 
 - **Shorthands are ignored.**
-- **Loops, recursions add increment.**
-- **Conditionals, catches, switches add increment.**
+- **Loops and recursions increment.**
+- **Conditionals, catches, and switches increment.**
 
 With all of this taken into account, these would be the general suggestions to lower the score, thus writing cleaner code.
 
@@ -137,7 +138,7 @@ With all of this taken into account, these would be the general suggestions to l
 
 ### Conclusion
 
-By using the explained methodology, applying the aforementioned suggestions and following the emerging guidelines software engineers
+By using the explained methodology, applying the aforementioned suggestions, and following the emerging guidelines, software engineers
 will be able to write better, cleaner code with efficiency and ease, being able to better understand which parts of code need
 refactoring and the exact reasons why.
 
