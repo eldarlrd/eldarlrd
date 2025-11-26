@@ -21,8 +21,8 @@ image: https://static2.makeuseofimages.com/wordpress/wp-content/uploads/2016/09/
 
 #### Runtime
 - [Node](https://nodejs.org) :heavy_check_mark:
-- [Deno](https://deno.com) :heavy_check_mark:
 - [Bun](https://bun.sh) :heavy_check_mark:
+- [Deno](https://deno.com)
 
 #### Compiler
 - [Babel](https://babeljs.io) :heavy_check_mark:
