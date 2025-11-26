@@ -157,9 +157,7 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - #### Framework
   - [Next.js](https://nextjs.org) :heavy_check_mark:
   - [Blitz](https://blitzjs.com)
-  - [Gatsby](https://gatsbyjs.com)
-  - [Redwood](https://redwoodjs.com)
-  - [refine](https://refine.dev)
+  - [RedwoodSDK](https://rwsdk.com)
   - [Fresh](https://fresh.deno.dev) (Preact)
 
 #### Vue
