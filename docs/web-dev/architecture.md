@@ -16,6 +16,7 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 - [Web Vitals](https://web.dev/articles/vitals) :heavy_check_mark:
 - [TTFB](https://web.dev/articles/ttfb) :heavy_check_mark:
 - [TBT](https://web.dev/articles/tbt) :heavy_check_mark:
+- [AGENTS.md](https://agents.md)
 
 #### PWA
 - [Web App Manifest](https://developer.mozilla.org/en-US/docs/Web/Manifest) :heavy_check_mark:
