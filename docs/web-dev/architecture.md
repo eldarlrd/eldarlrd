@@ -13,10 +13,10 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 - [sitemap.xml](https://developers.google.com/search/docs/crawling-indexing/sitemaps) :heavy_check_mark:
 - [robots.txt](https://developer.mozilla.org/en-US/docs/Glossary/Robots.txt) :heavy_check_mark:
 - [llms.txt](https://llmstxt.org) :heavy_check_mark:
+- [AGENTS.md](https://agents.md) :heavy_check_mark:
 - [Web Vitals](https://web.dev/articles/vitals) :heavy_check_mark:
 - [TTFB](https://web.dev/articles/ttfb) :heavy_check_mark:
 - [TBT](https://web.dev/articles/tbt) :heavy_check_mark:
-- [AGENTS.md](https://agents.md)
 
 #### PWA
 - [Web App Manifest](https://developer.mozilla.org/en-US/docs/Web/Manifest) :heavy_check_mark:
