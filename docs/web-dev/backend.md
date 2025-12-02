@@ -11,7 +11,7 @@ hide_table_of_contents: true
 **The :heavy_check_mark: is appended to those that have been tried and verified by me.**
 
 #### Guide
-- [Learn Node the Hard Way](https://github.com/ishtms/learn-nodejs-hard-way)
+- [Learn Node the Hard Way](https://github.com/ishtms/learn-nodejs-hard-way) :heavy_check_mark:
 
 #### Helpers
 - [Send Emails](https://mailtrap.io/blog/sending-emails-with-nodemailer)
