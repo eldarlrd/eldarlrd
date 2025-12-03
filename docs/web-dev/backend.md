@@ -10,10 +10,9 @@ hide_table_of_contents: true
 
 **The :heavy_check_mark: is appended to those that have been tried and verified by me.**
 
-#### Guide
-- [Learn Node the Hard Way](https://github.com/ishtms/learn-nodejs-hard-way) :heavy_check_mark:
-
 #### Helpers
+- [HTTP Response Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status) :heavy_check_mark:
+- [HTTP Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers) :heavy_check_mark:
 - [Send Emails](https://mailtrap.io/blog/sending-emails-with-nodemailer)
 
 #### Environment
