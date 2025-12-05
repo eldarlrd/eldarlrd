@@ -155,7 +155,7 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
   - [World Bank](https://documents.worldbank.org/en/publication/documents-reports/api)
 - #### AI
   - [OpenAI](https://platform.openai.com/docs/overview)
-  - [Gemini](https://ai.google.dev)
+  - [Gemini](https://ai.google.dev/api)
   - [Claude](https://anthropic.com/api)
   - [Grok](https://x.ai/api)
 - #### Books
@@ -175,7 +175,6 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
   - [JokeAPI](https://sv443.net/jokeapi/v2)
 - #### Sports
   - [API-SPORTS](https://api-sports.io)
-  - [football-data](https://football-data.org)
   - [All Sports](https://allsportsapi.com)
 - #### Countries
   - [REST Countries](https://restcountries.com)
@@ -183,6 +182,7 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
   - [Free Dictionary](https://dictionaryapi.dev)
   - [Merriam-Webster Dictionary](https://dictionaryapi.com)
 - #### Geek
+  - [fCC PokéAPI](https://pokeapi-proxy.freecodecamp.rocks/api/pokemon) :heavy_check_mark:
   - [SWAPI](https://swapi.py4e.com)
-  - [TS Quote](https://thesimpsonsquoteapi.glitch.me)
-  - [Marvel Comics](https://developer.marvel.com)
+  - [PokéAPI](https://pokeapi.co)
+  - [The Simpsons](https://thesimpsonsapi.com)
