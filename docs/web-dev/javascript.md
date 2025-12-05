@@ -71,12 +71,11 @@ image: https://static2.makeuseofimages.com/wordpress/wp-content/uploads/2016/09/
 - [Jest](https://jestjs.io) :heavy_check_mark:
 - [Vitest](https://vitest.dev) :heavy_check_mark:
 - [Puppeteer](https://pptr.dev) :heavy_check_mark:
+- [Jasmine](https://jasmine.github.io) :heavy_check_mark:
 - [Mocha](https://mochajs.org)
 - [QUnit](https://qunitjs.com)
 - [Chai](https://chaijs.com)
-- [Sinon](https://sinonjs.org)
 - [Cypress](https://cypress.io)
-- [Jasmine](https://jasmine.github.io)
 - [Playwright](https://playwright.dev)
 - [Cucumber](https://cucumber.io)
 
