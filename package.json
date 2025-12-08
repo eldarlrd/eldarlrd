@@ -18,8 +18,8 @@
     "deployer": "bun bundle && gh-pages -b prod -m 'build(prod): deployment' -d build",
     "style": "stylelint 'src/**/*.sass'",
     "pretty": "prettier '{src/**/*.ts,*.config.mts}' --write",
-    "format": "bun style --fix && bun pretty",
-    "cut": "knip --fix --cache"
+    "check": "bun style --fix && bun pretty",
+    "orphans": "knip --cache"
   },
   "stylelint": {
     "customSyntax": "postcss-styl",
@@ -60,7 +60,7 @@
     "@types/node": "^24.10.1",
     "@types/react": "^19.2.7",
     "gh-pages": "^6.3.0",
-    "knip": "^5.71.0",
+    "knip": "^5.72.0",
     "prettier": "^3.7.4",
     "stylelint": "^16.26.1",
     "stylelint-config-standard": "^39.0.1",

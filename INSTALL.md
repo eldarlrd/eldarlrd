@@ -29,13 +29,13 @@ bun bundle
 ```sh
 bun serve
 ```
-### Format Code (Stylelint + Prettier)
+### Check Code (Stylelint + Prettier)
 ```sh
-bun format
+bun check
 ```
-### Cut Orphans (Knip)
+### See Orphans (Knip)
 ```sh
-bun cut
+bun orphans
 ```
 ## Deploy
 ```sh
