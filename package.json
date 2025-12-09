@@ -51,13 +51,13 @@
     "prism-react-renderer": "^2.4.1",
     "react": "^19.2.1",
     "react-dom": "^19.2.1",
-    "sass": "^1.94.2"
+    "sass": "^1.95.0"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^3.9.2",
     "@docusaurus/tsconfig": "^3.9.2",
     "@docusaurus/types": "^3.9.2",
-    "@types/node": "^24.10.1",
+    "@types/node": "^24.10.2",
     "@types/react": "^19.2.7",
     "gh-pages": "^6.3.0",
     "knip": "^5.72.0",
