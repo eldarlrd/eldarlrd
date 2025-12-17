@@ -29,9 +29,9 @@ bun bundle
 ```sh
 bun serve
 ```
-### Check Code (Stylelint + Prettier)
+### Fix Code (Stylelint + Prettier)
 ```sh
-bun check
+bun fix
 ```
 ### See Orphans (Knip)
 ```sh
