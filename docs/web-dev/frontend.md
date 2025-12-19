@@ -156,6 +156,7 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
   - [React Three Fiber](https://docs.pmnd.rs/react-three-fiber)
 - #### Framework
   - [Next.js](https://nextjs.org) :heavy_check_mark:
+  - [Vike](https://vike.dev)
   - [Blitz](https://blitzjs.com)
   - [RedwoodSDK](https://rwsdk.com)
   - [Fresh](https://fresh.deno.dev) (Preact)
