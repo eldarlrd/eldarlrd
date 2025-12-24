@@ -116,16 +116,12 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
   - [React Context](https://freecodecamp.org/news/react-context-for-beginners) :heavy_check_mark:
   - [React Best Practices](https://freecodecamp.org/news/best-practices-for-react) :heavy_check_mark:
 - #### Code Style
-  - [Airbnb React/JSX](https://airbnb.io/javascript/react) :heavy_check_mark:
-- #### Compiler
-  - [Million](https://million.dev) :heavy_check_mark:
-  - [Mitosis](https://mitosis.builder.io)
+  - [Airbnb React/JSX](https://javascript.airbnb.tech/react) :heavy_check_mark:
 - #### State Management
   - [Redux Toolkit](https://redux-toolkit.js.org) :heavy_check_mark:
   - [Zustand](https://zustand-demo.pmnd.rs) :heavy_check_mark:
   - [Valtio](https://valtio.pmnd.rs)
   - [Jotai](https://jotai.org)
-  - [Recoil](https://recoiljs.org)
   - [MobX](https://mobx.js.org)
 - #### API Query
   - [RTK Query](https://redux-toolkit.js.org/rtk-query/overview) :heavy_check_mark:
@@ -135,7 +131,6 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
   - [Formik](https://formik.org)
 - #### Hooks
   - [useDebounce](https://github.com/xnimorz/use-debounce) :heavy_check_mark:
-  - [useHooks](https://usehooks.com)
   - [@react-hookz/web](https://react-hookz.github.io/web)
 - #### Text Editor
   - [Slate](https://docs.slatejs.org)
@@ -162,15 +157,14 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
   - [Fresh](https://fresh.deno.dev) (Preact)
 
 #### Vue
-- [Learn Vue](https://freecodecamp.org/news/vue-js-full-course)
+- [Learn Vue](https://vuejs.org/tutorial)
 - #### State Management
   - [Pinia](https://pinia.vuejs.org)
 - #### Framework
   - [Nuxt](https://nuxt.com)
-  - [Gridsome](https://gridsome.org)
 
 #### Angular
-- [Learn Angular](https://freecodecamp.org/news/angular-tutorial-course)
+- [Learn Angular](https://angular.dev/tutorials/learn-angular)
 - #### State Management
   - [NgRx](https://ngrx.io)
 - #### Event Management
@@ -182,3 +176,5 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - [Learn Solid](https://solidjs.com/tutorial) :heavy_check_mark:
 - #### Framework
   - [SolidStart](https://start.solidjs.com)
+- #### Compiler
+  - [Mitosis](https://mitosis.builder.io)

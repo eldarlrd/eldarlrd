@@ -15,9 +15,6 @@ hide_table_of_contents: true
 - [HTTP Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers) :heavy_check_mark:
 - [Send Emails](https://mailtrap.io/blog/sending-emails-with-nodemailer)
 
-#### Environment
-- [Dotenv](https://dotenv.org) :heavy_check_mark:
-
 #### Contact API
 - [Web3Forms](https://web3forms.com) :heavy_check_mark:
 - [EmailJS](https://emailjs.com)
@@ -53,13 +50,8 @@ hide_table_of_contents: true
 - [Express](https://expressjs.com)
 - [Astro](https://astro.build)
 - [Nest](https://nestjs.com)
-- [hapi](https://hapi.dev)
 - [Koa](https://koajs.com)
-- [Sails](https://sailsjs.com)
-- [Parse](https://parseplatform.org)
 - [Meteor](https://meteor.com)
 - [Fastify](https://fastify.dev)
-- [Aleph.js](https://aleph.deno.dev)
 - [AdonisJS](https://adonisjs.com)
-- [Rocket](https://rocket.rs) (Rust)
 - [Actix](https://actix.rs) (Rust)

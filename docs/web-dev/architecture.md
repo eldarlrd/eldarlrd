@@ -35,7 +35,6 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 
 #### API Development
 - [Swagger](https://swagger.io)
-- [Apigee](https://cloud.google.com/apigee)
 
 #### API Workshop
 - [Postman](https://postman.com) :heavy_check_mark:
@@ -51,7 +50,7 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 - [AVIF](https://aomediacodec.github.io/av1-avif/latest-approved.html) :heavy_check_mark:
 
 #### Video Format
-- [WebM](https://www.webmproject.org)
+- [WebM](https://www.webmproject.org) :heavy_check_mark:
 
 #### Audio Format
 - [Opus](https://opus-codec.org) :heavy_check_mark:
@@ -100,12 +99,9 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 - [MongoDB](https://mongodb.com)
 - [MariaDB](https://mariadb.org)
 - [CouchDB](https://couchdb.apache.org)
-- [PouchDB](https://pouchdb.com)
-- [RethinkDB](https://rethinkdb.com)
-- [LowDB](https://github.com/typicode/lowdb)
 - [PostgreSQL](https://postgresql.org)
 - [SQLite](https://sqlite.org)
-- [libSQL](https://turso.tech/libsql)
+- [Turso](https://turso.tech)
 - [MySQL](https://mysql.com)
 - [Redis](https://redis.io)
 
@@ -122,9 +118,10 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 - [Vercel](https://vercel.com)
 - [Heroku](https://heroku.com)
 - [Render](https://render.com)
-- [Azure](https://azure.microsoft.com)
 - [Neon](https://neon.com)
+- [Azure](https://azure.microsoft.com)
 - [AWS](https://aws.amazon.com)
+- [GCP](https://cloud.google.com)
 
 #### Framework
 - [Neutralinojs](https://neutralino.js.org)

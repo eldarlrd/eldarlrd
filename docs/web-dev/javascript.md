@@ -29,9 +29,6 @@ image: https://static2.makeuseofimages.com/wordpress/wp-content/uploads/2016/09/
 - [SWC](https://swc.rs) :heavy_check_mark:
 - [Oxc](https://oxc.rs)
 
-#### Module Loader
-- [RequireJS](https://requirejs.org)
-
 #### Type Checking
 - [Flow](https://flow.org) :heavy_check_mark:
 
@@ -43,7 +40,7 @@ image: https://static2.makeuseofimages.com/wordpress/wp-content/uploads/2016/09/
 - [Knip](https://knip.dev) :heavy_check_mark:
 
 #### Code Style
-- [Airbnb JS](https://airbnb.io/javascript) :heavy_check_mark:
+- [Airbnb JS](https://javascript.airbnb.tech) :heavy_check_mark:
 - [Google JS](https://google.github.io/styleguide/jsguide.html) :heavy_check_mark:
 - [Standard JS](https://standardjs.com/rules) :heavy_check_mark:
 - [Conventional Commits](https://conventionalcommits.org) :heavy_check_mark:
@@ -81,10 +78,7 @@ image: https://static2.makeuseofimages.com/wordpress/wp-content/uploads/2016/09/
 
 #### Templating
 - [11ty](https://11ty.dev)
-- [EJS](https://ejs.co)
-- [Pug](https://pugjs.org)
 - [Haml](https://haml.info)
-- [Handlebars](https://handlebarsjs.com)
 
 #### HTML
 - [MDX](https://mdxjs.com) :heavy_check_mark:

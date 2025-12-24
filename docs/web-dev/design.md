@@ -57,6 +57,10 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 #### Linter
 - [Stylelint](https://stylelint.io) :heavy_check_mark:
 
+#### Resets
+- [modern-normalize](https://github.com/sindresorhus/modern-normalize) :heavy_check_mark:
+- [normalize.css](https://csstools.github.io/normalize.css) :heavy_check_mark:
+
 #### Processor
 - [SCSS](https://sass-lang.com) :heavy_check_mark:
 - [Less](https://lesscss.org) :heavy_check_mark:
@@ -64,11 +68,9 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 - [Stylus](https://stylus-lang.com) :heavy_check_mark:
 
 #### Libraries
-- [modern-normalize](https://github.com/sindresorhus/modern-normalize) :heavy_check_mark:
-- [normalize.css](https://csstools.github.io/normalize.css) :heavy_check_mark:
+- [vanilla-extract](https://vanilla-extract.style) :heavy_check_mark:
 - [Tailwind](https://tailwindcss.com) :heavy_check_mark:
 - [Emotion](https://emotion.sh) :heavy_check_mark:
-- [vanilla-extract](https://vanilla-extract.style)
 - [Panda](https://panda-css.com)
 
 #### Variants
@@ -91,6 +93,7 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 - [Park UI](https://park-ui.com)
 - [Headless UI](https://headlessui.com)
 - [Skeleton](https://skeleton.dev)
+- [Stencil](https://stenciljs.com)
 - #### React
   - [Chakra UI](https://chakra-ui.com) :heavy_check_mark:
   - [HeroUI](https://heroui.org) :heavy_check_mark:
