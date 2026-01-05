@@ -14,6 +14,7 @@ hide_table_of_contents: true
 - [HTTP Response Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status) :heavy_check_mark:
 - [HTTP Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers) :heavy_check_mark:
 - [Send Emails](https://mailtrap.io/blog/sending-emails-with-nodemailer)
+- [Crypto 101](https://raw.githubusercontent.com/crypto101/crypto101.github.io/master/Crypto101.pdf)
 
 #### Contact API
 - [Web3Forms](https://web3forms.com) :heavy_check_mark:

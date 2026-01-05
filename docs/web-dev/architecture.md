@@ -14,9 +14,10 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 - [robots.txt](https://developer.mozilla.org/en-US/docs/Glossary/Robots.txt) :heavy_check_mark:
 - [llms.txt](https://llmstxt.org) :heavy_check_mark:
 - [AGENTS.md](https://agents.md) :heavy_check_mark:
-- [Web Vitals](https://web.dev/articles/vitals) :heavy_check_mark:
 - [TTFB](https://web.dev/articles/ttfb) :heavy_check_mark:
 - [TBT](https://web.dev/articles/tbt) :heavy_check_mark:
+- [Web Vitals](https://web.dev/articles/vitals) :heavy_check_mark:
+- [Web Audio](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
 
 #### PWA
 - [Web App Manifest](https://developer.mozilla.org/en-US/docs/Web/Manifest) :heavy_check_mark:
@@ -41,22 +42,6 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 - [Insomnia](https://insomnia.rest)
 - [Bruno](https://usebruno.com)
 - [Yaak](https://yaak.app)
-
-#### Media Types
-- [IANA](https://iana.org/assignments/media-types) :heavy_check_mark:
-
-#### Image Format
-- [WebP](https://developers.google.com/speed/webp) :heavy_check_mark:
-- [AVIF](https://aomediacodec.github.io/av1-avif/latest-approved.html) :heavy_check_mark:
-
-#### Video Format
-- [WebM](https://www.webmproject.org) :heavy_check_mark:
-
-#### Audio Format
-- [Opus](https://opus-codec.org) :heavy_check_mark:
-
-#### Font Format
-- [WOFF2](https://w3.org/TR/WOFF2) :heavy_check_mark:
 
 #### Communication
 - [Socket.IO](https://socket.io)
@@ -130,6 +115,18 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 - [Tauri](https://tauri.app)
 - [NW.js](https://nwjs.io)
 - [Wails](https://wails.io) (Go)
+
+#### Media Types
+- [IANA](https://iana.org/assignments/media-types) :heavy_check_mark:
+- #### Image
+  - [WebP](https://developers.google.com/speed/webp) :heavy_check_mark:
+  - [AVIF](https://aomediacodec.github.io/av1-avif/latest-approved.html) :heavy_check_mark:
+- #### Video
+  - [WebM](https://www.webmproject.org) :heavy_check_mark:
+- #### Audio
+  - [Opus](https://opus-codec.org) :heavy_check_mark:
+- #### Font
+  - [WOFF2](https://w3.org/TR/WOFF2) :heavy_check_mark:
 
 ### Free API
 - #### Fake
