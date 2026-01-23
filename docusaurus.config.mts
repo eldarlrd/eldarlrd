@@ -120,7 +120,7 @@ export default {
     },
 
     footer: {
-      copyright: '© 2023 - 2025 eldarlrd',
+      copyright: '© 2023 - 2026 eldarlrd',
       logo: {
         src: 'https://github.com/eldarlrd.png',
         href: 'https://eldarlrd.is-a.dev',
