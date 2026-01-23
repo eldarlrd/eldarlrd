@@ -33,6 +33,7 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 - [Devicon](https://devicon.dev) :heavy_check_mark:
 - [Heroicons](https://heroicons.com) :heavy_check_mark:
 - [Simple Icons](https://simpleicons.org) :heavy_check_mark:
+- [Phosphor Icons](https://phosphoricons.com) :heavy_check_mark:
 - #### React
   - [React Icons](https://react-icons.github.io/react-icons) :heavy_check_mark:
 - #### Angular
