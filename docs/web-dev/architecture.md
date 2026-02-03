@@ -161,6 +161,8 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
   - [Spotify](https://developer.spotify.com/documentation/web-api)
 - #### Photos
   - [Unsplash](https://unsplash.com/developers)
+- #### Games
+  - [Deck of Cards](https://deckofcardsapi.com) :heavy_check_mark:
 - #### Food
   - [spoonacular](https://spoonacular.com/food-api)
   - [TheMealDB](https://themealdb.com/api.php)
