@@ -29,15 +29,18 @@ image: https://static2.makeuseofimages.com/wordpress/wp-content/uploads/2016/09/
 - [SWC](https://swc.rs) :heavy_check_mark:
 - [Oxc](https://oxc.rs)
 
-#### Type Checking
-- [Flow](https://flow.org) :heavy_check_mark:
-
 ### Linter
 - [Biome](https://biomejs.dev) :heavy_check_mark:
 - [ESLint](https://eslint.org) :heavy_check_mark:
 - [Prettier](https://prettier.io) :heavy_check_mark:
 - [commitlint](https://commitlint.js.org) :heavy_check_mark:
 - [Knip](https://knip.dev) :heavy_check_mark:
+
+#### Type Checking
+- [Flow](https://flow.org) :heavy_check_mark:
+
+#### Spell Checking
+- [CSpell](https://cspell.org) :heavy_check_mark:
 
 #### Code Style
 - [Airbnb JS](https://javascript.airbnb.tech) :heavy_check_mark:

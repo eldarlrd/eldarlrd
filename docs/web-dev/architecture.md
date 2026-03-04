@@ -81,7 +81,8 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 - [Kafka](https://kafka.apache.org)
 
 #### Monitoring
-- [Sentry](https://sentry.io)
+- [Sonar](https://sonarsource.com) :heavy_check_mark:
+- [Sentry](https://sentry.io) :heavy_check_mark:
 
 #### Deployment
 - [PM2](https://pm2.keymetrics.io)
