@@ -5,30 +5,30 @@
     "": {
       "name": "eldarlrd",
       "dependencies": {
-        "@docusaurus/core": "latest",
-        "@docusaurus/plugin-content-docs": "latest",
-        "@docusaurus/preset-classic": "latest",
-        "@mdx-js/react": "latest",
-        "clsx": "latest",
-        "docusaurus-plugin-sass": "latest",
-        "prism-react-renderer": "latest",
-        "react": "latest",
-        "react-dom": "latest",
-        "sass": "latest",
+        "@docusaurus/core": "^3.9.2",
+        "@docusaurus/plugin-content-docs": "^3.9.2",
+        "@docusaurus/preset-classic": "^3.9.2",
+        "@mdx-js/react": "^3.1.1",
+        "clsx": "^2.1.1",
+        "docusaurus-plugin-sass": "^0.2.6",
+        "prism-react-renderer": "^2.4.1",
+        "react": "^19.2.4",
+        "react-dom": "^19.2.4",
+        "sass": "^1.99.0",
       },
       "devDependencies": {
-        "@docusaurus/module-type-aliases": "latest",
-        "@docusaurus/tsconfig": "latest",
-        "@docusaurus/types": "latest",
-        "@types/node": "latest",
-        "@types/react": "latest",
-        "gh-pages": "latest",
-        "knip": "latest",
-        "prettier": "latest",
-        "stylelint": "latest",
-        "stylelint-config-standard": "latest",
-        "stylelint-stylus": "latest",
-        "typescript": "latest",
+        "@docusaurus/module-type-aliases": "^3.9.2",
+        "@docusaurus/tsconfig": "^3.9.2",
+        "@docusaurus/types": "^3.9.2",
+        "@types/node": "^25.5.0",
+        "@types/react": "^19.2.14",
+        "gh-pages": "^6.3.0",
+        "knip": "^6.2.0",
+        "prettier": "^3.8.1",
+        "stylelint": "^17.6.0",
+        "stylelint-config-standard": "^40.0.0",
+        "stylelint-stylus": "^1.0.0",
+        "typescript": "^6.0.2",
       },
     },
   },
@@ -701,7 +701,7 @@
 
     "@types/ms": ["@types/ms@2.1.0", "", {}, "sha512-GsCCIZDE/p3i96vtEqx+7dBUGXrc7zeSK3wwPHIaRThS+9OhWIXRqzs4d6k1SVU8g91DrNRWxWUGhp5KXQb2VA=="],
 
-    "@types/node": ["@types/node@25.5.0", "", { "dependencies": { "undici-types": "~7.18.0" } }, "sha512-jp2P3tQMSxWugkCUKLRPVUpGaL5MVFwF8RDuSRztfwgN1wmqJeMSbKlnEtQqU8UrhTmzEmZdu2I6v2dpp7XIxw=="],
+    "@types/node": ["@types/node@25.5.2", "", { "dependencies": { "undici-types": "~7.18.0" } }, "sha512-tO4ZIRKNC+MDWV4qKVZe3Ql/woTnmHDr5JD8UI5hn2pwBrHEwOEMZK7WlNb5RKB6EoJ02gwmQS9OrjuFnZYdpg=="],
 
     "@types/node-forge": ["@types/node-forge@1.3.11", "", { "dependencies": { "@types/node": "*" } }, "sha512-FQx220y22OKNTqaByeBGqHWYz4cl94tpcxeFdvBo3wjG6XPBuZ0BNgNZRV5J5TFmmcsJ4IzsLkmGRiQbnYsBEQ=="],
 
@@ -1487,7 +1487,7 @@
 
     "kleur": ["kleur@3.0.3", "", {}, "sha512-eTIzlVOSUR+JxdDFepEYcBMtZ9Qqdef+rnzWdRZuMbOywu5tO2w2N7rqjoANZ5k9vywhL6Br1VRjUIgTQx4E8w=="],
 
-    "knip": ["knip@6.2.0", "", { "dependencies": { "@nodelib/fs.walk": "^1.2.3", "fast-glob": "^3.3.3", "formatly": "^0.3.0", "get-tsconfig": "4.13.7", "jiti": "^2.6.0", "minimist": "^1.2.8", "oxc-parser": "^0.121.0", "oxc-resolver": "^11.19.1", "picocolors": "^1.1.1", "picomatch": "^4.0.1", "smol-toml": "^1.6.1", "strip-json-comments": "5.0.3", "unbash": "^2.2.0", "yaml": "^2.8.2", "zod": "^4.1.11" }, "bin": { "knip": "bin/knip.js", "knip-bun": "bin/knip-bun.js" } }, "sha512-4OMUMJARvNble8e8TeFv12flp4fKzAITrQec1eKO4g2eA4HnNqEa8CXy2UOPLjuYuAETpe0N0r25jF9yY9FLig=="],
+    "knip": ["knip@6.3.0", "", { "dependencies": { "@nodelib/fs.walk": "^1.2.3", "fast-glob": "^3.3.3", "formatly": "^0.3.0", "get-tsconfig": "4.13.7", "jiti": "^2.6.0", "minimist": "^1.2.8", "oxc-parser": "^0.121.0", "oxc-resolver": "^11.19.1", "picocolors": "^1.1.1", "picomatch": "^4.0.1", "smol-toml": "^1.6.1", "strip-json-comments": "5.0.3", "unbash": "^2.2.0", "yaml": "^2.8.2", "zod": "^4.1.11" }, "bin": { "knip": "bin/knip.js", "knip-bun": "bin/knip-bun.js" } }, "sha512-g6dVPoTw6iNm3cubC5IWxVkVsd0r5hXhTBTbAGIEQN53GdA2ZM/slMTPJ7n5l8pBebNQPHpxjmKxuR4xVQ2/hQ=="],
 
     "latest-version": ["latest-version@7.0.0", "", { "dependencies": { "package-json": "^8.1.0" } }, "sha512-KvNT4XqAMzdcL6ka6Tl3i2lYeFDgXNCuIX+xNx6ZMVR1dFq+idXd9FLKNMOIx0t9mJ9/HudyX4oZWXZQ0UJHeg=="],
 
