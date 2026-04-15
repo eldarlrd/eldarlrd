@@ -24,6 +24,9 @@ hide_table_of_contents: true
 - [Formspark](https://formspark.io)
 - [Basin](https://usebasin.com)
 
+#### SMS API
+- [Zavu](https://zavu.dev)
+
 #### API Query
 - [GraphQL](https://graphql.org)
 - [Relay](https://relay.dev)
