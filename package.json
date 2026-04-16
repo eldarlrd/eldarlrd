@@ -62,7 +62,7 @@
     "gh-pages": "^6.3.0",
     "knip": "^6.4.1",
     "prettier": "^3.8.3",
-    "stylelint": "^17.7.0",
+    "stylelint": "^17.8.0",
     "stylelint-config-standard": "^40.0.0",
     "stylelint-stylus": "^1.0.0",
     "typescript": "^6.0.2"
