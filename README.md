@@ -4,6 +4,7 @@ along with many related areas in technology, programming, and digital rights.
 Currently, I'm focused on the **:godmode: Frontend** building interactive web apps and games using
 <a
 href='https://typescriptlang.org'
+width='fit-content'
 rel='nofollow'>
 <img
 src='https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg'
@@ -12,6 +13,7 @@ height='16'>
 </a> **TypeScript** and various
 <a
 href='https://developer.mozilla.org/en-US/docs/Web/javascript'
+width='fit-content'
 rel='nofollow'>
 <img
 src='https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg'
