@@ -173,6 +173,7 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 - #### Jokes
   - [DadJokes](https://dadjokes.io)
   - [JokeAPI](https://sv443.net/jokeapi/v2)
+  - [NaaS](https://github.com/hotheadhacker/no-as-a-service)
 - #### Sports
   - [API-SPORTS](https://api-sports.io)
   - [All Sports](https://allsportsapi.com)
