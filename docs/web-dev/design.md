@@ -44,8 +44,10 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 #### SFX
 - [Freesound](https://freesound.org) :heavy_check_mark:
 
-#### Workshop
+#### Tools
 - [SVGO](https://svgo.dev) :heavy_check_mark:
+
+#### Workshop
 - [Storybook](https://storybook.js.org)
 
 #### Color Space
