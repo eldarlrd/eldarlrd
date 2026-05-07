@@ -42,6 +42,9 @@ image: https://static2.makeuseofimages.com/wordpress/wp-content/uploads/2016/09/
 #### Spell Checking
 - [CSpell](https://cspell.org) :heavy_check_mark:
 
+#### Hooks Manager
+- [Lefthook](https://lefthook.dev) :heavy_check_mark:
+
 #### Code Style
 - [Airbnb JS](https://javascript.airbnb.tech) :heavy_check_mark:
 - [Google JS](https://google.github.io/styleguide/jsguide.html) :heavy_check_mark:
