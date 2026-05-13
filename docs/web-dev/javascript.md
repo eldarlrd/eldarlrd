@@ -44,6 +44,7 @@ image: https://static2.makeuseofimages.com/wordpress/wp-content/uploads/2016/09/
 
 #### Hooks Manager
 - [Lefthook](https://lefthook.dev) :heavy_check_mark:
+- [Husky](https://typicode.github.io/husky) :heavy_check_mark:
 
 #### Code Style
 - [Airbnb JS](https://javascript.airbnb.tech) :heavy_check_mark:
