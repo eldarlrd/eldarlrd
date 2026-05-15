@@ -8,6 +8,8 @@
 > - **[Sass](https://sass-lang.com)**
 > - **[MDX](https://mdxjs.com)**
 > - **[Prism](https://prismjs.com)**
+> - **[commitlint](https://commitlint.js.org)**
+> - **[Lefthook](https://lefthook.dev)**
 > - **[webpack](https://webpack.js.org)**
 >
 > made for tech documentation and blogkeeping.
@@ -16,8 +18,8 @@
 ```sh
 bun i
 ```
-## Develop
-### Run Env
+## Development
+### Start Env
 ```sh
 bun dev
 ```
@@ -29,7 +31,8 @@ bun bundle
 ```sh
 bun serve
 ```
-### Fix Code (Stylelint + Prettier)
+## Tools
+### Fix Code (Biome)
 ```sh
 bun fix
 ```
@@ -37,7 +40,7 @@ bun fix
 ```sh
 bun orphans
 ```
-## Deploy
+## Deployment
 ```sh
 bun deployer
 ```

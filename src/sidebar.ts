@@ -3,12 +3,6 @@ import { type SidebarsConfig } from '@docusaurus/plugin-content-docs';
 export default {
   docs: [
     {
-      type: 'category',
-      label: '🕸️ Web Development',
-      link: {
-        type: 'doc',
-        id: 'web-dev/index'
-      },
       items: [
         'web-dev/javascript',
         'web-dev/typescript',
@@ -16,7 +10,13 @@ export default {
         'web-dev/design',
         'web-dev/backend',
         'web-dev/architecture'
-      ]
+      ],
+      label: '🕸️ Web Development',
+      link: {
+        id: 'web-dev/index',
+        type: 'doc'
+      },
+      type: 'category'
     }
   ]
 } as SidebarsConfig;
