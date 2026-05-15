@@ -122,7 +122,7 @@
         "noUselessReturn": "info",
         "noUselessTypeConversion": "info",
         "useArraySome": "info",
-        "useArraySortCompare": "info",
+        "useArraySortCompare": "warn",
         "useBaseline": "info", // CSS
         "useConsistentEnumValueType": "info",
         "useErrorCause": "info",
