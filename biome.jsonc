@@ -37,7 +37,7 @@
     }
   },
   "files": {
-    "ignoreUnknown": false,
+    "ignoreUnknown": true,
     "includes": ["src/**/*", "__{tests,mocks,snapshots}__/**/*"]
   },
   "formatter": {
