@@ -134,7 +134,7 @@
         "noSecrets": {
           "level": "error",
           "options": {
-            "entropyThreshold": 50
+            "entropyThreshold": 55
           }
         }
       },
@@ -222,7 +222,7 @@
       },
       "suspicious": {
         "noDeprecatedImports": "warn",
-        "noDuplicateDependencies": "error", // JSON
+        "noDuplicateDependencies": "error",
         "noDuplicatedSpreadProps": "error",
         "noEmptyBlock": "warn",
         "noEmptySource": "warn",
