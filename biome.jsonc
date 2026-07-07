@@ -20,8 +20,10 @@
           }
         },
         "useSortedAttributes": "on",
+        "useSortedEnumMembers": "on",
         "useSortedInterfaceMembers": "on",
         "useSortedKeys": "on",
+        "useSortedPackageJson": "on",
         "useSortedProperties": "on"
       }
     }
@@ -65,10 +67,7 @@
   },
   "linter": {
     "rules": {
-      /* Missing
-        • group-exports
-        • no-relative-import-paths
-        • padding-line-between-statements */
+      // Missing • padding-line-between-statements
       "complexity": {
         "noExcessiveCognitiveComplexity": "info",
         "noExcessiveLinesPerFunction": {
@@ -79,22 +78,68 @@
           }
         },
         "noExcessiveNestedTestSuites": "info",
+        "noUselessReturn": "info",
+        "useArrayFind": "info",
         "useSimplifiedLogicExpression": "info",
         "useWhile": "warn"
       },
       "correctness": {
         "noNestedComponentDefinitions": "error",
+        "noUnusedInstantiation": "info",
         "useImportExtensions": "warn",
         "useSingleJsDocAsterisk": "info"
       },
       "nursery": {
-        "noAmbiguousAnchorText": "info",
         "noBaseToString": "info",
-        "noDeprecatedMediaType": "warn", // CSS
-        "noDuplicatedSpreadProps": "error",
-        "noDuplicateEnumValues": "error",
         "noDuplicateSelectors": "error", // CSS
         "noEmptyObjectKeys": "error", // JSON
+        "noFloatingPromises": "info",
+        "noIdenticalTestTitle": "warn",
+        "noImpliedEval": "error",
+        "noJsxLeakedDollar": "warn",
+        "noMisleadingReturnType": "info",
+        "noMisusedPromises": "info",
+        "noRestrictedDependencies": "info",
+        "noTopLevelLiterals": "error", // JSON
+        "noUndeclaredClasses": "info", // CSS
+        "noUnnecessaryTemplateExpression": "info",
+        "noUntrustedLicenses": "warn", // JSON
+        "noUnusedClasses": "info", // CSS
+        "noUselessTypeConversion": "info",
+        "useArraySome": "info",
+        "useBaseline": "info", // CSS
+        "useExhaustiveSwitchCases": "info",
+        "useExplicitReturnType": "error",
+        "useIframeSandbox": "warn",
+        "useImportsFirst": "warn",
+        "useMathMinMax": "warn",
+        "useNullishCoalescing": "info",
+        "useReactAsyncServerFunction": "info",
+        "useReduceTypeParameter": "info",
+        "useRegexpTest": "info",
+        "useSortedClasses": "warn",
+        "useTestHooksInOrder": "warn",
+        "useTestHooksOnTop": "warn",
+        "useThisInClassMethods": "warn"
+      },
+      "performance": {
+        "noAwaitInLoops": "info",
+        "noBarrelFile": "warn",
+        "noNamespaceImport": "warn",
+        "noReExportAll": "warn",
+        "useTopLevelRegex": "warn"
+      },
+      "preset": "recommended",
+      "security": {
+        "noSecrets": {
+          "level": "error",
+          "options": {
+            "entropyThreshold": 50
+          }
+        }
+      },
+      "style": {
+        "noCommonJs": "warn",
         "noExcessiveClassesPerFile": {
           "level": "info",
           "options": {
@@ -108,61 +153,20 @@
             "skipBlankLines": true
           }
         },
-        "noFloatingClasses": "info",
-        "noFloatingPromises": "info",
-        "noIdenticalTestTitle": "warn",
-        "noImpliedEval": "error",
-        "noJsxLeakedDollar": "warn",
-        "noMisleadingReturnType": "info",
-        "noMisusedPromises": "info",
-        "noTopLevelLiterals": "error", // JSON
-        "noUnnecessaryConditions": "warn",
-        "noUnnecessaryTemplateExpression": "info",
-        "noUntrustedLicenses": "warn", // JSON
-        "noUselessReturn": "info",
-        "noUselessTypeConversion": "info",
-        "useArraySome": "info",
-        "useArraySortCompare": "error",
-        "useBaseline": "info", // CSS
-        "useConsistentEnumValueType": "info",
-        "useErrorCause": "info",
-        "useExhaustiveSwitchCases": "info",
-        "useExplicitReturnType": "error",
-        "useFind": "info",
-        "useGlobalThis": "warn",
-        "useIframeSandbox": "warn",
-        "useImportsFirst": "warn",
-        "useMathMinMax": "warn",
-        "useNullishCoalescing": "info",
-        "useReactAsyncServerFunction": "info",
-        "useReduceTypeParameter": "info",
-        "useRegexpTest": "info",
-        "useSortedClasses": "warn",
-        "useSpread": "info",
-        "useTestHooksInOrder": "warn",
-        "useTestHooksOnTop": "warn",
-        "useThisInClassMethods": "warn"
-      },
-      "performance": {
-        "noAwaitInLoops": "info",
-        "noBarrelFile": "warn",
-        "noNamespaceImport": "warn",
-        "noReExportAll": "warn",
-        "useTopLevelRegex": "warn"
-      },
-      "recommended": true,
-      "security": {
-        "noSecrets": {
-          "level": "error",
-          "options": {
-            "entropyThreshold": 50
-          }
-        }
-      },
-      "style": {
-        "noCommonJs": "warn",
         "noMagicNumbers": "warn",
         "noNegationElse": "info",
+        // https://github.com/biomejs/biome/issues/5936#issuecomment-3876398540
+        "noRestrictedImports": {
+          "level": "warn",
+          "options": {
+            "patterns": [
+              {
+                "group": ["../*"],
+                "message": "Relative imports nested more than one level aren't allowed."
+              }
+            ]
+          }
+        },
         "noShoutyConstants": "info",
         "noUnusedTemplateLiteral": "warn",
         "noUselessElse": "info",
@@ -179,6 +183,7 @@
         },
         "useConsistentArrayType": "info",
         "useConsistentArrowReturn": "info",
+        "useConsistentEnumValueType": "info",
         "useConsistentMemberAccessibility": {
           "level": "error",
           "options": {
@@ -187,9 +192,11 @@
         },
         "useDefaultParameterLast": "warn",
         "useDefaultSwitchClause": "warn",
+        "useErrorCause": "info",
         "useExportsLast": "info",
         "useForOf": "info",
         "useFragmentSyntax": "info",
+        "useGlobalThis": "warn",
         "useGroupedAccessorPairs": "info",
         "useImportType": {
           "level": "warn",
@@ -206,6 +213,7 @@
         },
         "useSelfClosingElements": "info",
         "useShorthandAssign": "info",
+        "useSpreadOverApply": "info",
         "useTemplate": "off",
         "useThrowNewError": "warn",
         "useThrowOnlyError": "warn",
@@ -215,14 +223,17 @@
       "suspicious": {
         "noDeprecatedImports": "warn",
         "noDuplicateDependencies": "error", // JSON
+        "noDuplicatedSpreadProps": "error",
         "noEmptyBlock": "warn",
         "noEmptySource": "warn",
         "noEvolvingTypes": "error",
         "noMisplacedAssertion": "warn",
         "noReactForwardRef": "warn",
         "noUnassignedVariables": "error",
+        "noUnnecessaryConditions": "warn",
         "noUnusedExpressions": "warn",
         "noVar": "error",
+        "useArraySortCompare": "error",
         "useAwait": "error",
         "useGuardForIn": "warn",
         "useNumberToFixedDigitsArgument": "warn"
