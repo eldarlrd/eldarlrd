@@ -162,7 +162,7 @@
             "patterns": [
               {
                 "group": ["../*"],
-                "message": "Relative imports nested more than one level aren't allowed."
+                "message": "Relative imports nested more than one level are not allowed."
               }
             ]
           }
