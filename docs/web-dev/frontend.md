@@ -95,7 +95,6 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 #### Framework
 - [Preact](https://preactjs.com) :heavy_check_mark:
 - [Mithril](https://mithril.js.org) :heavy_check_mark:
-- [Inferno](https://infernojs.org) :heavy_check_mark:
 - [Lit](https://lit.dev) :heavy_check_mark:
 - [Riot](https://riot.js.org) :heavy_check_mark:
 - [Svelte](https://svelte.dev)
@@ -106,6 +105,7 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - [Elysia](https://elysiajs.com)
 - [Alpine](https://alpinejs.dev)
 - [Backbone](https://backbonejs.org)
+- [Octane](https://octanejs.dev)
 - [Yew](https://yew.rs) (Rust)
 
 ### React
