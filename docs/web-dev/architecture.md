@@ -99,6 +99,7 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 - [MariaDB](https://mariadb.org)
 - [CouchDB](https://couchdb.apache.org)
 - [PostgreSQL](https://postgresql.org)
+- [PostGIS](https://postgis.net)
 - [SQLite](https://sqlite.org)
 - [Turso](https://turso.tech)
 - [MySQL](https://mysql.com)
