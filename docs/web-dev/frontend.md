@@ -69,6 +69,7 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - [focus-trap](https://focus-trap.github.io/focus-trap) :heavy_check_mark:
 
 #### Automation
+- [Nx](https://nx.dev)
 - [Lerna](https://lerna.js.org)
 - [Turborepo](https://turborepo.com)
 
