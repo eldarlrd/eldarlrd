@@ -18,7 +18,7 @@
 ```sh
 bun i
 ```
-## Development
+## Develop
 ### Start Env
 ```sh
 bun dev
