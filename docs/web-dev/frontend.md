@@ -94,6 +94,9 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - [Dexie](https://dexie.org) :heavy_check_mark:
 - [JS Cookie](https://github.com/js-cookie/js-cookie) :heavy_check_mark:
 
+#### Security
+- [DOMPurify](https://cure53.de/purify)
+
 #### Framework
 - [Preact](https://preactjs.com) :heavy_check_mark:
 - [Mithril](https://mithril.js.org) :heavy_check_mark:
