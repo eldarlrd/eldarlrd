@@ -46,6 +46,7 @@ hide_table_of_contents: true
 - [Zod](https://zod.dev) :heavy_check_mark:
 - [joi](https://joi.dev) :heavy_check_mark:
 - [Vest](https://vestjs.dev) :heavy_check_mark:
+- [tRPC](https://trpc.io)
 
 #### Email
 - [Nodemailer](https://nodemailer.com)
