@@ -34,6 +34,7 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 #### Data Visualization
 - [D3](https://d3js.org) :heavy_check_mark:
 - [Mermaid](https://mermaid.js.org)
+- [Recharts](https://recharts.github.io)
 - [TanStack Virtual](https://tanstack.com/virtual)
 
 #### Data Grid

@@ -33,6 +33,7 @@ image: https://static2.makeuseofimages.com/wordpress/wp-content/uploads/2016/09/
 - [Biome](https://biomejs.dev) :heavy_check_mark:
 - [ESLint](https://eslint.org) :heavy_check_mark:
 - [Prettier](https://prettier.io) :heavy_check_mark:
+- [Ultracite](https://ultracite.ai) :heavy_check_mark:
 - [commitlint](https://commitlint.js.org) :heavy_check_mark:
 - [Knip](https://knip.dev) :heavy_check_mark:
 
