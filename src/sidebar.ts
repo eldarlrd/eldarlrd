@@ -9,14 +9,14 @@ export default {
         'web-dev/frontend',
         'web-dev/design',
         'web-dev/backend',
-        'web-dev/architecture'
+        'web-dev/architecture',
       ],
       label: '🕸️ Web Development',
       link: {
         id: 'web-dev/index',
-        type: 'doc'
+        type: 'doc',
       },
-      type: 'category'
-    }
-  ]
+      type: 'category',
+    },
+  ],
 } as SidebarsConfig;

@@ -62,7 +62,7 @@
       "bracketSameLine": true,
       "jsxQuoteStyle": "single",
       "quoteStyle": "single",
-      "trailingCommas": "none"
+      "trailingCommas": "es5"
     }
   },
   "linter": {
@@ -93,6 +93,7 @@
         "noBaseToString": "info",
         "noDuplicateSelectors": "error", // CSS
         "noEmptyObjectKeys": "error", // JSON
+        "noExtendNative": "error",
         "noFloatingPromises": "info",
         "noIdenticalTestTitle": "warn",
         "noImpliedEval": "error",
@@ -113,10 +114,12 @@
         "useIframeSandbox": "warn",
         "useImportsFirst": "warn",
         "useMathMinMax": "warn",
-        "useNullishCoalescing": "info",
+        "useNamedLayer": "warn", // CSS
+        "useNullishCoalescing": "warn",
         "useReactAsyncServerFunction": "info",
+        "useReactCompiler": "info",
         "useReduceTypeParameter": "info",
-        "useRegexpTest": "info",
+        "useRegexpTest": "warn",
         "useSortedClasses": "warn",
         "useTestHooksInOrder": "warn",
         "useTestHooksOnTop": "warn",
@@ -227,6 +230,7 @@
         "noEmptyBlock": "warn",
         "noEmptySource": "warn",
         "noEvolvingTypes": "error",
+        "noImportCycles": "warn",
         "noMisplacedAssertion": "warn",
         "noReactForwardRef": "warn",
         "noUnassignedVariables": "error",
