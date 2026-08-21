@@ -27,6 +27,7 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 #### Syntax Highlighting
 - [Prism](https://prismjs.com) :heavy_check_mark:
 - [Shiki](https://shiki.style)
+- [TanStack Highlight](https://tanstack.com/highlight)
 
 #### Internationalization
 - [i18next](https://i18next.com)
@@ -35,6 +36,7 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - [D3](https://d3js.org) :heavy_check_mark:
 - [Mermaid](https://mermaid.js.org)
 - [Recharts](https://recharts.github.io)
+- [TanStack Charts](https://tanstack.com/charts)
 - [TanStack Virtual](https://tanstack.com/virtual)
 
 #### Data Grid
@@ -85,6 +87,9 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 
 #### Hooks
 - [TanStack Pacer](https://tanstack.com/pacer)
+
+#### Keyboard
+- [TanStack Hotkeys](https://tanstack.com/hotkeys)
 
 #### Documentation
 - [Docusaurus](https://docusaurus.io) :heavy_check_mark:
@@ -141,6 +146,7 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - #### Text Editor
   - [Slate](https://docs.slatejs.org)
   - [Plate](https://platejs.org)
+  - [TanStack Markdown](https://tanstack.com/markdown)
 - #### Calendar
   - [React DayPicker](https://daypicker.dev) :heavy_check_mark:
 - #### Routing
