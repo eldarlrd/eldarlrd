@@ -172,6 +172,7 @@
           }
         },
         "noShoutyConstants": "info",
+        "noSubstr": "info",
         "noUnusedTemplateLiteral": "warn",
         "noUselessElse": "info",
         "noYodaExpression": "info",
