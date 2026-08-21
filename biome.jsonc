@@ -87,6 +87,7 @@
         "noNestedComponentDefinitions": "error",
         "noUnusedInstantiation": "info",
         "useImportExtensions": "warn",
+        "useJsonImportAttributes": "info",
         "useSingleJsDocAsterisk": "info"
       },
       "nursery": {
