@@ -66,8 +66,28 @@
     }
   },
   "linter": {
+    "domains": {
+      "astro": "all",
+      "drizzle": "all",
+      // "next": "all", • Conflicts w/ React
+      "playwright": "all",
+      "project": "all",
+      // "qwik": "all", • Conflicts w/ React
+      "react": "all",
+      "reactNative": "all",
+      // "solid": "all", • Conflicts w/ React
+      "svelte": "all",
+      "tailwind": "all",
+      "test": "all",
+      "turborepo": "all",
+      "types": "all",
+      "vue": "all"
+    },
     "rules": {
       // Missing • padding-line-between-statements
+      "a11y": {
+        "noNoninteractiveElementInteractions": "info"
+      },
       "complexity": {
         "noExcessiveCognitiveComplexity": "info",
         "noExcessiveLinesPerFunction": {
@@ -77,21 +97,22 @@
             "skipBlankLines": true
           }
         },
-        "noExcessiveNestedTestSuites": "info",
         "noUselessReturn": "info",
-        "useArrayFind": "info",
         "useSimplifiedLogicExpression": "info",
         "useWhile": "warn"
       },
       "correctness": {
         "noNestedComponentDefinitions": "error",
+        "noUndeclaredDependencies": "off",
+        "noUnresolvedImports": "off",
         "noUnusedInstantiation": "info",
-        "useImportExtensions": "warn",
-        "useJsonImportAttributes": "info",
-        "useSingleJsDocAsterisk": "info"
+        "useSingleJsDocAsterisk": "info",
+        "useUniqueElementIds": "off"
       },
       "nursery": {
         "noBaseToString": "info",
+        "noComponentHookFactories": "error",
+        "noConditionalExpect": "info",
         "noDuplicateSelectors": "error", // CSS
         "noEmptyObjectKeys": "error", // JSON
         "noExtendNative": "error",
@@ -99,36 +120,62 @@
         "noIdenticalTestTitle": "warn",
         "noImpliedEval": "error",
         "noJsxLeakedDollar": "warn",
+        "noJsxNamespace": "info",
         "noMisleadingReturnType": "info",
         "noMisusedPromises": "info",
+        "noReactNativeDeepImports": "error",
+        "noReactNativeLiteralColors": "info",
+        // "noReactNativeRawText": "error", • Conflicts w/ React
+        "noReactStringRefs": "warn",
         "noRestrictedDependencies": "info",
+        "noSvelteLegacyConst": "info",
+        "noSvelteUnnecessaryStateWrap": "info",
         "noTopLevelLiterals": "error", // JSON
         "noUndeclaredClasses": "info", // CSS
         "noUnnecessaryTemplateExpression": "info",
-        "noUntrustedLicenses": "warn", // JSON
+        "noUnsafePlusOperands": "info",
+        "noUntrustedLicenses": "warn",
         "noUnusedClasses": "info", // CSS
         "noUselessTypeConversion": "info",
+        "noVueImportCompilerMacros": "info",
+        "noVueVOnNumberValues": "info",
         "useArraySome": "info",
         "useBaseline": "info", // CSS
+        "useConsistentTestIt": "warn",
+        "useDisposables": "error",
         "useExhaustiveSwitchCases": "info",
+        "useExpect": "info",
         "useExplicitReturnType": "error",
         "useIframeSandbox": "warn",
         "useImportsFirst": "warn",
+        "useIncludes": "info",
         "useMathMinMax": "warn",
         "useNamedLayer": "warn", // CSS
         "useNullishCoalescing": "warn",
+        "useQwikLoaderLocation": "warn",
         "useReactAsyncServerFunction": "info",
         "useReactCompiler": "info",
+        "useReactNativePlatformComponents": "error",
         "useReduceTypeParameter": "info",
+        "useRegexpExec": "info",
         "useRegexpTest": "warn",
+        // "useScopedStyles": "info", • Conflicts w/ React
         "useSortedClasses": "warn",
+        "useStringStartsEndsWith": "info",
+        "useSvelteRequireEachKey": "info",
+        "useTailwindShorthandClasses": "info", // CSS
         "useTestHooksInOrder": "warn",
         "useTestHooksOnTop": "warn",
-        "useThisInClassMethods": "warn"
+        "useThisInClassMethods": "warn",
+        // "noVueRefAsOperand": "error", • Conflicts w/ React
+        "useVueConsistentDefinePropsDeclaration": "info",
+        "useVueNextTickPromise": "info",
+        "useVueValidVFor": "info"
       },
       "performance": {
         "noAwaitInLoops": "info",
         "noBarrelFile": "warn",
+        "noJsxPropsBind": "off",
         "noNamespaceImport": "warn",
         "noReExportAll": "warn",
         "useTopLevelRegex": "warn"
@@ -188,7 +235,6 @@
         },
         "useConsistentArrayType": "info",
         "useConsistentArrowReturn": "info",
-        "useConsistentEnumValueType": "info",
         "useConsistentMemberAccessibility": {
           "level": "error",
           "options": {
@@ -209,7 +255,6 @@
             "style": "inlineType"
           }
         },
-        "useReactFunctionComponents": "warn",
         "useReadonlyClassProperties": {
           "level": "info",
           "options": {
@@ -226,20 +271,15 @@
         "useUnifiedTypeSignatures": "info"
       },
       "suspicious": {
-        "noDeprecatedImports": "warn",
         "noDuplicateDependencies": "error",
-        "noDuplicatedSpreadProps": "error",
         "noEmptyBlock": "warn",
         "noEmptySource": "warn",
         "noEvolvingTypes": "error",
-        "noImportCycles": "warn",
         "noMisplacedAssertion": "warn",
-        "noReactForwardRef": "warn",
         "noUnassignedVariables": "error",
-        "noUnnecessaryConditions": "warn",
+        "noUnknownAttribute": "off",
         "noUnusedExpressions": "warn",
         "noVar": "error",
-        "useArraySortCompare": "error",
         "useAwait": "error",
         "useGuardForIn": "warn",
         "useNumberToFixedDigitsArgument": "warn"
