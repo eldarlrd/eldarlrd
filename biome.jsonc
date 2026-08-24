@@ -102,80 +102,80 @@
         "useWhile": "warn"
       },
       "correctness": {
-        "noNestedComponentDefinitions": "error",
+        "noNestedComponentDefinitions": "error", // React
         "noUndeclaredDependencies": "off",
         "noUnresolvedImports": "off",
         "noUnusedInstantiation": "info",
         "useSingleJsDocAsterisk": "info",
-        "useUniqueElementIds": "off"
+        "useUniqueElementIds": "off" // React
       },
       "nursery": {
-        "noBaseToString": "info",
-        "noComponentHookFactories": "error",
-        "noConditionalExpect": "info",
+        "noBaseToString": "info", // Types
+        "noComponentHookFactories": "error", // React
+        "noConditionalExpect": "info", // Test
         "noDuplicateSelectors": "error", // CSS
         "noEmptyObjectKeys": "error", // JSON
         "noExtendNative": "error",
-        "noFloatingPromises": "info",
-        "noIdenticalTestTitle": "warn",
+        "noFloatingPromises": "info", // Types
+        "noIdenticalTestTitle": "warn", // Test
         "noImpliedEval": "error",
-        "noJsxLeakedDollar": "warn",
-        "noJsxNamespace": "info",
-        "noMisleadingReturnType": "info",
-        "noMisusedPromises": "info",
-        "noReactNativeDeepImports": "error",
-        "noReactNativeLiteralColors": "info",
-        // "noReactNativeRawText": "error", • Conflicts w/ React
-        "noReactStringRefs": "warn",
+        "noJsxLeakedDollar": "warn", // React
+        "noJsxNamespace": "info", // React
+        "noMisleadingReturnType": "info", // Types
+        "noMisusedPromises": "info", // Types
+        "noReactNativeDeepImports": "error", // React Native
+        "noReactNativeLiteralColors": "info", // React Native
+        // "noReactNativeRawText": "error", // React Native • Conflicts w/ React
+        "noReactStringRefs": "warn", // React
         "noRestrictedDependencies": "info",
-        "noSvelteLegacyConst": "info",
-        "noSvelteUnnecessaryStateWrap": "info",
+        "noSvelteLegacyConst": "info", // Svelte
+        "noSvelteUnnecessaryStateWrap": "info", // Svelte
         "noTopLevelLiterals": "error", // JSON
-        "noUndeclaredClasses": "info", // CSS
+        "noUndeclaredClasses": "info", // Project • CSS
         "noUnnecessaryTemplateExpression": "info",
-        "noUnsafePlusOperands": "info",
-        "noUntrustedLicenses": "warn",
-        "noUnusedClasses": "info", // CSS
-        "noUselessTypeConversion": "info",
-        "noVueImportCompilerMacros": "info",
-        "noVueVOnNumberValues": "info",
+        "noUnsafePlusOperands": "info", // Types
+        "noUntrustedLicenses": "warn", // Project
+        "noUnusedClasses": "info", // Project • CSS
+        "noUselessTypeConversion": "info", // Types
+        "noVueImportCompilerMacros": "info", // Vue
+        "noVueVOnNumberValues": "info", // Vue
         "useArraySome": "info",
         "useBaseline": "info", // CSS
-        "useConsistentTestIt": "warn",
-        "useDisposables": "error",
-        "useExhaustiveSwitchCases": "info",
-        "useExpect": "info",
+        "useConsistentTestIt": "warn", // Test
+        "useDisposables": "error", // Types
+        "useExhaustiveSwitchCases": "info", // Types
+        "useExpect": "info", // Test
         "useExplicitReturnType": "error",
         "useIframeSandbox": "warn",
         "useImportsFirst": "warn",
-        "useIncludes": "info",
+        "useIncludes": "info", // Types
         "useMathMinMax": "warn",
         "useNamedLayer": "warn", // CSS
-        "useNullishCoalescing": "warn",
-        "useQwikLoaderLocation": "warn",
-        "useReactAsyncServerFunction": "info",
-        "useReactCompiler": "info",
-        "useReactNativePlatformComponents": "error",
+        "useNullishCoalescing": "warn", // Types
+        "useQwikLoaderLocation": "warn", // Qwik
+        "useReactAsyncServerFunction": "info", // React
+        "useReactCompiler": "info", // React
+        "useReactNativePlatformComponents": "error", // React Native
         "useReduceTypeParameter": "info",
-        "useRegexpExec": "info",
+        "useRegexpExec": "info", // Types
         "useRegexpTest": "warn",
-        // "useScopedStyles": "info", • Conflicts w/ React
+        // "useScopedStyles": "info", // Vue • Conflicts w/ React
         "useSortedClasses": "warn",
-        "useStringStartsEndsWith": "info",
-        "useSvelteRequireEachKey": "info",
-        "useTailwindShorthandClasses": "info", // CSS
-        "useTestHooksInOrder": "warn",
-        "useTestHooksOnTop": "warn",
+        "useStringStartsEndsWith": "info", // Types
+        "useSvelteRequireEachKey": "info", // Svelte
+        "useTailwindShorthandClasses": "info", // Tailwind • CSS
+        "useTestHooksInOrder": "warn", // Test
+        "useTestHooksOnTop": "warn", // Test
         "useThisInClassMethods": "warn",
-        // "noVueRefAsOperand": "error", • Conflicts w/ React
-        "useVueConsistentDefinePropsDeclaration": "info",
-        "useVueNextTickPromise": "info",
-        "useVueValidVFor": "info"
+        // "noVueRefAsOperand": "error", // Vue • Conflicts w/ React
+        "useVueConsistentDefinePropsDeclaration": "info", // Vue
+        "useVueNextTickPromise": "info", // Vue
+        "useVueValidVFor": "info" // Vue
       },
       "performance": {
         "noAwaitInLoops": "info",
         "noBarrelFile": "warn",
-        "noJsxPropsBind": "off",
+        "noJsxPropsBind": "off", // React
         "noNamespaceImport": "warn",
         "noReExportAll": "warn",
         "useTopLevelRegex": "warn"
@@ -228,7 +228,7 @@
         "useCollapsedElseIf": "info",
         "useCollapsedIf": "info",
         "useComponentExportOnlyModules": {
-          "level": "error",
+          "level": "error", // React
           "options": {
             "allowConstantExport": true
           }
@@ -277,7 +277,7 @@
         "noEvolvingTypes": "error",
         "noMisplacedAssertion": "warn",
         "noUnassignedVariables": "error",
-        "noUnknownAttribute": "off",
+        "noUnknownAttribute": "off", // React
         "noUnusedExpressions": "warn",
         "noVar": "error",
         "useAwait": "error",
