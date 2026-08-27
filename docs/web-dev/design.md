@@ -75,6 +75,7 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 - [vanilla-extract](https://vanilla-extract.style) :heavy_check_mark:
 - [Tailwind](https://tailwindcss.com) :heavy_check_mark:
 - [Emotion](https://emotion.sh) :heavy_check_mark:
+- [StyleX](https://stylexjs.com)
 - [Panda](https://panda-css.com)
 
 #### Variants
