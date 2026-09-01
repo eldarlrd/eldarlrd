@@ -143,7 +143,12 @@
         "noVueVOnNumberValues": "info", // Vue
         "useArraySome": "info",
         "useAstroClientOnlyDirectiveValue": "warn", // Astro
-        "useBaseline": "info", // CSS
+        "useBaseline": {
+          "level": "info", // CSS
+          "options": {
+            "available": "newly"
+          }
+        },
         "useConsistentTestIt": "warn", // Test
         "useDisposables": "error", // Types
         "useExhaustiveSwitchCases": "info", // Types
