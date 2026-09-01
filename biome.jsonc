@@ -110,6 +110,7 @@
         "useUniqueElementIds": "off" // React
       },
       "nursery": {
+        "noAstroSetHtmlDirective": "error", // Astro
         "noBaseToString": "info", // Types
         "noComponentHookFactories": "error", // React
         "noConditionalExpect": "info", // Test
@@ -132,6 +133,7 @@
         "noSvelteUnnecessaryStateWrap": "info", // Svelte
         "noTopLevelLiterals": "error", // JSON
         "noUndeclaredClasses": "info", // Project • CSS
+        "noUndeclaredCustomProperties": "error", // Project • CSS
         "noUnnecessaryTemplateExpression": "info",
         "noUnsafePlusOperands": "info", // Types
         "noUntrustedLicenses": "warn", // Project
@@ -140,6 +142,7 @@
         "noVueImportCompilerMacros": "info", // Vue
         "noVueVOnNumberValues": "info", // Vue
         "useArraySome": "info",
+        "useAstroClientOnlyDirectiveValue": "warn", // Astro
         "useBaseline": "info", // CSS
         "useConsistentTestIt": "warn", // Test
         "useDisposables": "error", // Types
@@ -273,6 +276,7 @@
       "suspicious": {
         "noDuplicateDependencies": "error",
         "noEmptyBlock": "warn",
+        "noEmptyBlockStatements": "warn",
         "noEmptySource": "warn",
         "noEvolvingTypes": "error",
         "noMisplacedAssertion": "warn",
