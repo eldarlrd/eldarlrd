@@ -158,6 +158,12 @@
         "useQwikLoaderLocation": "warn", // Qwik
         "useReactAsyncServerFunction": "info", // React
         "useReactCompiler": "info", // React
+        "useReactFunctionComponentDefinition": {
+          "level": "info", // React
+          "options": {
+            "namedComponents": "arrowFunction"
+          }
+        },
         "useReactNativePlatformComponents": "error", // React Native
         "useReduceTypeParameter": "info",
         "useRegexpExec": "info", // Types
