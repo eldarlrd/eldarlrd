@@ -1,5 +1,6 @@
-import { type SidebarsConfig } from '@docusaurus/plugin-content-docs';
+import type { SidebarsConfig } from '@docusaurus/plugin-content-docs';
 
+// biome-ignore lint/style/noDefaultExport: Docusaurus expected
 export default {
   docs: [
     {
@@ -19,4 +20,4 @@ export default {
       type: 'category',
     },
   ],
-} as SidebarsConfig;
+} satisfies SidebarsConfig;
