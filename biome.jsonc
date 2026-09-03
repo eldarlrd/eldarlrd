@@ -269,12 +269,6 @@
         "useFragmentSyntax": "info",
         "useGlobalThis": "warn",
         "useGroupedAccessorPairs": "info",
-        "useImportType": {
-          "level": "warn",
-          "options": {
-            "style": "inlineType"
-          }
-        },
         "useReadonlyClassProperties": {
           "level": "info",
           "options": {
