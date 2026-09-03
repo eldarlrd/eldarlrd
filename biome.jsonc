@@ -193,6 +193,7 @@
       "performance": {
         "noAwaitInLoops": "info",
         "noBarrelFile": "warn",
+        "noDelete": "warn",
         "noJsxPropsBind": "off", // React
         "noNamespaceImport": "warn",
         "noReExportAll": "warn",
