@@ -24,7 +24,9 @@
         "useSortedInterfaceMembers": "on",
         "useSortedKeys": "on",
         "useSortedPackageJson": "on",
-        "useSortedProperties": "on"
+        "useSortedProperties": "on",
+        "useSortedSelectionSet": "on",
+        "useSortedTypeFields": "on"
       }
     }
   },
@@ -86,7 +88,7 @@
     "rules": {
       // Missing • padding-line-between-statements
       "a11y": {
-        "noNoninteractiveElementInteractions": "info"
+        "noNoninteractiveElementInteractions": "error"
       },
       "complexity": {
         "noExcessiveCognitiveComplexity": "info",
