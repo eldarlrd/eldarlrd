@@ -97,6 +97,7 @@
             "skipBlankLines": true
           }
         },
+        "noRedundantDefaultExport": "warn",
         "noUselessReturn": "info",
         "useSimplifiedLogicExpression": "info",
         "useWhile": "warn"
@@ -158,6 +159,7 @@
         "useImportsFirst": "warn",
         "useIncludes": "info", // Types
         "useMathMinMax": "warn",
+        "useNamedCaptureGroup": "info",
         "useNamedLayer": "warn", // CSS
         "useNullishCoalescing": "warn", // Types
         "useQwikLoaderLocation": "warn", // Qwik
@@ -205,6 +207,7 @@
       },
       "style": {
         "noCommonJs": "warn",
+        "noDefaultExport": "warn",
         "noExcessiveClassesPerFile": {
           "level": "info",
           "options": {
