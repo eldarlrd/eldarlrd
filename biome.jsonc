@@ -106,7 +106,6 @@
       },
       "correctness": {
         "noNestedComponentDefinitions": "error", // React
-        "noUndeclaredDependencies": "off",
         "noUnresolvedImports": "off",
         "noUnusedInstantiation": "info",
         "useSingleJsDocAsterisk": "info",
