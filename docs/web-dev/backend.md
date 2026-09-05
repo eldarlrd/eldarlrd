@@ -31,6 +31,9 @@ hide_table_of_contents: true
 - [GraphQL](https://graphql.org)
 - [Relay](https://relay.dev)
 
+#### API Mock
+- [Mock Service Worker](https://mswjs.io)
+
 #### ORM
 - [Drizzle](https://orm.drizzle.team)
 - [Prisma](https://prisma.io)
