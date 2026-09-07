@@ -165,7 +165,7 @@
         "useNullishCoalescing": "warn", // Types
         "useQwikLoaderLocation": "warn", // Qwik
         "useReactAsyncServerFunction": "info", // React
-        "useReactCompiler": "info", // React
+        "useReactCompiler": "warn", // React
         "useReactFunctionComponentDefinition": {
           "level": "info", // React
           "options": {
