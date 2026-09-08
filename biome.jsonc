@@ -131,6 +131,7 @@
         // "noReactNativeRawText": "error", // React Native • Conflicts w/ React
         "noReactStringRefs": "warn", // React
         "noRestrictedDependencies": "info",
+        // "noSvelteAtHtmlTags": "error", // Svelte • Unsupported
         "noSvelteLegacyConst": "info", // Svelte
         "noSvelteUnnecessaryStateWrap": "info", // Svelte
         "noTopLevelLiterals": "error", // JSON
@@ -179,7 +180,7 @@
         // "useScopedStyles": "info", // Vue • Conflicts w/ React
         "useSortedClasses": "warn",
         "useStringStartsEndsWith": "info", // Types
-        "useSvelteRequireEachKey": "info", // Svelte
+        "useSvelteRequireEachKey": "error", // Svelte
         "useTailwindShorthandClasses": "info", // Tailwind • CSS
         "useTestHooksInOrder": "warn", // Test
         "useTestHooksOnTop": "warn", // Test
