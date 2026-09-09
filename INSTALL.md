@@ -1,7 +1,7 @@
-# Docs & Blog | eldarlrd
+# Docs & Blog • eldarlrd
 [![Version](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/eldarlrd/eldarlrd/main/package.json&query=version&logo=git-extensions&label=version&labelColor=475569&color=0284c7)](https://github.com/eldarlrd/eldarlrd/blob/main/package.json)
 
-> Docs & Blog | eldarlrd is a website built with
+> Docs & Blog • eldarlrd is a website built with
 > - **[Docusaurus](https://docusaurus.io)**
 > - **[TypeScript](https://typescriptlang.org)**
 > - **[React](https://react.dev)**
