@@ -39,7 +39,7 @@ export default {
       tagName: 'meta',
       attributes: {
         name: 'author',
-        content: 'Eldar Pashazade'
+        content: 'Eldar Paşazadə'
       }
     },
     {

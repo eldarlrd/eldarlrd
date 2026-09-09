@@ -10,7 +10,7 @@
   "description": "eldarlrd's docs & blog",
   "repository": "github:eldarlrd/eldarlrd",
   "homepage": "https://eldarlrd.is-a.dev/eldarlrd",
-  "author": "Eldar Pashazade <eldarlrd@pm.me> (https://eldarlrd.is-a.dev)",
+  "author": "Eldar Paşazadə <eldarlrd@pm.me> (https://eldarlrd.is-a.dev)",
   "scripts": {
     "dev": "docusaurus start",
     "bundle": "docusaurus build && cp 404.html build",

@@ -1,6 +1,6 @@
 ---
 authors:
-  name: Eldar Pashazade
+  name: Eldar Paşazadə
   title: Frontend Developer
   url: https://eldarlrd.is-a.dev
   image_url: https://github.com/eldarlrd.png
