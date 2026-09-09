@@ -19,7 +19,7 @@
 bun i
 ```
 ## Develop
-### Start Env
+### Run Env
 ```sh
 bun dev
 ```
@@ -27,7 +27,7 @@ bun dev
 ```sh
 bun bundle
 ```
-### Preview Prod Build
+### Serve Prod Build
 ```sh
 bun serve
 ```
@@ -40,7 +40,7 @@ bun fix
 ```sh
 bun orphans
 ```
-## Deployment
+## Deploy
 ```sh
 bun deployer
 ```
