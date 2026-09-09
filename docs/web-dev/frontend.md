@@ -92,7 +92,7 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - [TanStack Hotkeys](https://tanstack.com/hotkeys)
 
 #### Tooltips
-- [Tippy.js](https://atomiks.github.io/tippyjs)
+- [Tippy.js](https://atomiks.github.io/tippyjs) :heavy_check_mark:
 
 #### Documentation
 - [Docusaurus](https://docusaurus.io) :heavy_check_mark:
