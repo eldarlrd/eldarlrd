@@ -47,13 +47,13 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 #### Tools
 - [SVGO](https://svgo.dev) :heavy_check_mark:
 
-#### Workshop
+### Workshop
 - [Storybook](https://storybook.js.org)
 
 #### Color Space
 - [OKLCH](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/oklch) :heavy_check_mark:
 
-### Palette Generator
+#### Palette Generator
 - [Eva Design System](https://colors.eva.design) :heavy_check_mark:
 - [Palette App](https://bairesdev.com/tools/color-palette-app/editor) :heavy_check_mark:
 - [ColorBox](https://colorbox.io) :heavy_check_mark:

@@ -66,13 +66,13 @@ image: https://static2.makeuseofimages.com/wordpress/wp-content/uploads/2016/09/
 #### API Fetch
 - [Axios](https://axios-http.com) :heavy_check_mark:
 
-#### Libraries
+### Libraries
 - [jQuery](https://jquery.com) :heavy_check_mark:
 - [Underscore](https://underscorejs.org)
 - [Radash](https://radash-docs.vercel.app)
 - [Ramda](https://ramdajs.com)
 
-### Testing
+#### Testing
 - [Jest](https://jestjs.io) :heavy_check_mark:
 - [Vitest](https://vitest.dev) :heavy_check_mark:
 - [Puppeteer](https://pptr.dev) :heavy_check_mark:

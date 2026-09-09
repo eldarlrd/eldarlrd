@@ -91,6 +91,9 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 #### Keyboard
 - [TanStack Hotkeys](https://tanstack.com/hotkeys)
 
+#### Tooltips
+- [Tippy.js](https://atomiks.github.io/tippyjs)
+
 #### Documentation
 - [Docusaurus](https://docusaurus.io) :heavy_check_mark:
 - [VitePress](https://vitepress.dev)
@@ -104,11 +107,11 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - [DOMPurify](https://cure53.de/purify)
 
 #### Framework
+- [Svelte](https://svelte.dev) :heavy_check_mark:
 - [Preact](https://preactjs.com) :heavy_check_mark:
 - [Mithril](https://mithril.js.org) :heavy_check_mark:
-- [Lit](https://lit.dev) :heavy_check_mark:
 - [Riot](https://riot.js.org) :heavy_check_mark:
-- [Svelte](https://svelte.dev)
+- [Lit](https://lit.dev) :heavy_check_mark:
 - [Ember](https://emberjs.com)
 - [Qwik](https://qwik.builder.io)
 - [Hono](https://hono.dev)
@@ -159,8 +162,6 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - #### PDF
   - [ReactToPrint](https://github.com/MatthewHerbst/react-to-print) :heavy_check_mark:
   - [React-pdf](https://react-pdf.org)
-- #### 3D
-  - [React Three Fiber](https://docs.pmnd.rs/react-three-fiber)
 - #### Framework
   - [Next.js](https://nextjs.org) :heavy_check_mark:
   - [Vike](https://vike.dev)
@@ -168,12 +169,10 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
   - [RedwoodSDK](https://rwsdk.com)
   - [Fresh](https://fresh.deno.dev) (Preact)
 
-#### Vue
-- [Learn Vue](https://vuejs.org/tutorial)
-- #### State Management
-  - [Pinia](https://pinia.vuejs.org)
+#### Svelte
+- [Learn Svelte](https://svelte.dev/tutorial) :heavy_check_mark:
 - #### Framework
-  - [Nuxt](https://nuxt.com)
+  - [SvelteKit](https://svelte.dev/docs/kit)
 
 #### Angular
 - [Learn Angular](https://angular.dev/tutorials/learn-angular)
@@ -183,6 +182,13 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
   - [RxJS](https://rxjs.dev)
 - #### Database
   - [RxDB](https://rxdb.info)
+
+#### Vue
+- [Learn Vue](https://vuejs.org/tutorial)
+- #### State Management
+  - [Pinia](https://pinia.vuejs.org)
+- #### Framework
+  - [Nuxt](https://nuxt.com)
 
 #### Solid
 - [Learn Solid](https://solidjs.com/tutorial) :heavy_check_mark:
