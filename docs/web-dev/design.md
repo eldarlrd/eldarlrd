@@ -102,6 +102,7 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 - #### React
   - [Chakra UI](https://chakra-ui.com) :heavy_check_mark:
   - [HeroUI](https://heroui.org) :heavy_check_mark:
+  - [Base UI](https://base-ui.com)
   - [Fluent UI](https://react.fluentui.dev)
   - [Material UI](https://mui.com)
   - [Ant Design](https://ant.design)
