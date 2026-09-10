@@ -131,7 +131,7 @@
         // "noReactNativeRawText": "error", // React Native • Conflicts w/ React
         "noReactStringRefs": "warn", // React
         "noRestrictedDependencies": "info",
-        // "noSvelteAtHtmlTags": "error", // Svelte • Unsupported
+        "noSvelteAtHtmlTags": "error", // Svelte
         "noSvelteLegacyConst": "info", // Svelte
         "noSvelteUnnecessaryStateWrap": "info", // Svelte
         "noTopLevelLiterals": "error", // JSON
@@ -144,6 +144,7 @@
         "noUselessTypeConversion": "info", // Types
         "noVueImportCompilerMacros": "info", // Vue
         "noVueVOnNumberValues": "info", // Vue
+        "noXorAsExponentiation": "warn",
         "useArraySome": "info",
         "useAstroClientOnlyDirectiveValue": "warn", // Astro
         "useBaseline": {
@@ -152,6 +153,7 @@
             "available": "newly"
           }
         },
+        "useBetterDomTraversing": "info", // HTML
         "useConsistentTestIt": "warn", // Test
         "useDisposables": "error", // Types
         "useExhaustiveSwitchCases": "info", // Types
