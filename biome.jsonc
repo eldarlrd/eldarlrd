@@ -131,11 +131,11 @@
         // "noReactNativeRawText": "error", // React Native • Conflicts w/ React
         "noReactStringRefs": "warn", // React
         "noRestrictedDependencies": "info",
+        "noReturnInFinally": "error",
         "noSvelteAtHtmlTags": "error", // Svelte
         "noSvelteLegacyConst": "info", // Svelte
         "noSvelteUnnecessaryStateWrap": "info", // Svelte
         "noTopLevelLiterals": "error", // JSON
-        "noUndeclaredClasses": "info", // Project • CSS
         "noUndeclaredCustomProperties": "error", // Project • CSS
         "noUnnecessaryTemplateExpression": "info",
         "noUnsafePlusOperands": "info", // Types
@@ -156,7 +156,7 @@
         "useBetterDomTraversing": "info", // HTML
         "useConsistentTestIt": "warn", // Test
         "useDisposables": "error", // Types
-        "useExhaustiveSwitchCases": "info", // Types
+        "useExhaustiveSwitchCases": "warn", // Types
         "useExpect": "info", // Test
         "useExplicitReturnType": "error",
         "useIframeSandbox": "warn",
@@ -187,6 +187,7 @@
         "useTestHooksInOrder": "warn", // Test
         "useTestHooksOnTop": "warn", // Test
         "useThisInClassMethods": "warn",
+        "useValidTestTitle": "warn", // Test
         // "noVueRefAsOperand": "error", // Vue • Conflicts w/ React
         "useVueConsistentDefinePropsDeclaration": "info", // Vue
         "useVueNextTickPromise": "info", // Vue

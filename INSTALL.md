@@ -19,7 +19,7 @@
 bun i
 ```
 ## Develop
-### Run Env
+### Start Env
 ```sh
 bun dev
 ```

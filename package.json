@@ -34,10 +34,10 @@
     "prism-react-renderer": "^2.4.1",
     "react": "^19.3.0",
     "react-dom": "^19.3.0",
-    "sass": "^1.104.0"
+    "sass": "^1.104.1"
   },
   "devDependencies": {
-    "@biomejs/biome": "^2.5.13",
+    "@biomejs/biome": "^2.5.14",
     "@commitlint/cli": "^21.2.2",
     "@commitlint/config-conventional": "^21.2.2",
     "@docusaurus/module-type-aliases": "^3.10.2",
@@ -47,7 +47,7 @@
     "@types/react": "^19.3.0",
     "gh-pages": "^6.3.0",
     "knip": "^6.35.1",
-    "lefthook": "^2.1.12",
+    "lefthook": "^2.1.14",
     "typescript": "^7.0.2"
   },
   "babel": {

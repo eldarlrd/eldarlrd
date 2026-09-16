@@ -34,6 +34,7 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 - [Heroicons](https://heroicons.com) :heavy_check_mark:
 - [Simple Icons](https://simpleicons.org) :heavy_check_mark:
 - [Phosphor Icons](https://phosphoricons.com) :heavy_check_mark:
+- [Pixelarticons](https://pixelarticons.com) :heavy_check_mark:
 - #### React
   - [React Icons](https://react-icons.github.io/react-icons) :heavy_check_mark:
 - #### Angular
@@ -107,6 +108,7 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
   - [Material UI](https://mui.com)
   - [Ant Design](https://ant.design)
   - [Mantine](https://mantine.dev)
+  - [Pxlkit](https://pxlkit.xyz)
   - [Radix](https://radix-ui.com)
   - [PrimeReact](https://primereact.org)
   - [shadcn/ui](https://ui.shadcn.com)
