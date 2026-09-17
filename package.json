@@ -46,7 +46,7 @@
     "@types/bun": "^1.4.2",
     "@types/react": "^19.3.0",
     "gh-pages": "^6.3.0",
-    "knip": "^6.35.1",
+    "knip": "^6.36.0",
     "lefthook": "^2.1.14",
     "typescript": "^7.0.2"
   },
