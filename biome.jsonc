@@ -139,7 +139,6 @@
         "noUnnecessaryTemplateExpression": "info",
         "noUnsafePlusOperands": "info", // Types
         "noUntrustedLicenses": "warn", // Project
-        "noUnusedClasses": "info", // Project • CSS
         "noUselessTypeConversion": "info", // Types
         "noVueImportCompilerMacros": "info", // Vue
         "noVueVOnNumberValues": "info", // Vue
