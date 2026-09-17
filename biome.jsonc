@@ -136,7 +136,6 @@
         "noSvelteLegacyConst": "info", // Svelte
         "noSvelteUnnecessaryStateWrap": "info", // Svelte
         "noTopLevelLiterals": "error", // JSON
-        "noUndeclaredCustomProperties": "error", // Project • CSS
         "noUnnecessaryTemplateExpression": "info",
         "noUnsafePlusOperands": "info", // Types
         "noUntrustedLicenses": "warn", // Project
