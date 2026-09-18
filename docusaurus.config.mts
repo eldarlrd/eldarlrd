@@ -64,7 +64,7 @@ export default {
           routeBasePath: '/'
         },
         blog: {
-          blogTitle: '💡 Blog',
+          blogTitle: '📒 Blog',
           onInlineAuthors: 'ignore'
         },
         theme: {
@@ -101,12 +101,12 @@ export default {
       items: [
         {
           to: 'web-dev',
-          label: '📜 Docs',
+          label: '📑 Docs',
           position: 'left'
         },
         {
           to: 'blog',
-          label: '💡 Blog',
+          label: '📒 Blog',
           position: 'left'
         },
         {
@@ -163,7 +163,7 @@ export default {
           ]
         },
         {
-          title: '💡 Blog',
+          title: '📒 Blog',
           items: [
             {
               label: '🧠 Cognitive Complexity',
