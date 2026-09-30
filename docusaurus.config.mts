@@ -166,6 +166,10 @@ export default {
           title: '📒 Blog',
           items: [
             {
+              label: '🪨 SOLID',
+              to: 'blog/2026/09/30/solid'
+            },
+            {
               label: '🧠 Cognitive Complexity',
               to: 'blog/2025/11/25/cognitive-complexity'
             },
