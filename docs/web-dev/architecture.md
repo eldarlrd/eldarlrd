@@ -137,9 +137,10 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 - #### Fake
   - [JSONPlaceholder](https://jsonplaceholder.typicode.com) :heavy_check_mark:
   - [Fake Store](https://fakestoreapi.com)
+  - [DummyJSON](https://dummyjson.com)
 - #### Mixed
   - [API Ninjas](https://api-ninjas.com) :heavy_check_mark:
-  - [DummyJSON](https://dummyjson.com)
+  - [OpenData](https://opendata.az)
 - #### Weather
   - [OpenWeather](https://openweathermap.org/api) :heavy_check_mark:
   - [fCC Weather](https://weather-proxy.freecodecamp.rocks) :heavy_check_mark:

@@ -14,8 +14,7 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 - [SMACSS](https://smacss.com) :heavy_check_mark:
 
 #### Helpers
-- [Labels](https://refactoringui.com/previews/labels-are-a-last-resort) :heavy_check_mark:
-- [Color Palette](https://refactoringui.com/previews/building-your-color-palette) :heavy_check_mark:
+- [Refactoring UI](https://online.fliphtml5.com/uejlb/wnsd) :heavy_check_mark:
 - [Chaos in Tailwind](https://evilmartians.com/chronicles/5-best-practices-for-preventing-chaos-in-tailwind-css) :heavy_check_mark:
 
 #### Code Style
