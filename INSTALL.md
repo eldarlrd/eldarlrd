@@ -23,10 +23,6 @@ bun i
 ```sh
 bun dev
 ```
-### Prod Build
-```sh
-bun bundle
-```
 ### Serve Prod Build
 ```sh
 bun serve
