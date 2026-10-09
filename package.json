@@ -15,7 +15,7 @@
     "dev": "docusaurus start",
     "bundle": "docusaurus build && cp 404.html build",
     "serve": "bun bundle && docusaurus serve",
-    "deployer": "bun bundle && gh-pages -b prod -m 'build(prod): deployment' -d build",
+    "ship": "bun bundle && gh-pages -b prod -m 'build(prod): shipment' -d build",
     "fix": "biome check --fix --unsafe --no-errors-on-unmatched --reporter=concise",
     "orphans": "knip-bun --cache --no-exit-code"
   },
