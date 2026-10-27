@@ -180,7 +180,6 @@
         "useTailwindShorthandClasses": "info", // Tailwind • CSS
         // "useScopedStyles": "info", // Vue • Conflicts w/ React
         "useTailwindSortedClasses": "warn", // Tailwind • CSS
-        "useTailwindStaticClassStrings": "info", // Tailwind • CSS
         "useValidTestTitle": "warn" // Test
         // "noVueRefAsOperand": "error" // Vue • Conflicts w/ React
       },
