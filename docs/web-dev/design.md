@@ -95,7 +95,6 @@ image: https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Desig
 - [Bootstrap](https://getbootstrap.com) :heavy_check_mark:
 - [Skeleton](https://skeleton.dev) :heavy_check_mark:
 - [daisyUI](https://daisyui.com)
-- [Park UI](https://park-ui.com)
 - [Headless UI](https://headlessui.com)
 - [Stencil](https://stenciljs.com)
 - #### React
