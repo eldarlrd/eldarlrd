@@ -114,6 +114,7 @@ image: https://weavertech.us/wp-content/uploads/2023/05/Comparing-Amazon-AWS-Goo
 - [Firebase](https://firebase.google.com) :heavy_check_mark:
 - [Supabase](https://supabase.com)
 - [Appwrite](https://appwrite.io)
+- [OVHcloud](https://ovhcloud.com)
 - [Netlify](https://netlify.com)
 - [Coolify](https://coolify.io)
 - [Hetzner](https://hetzner.com)
