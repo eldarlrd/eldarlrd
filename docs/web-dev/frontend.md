@@ -111,10 +111,10 @@ image: https://cdn-media-1.freecodecamp.org/images/1*PNlbgb05IwSxOhAz0aA2rg.png
 - [Preact](https://preactjs.com) :heavy_check_mark:
 - [Mithril](https://mithril.js.org) :heavy_check_mark:
 - [Riot](https://riot.js.org) :heavy_check_mark:
+- [Hono](https://hono.dev) :heavy_check_mark:
 - [Lit](https://lit.dev) :heavy_check_mark:
 - [Ember](https://emberjs.com)
 - [Qwik](https://qwik.builder.io)
-- [Hono](https://hono.dev)
 - [Nue](https://nuejs.org)
 - [Elysia](https://elysiajs.com)
 - [Alpine](https://alpinejs.dev)
